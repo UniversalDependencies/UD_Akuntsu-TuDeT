@@ -1,0 +1,201 @@
+
+# document_source = Fieldwork's note - Carolina C. Aragon
+# document_title = Getting honey (2018) -  discourse 
+# document_authorship = Annotated by Carolina C. Aragon
+# document_reference = Akuntsú_2
+# document description = The day that they went to get honey with Txiramanty
+
+# sent_ID = 1
+# text = ekwita ko eno oiat Txiramanty po ekwita topkora kojõpi ipa nom en nom ekwit pe 
+# text_eng = I ate honey there, my cautch (thing). Txiramanty’s hand looked for honey. At night, returned. You didn’t, you didn’t go to honey’s path.
+# 
+1	ekwita	ekwit	NOUN	_	_	2	obj	_	_
+2	ko	ko	VERB	_	_	0	root	_	_
+3	eno	eno	ADV	_	_	2	advmod	_	_
+4	oiat	at	NOUN	_	_	1	appos	_	_
+5	Txiramanty	Txiramanty	 NOUN	_	_	6	nmod	_	_
+6	po	po	NOUN	_	_	8	nsubj	_	_
+7	ekwita	ekwit	NOUN	_	_	8	obj	_	_
+8	topkora	topkora	VERB	_	_	_	_	_	_
+9	kojõpi	kojõpi	ADV	_	_	10	advmod	_	_
+10	ipa	ip	VERB	_	_	_	_	_	_
+11	nom	nom	ADV	_	_	_	_	_	_
+12	en	en	PRON	_	_	11	dep	_	_
+13	nom	nom	ADV	_	_	12	discourse	_	_
+14	ekwit	ekwit	NOUN	_	_	15	nmod	_	_
+15	pe	pe	NOUN	_	_	12	obl	_	_
+
+# sent_ID = 2
+# text = ato kobore pe mã ãka jõma ape akaratʃe ãka eot pɨta pen te ten txiramanty ibãn ibarã ten txiramanty ibarãka
+# text_eng = bee (sp.), hunting’s path, that way, a thick bark, Tucumã tree (sp.), that way,(she) punctured its belly, openning. It was hard. Txiramanty pushed, it broke. Txiramanty broke it.    
+
+1	ato	ato	NOUN	_	_	_	_	_	_
+2	kobore	kobore	NOUN	_	_	3	nmod	3:nmod	_
+3	pe	pe	NOUN	_	_	1	case	1:case	_
+4	mã	mã	PART	_	_	1	aux	1:aux	_
+5	ãka	ãka	PART	_	_	_	_	_	_
+6	jõma	jõma	NOUN	_	_	7	nmod	7:nmod	_
+7	ape	ape	NOUN	_	_	5	discourse	5:discourse	_
+8	akaratʃe	akaratʃe	NOUN	_	_	_	_	_	_
+9	ãka	ãka	PART	_	_	_	_	_	_
+10	eot	eo	NOUN	_	_	11	_	11	_
+11	pɨta	pɨt	VERB	_	_	9	discourse	9:discourse	_
+12	pen	pen	VERB	_	_	11	parataxis	11:parataxis	_
+13	te	te	PRON	_	_	16	nsubj	16:nsubj	_
+14	ten	ten	NOUN	_	_	16	advmod	16:advmod	_
+15	txiramanty	xiramanty	NOUN	_	_	16	nsubj	16:nsubj	_
+16	ibãn	bãn	VERB	_	_	_	_	_	_
+17	ibarã	bãn	VERB	_	_	16	discourse	16:discourse	_
+18	ten	ten	NOUN	_	_	16	advmod	16:advmod	_
+19	txiramanty	txiramanty	NOUN	_	_	20	nsubj	20:nsubj	_
+20	ibarãka	bãn	VERB	_	_	_	_	_	_
+
+
+# sent_ID = 3
+# text = toto ikiramkwa tekwa weren ato awawaʧo awawaʧo pen baj awawaʧo pen baj
+# text_eng = Grandmother poured out it, canudo bee (sp.) ended up. There were many baby bees, opened it, cleaned it.
+
+1	toto	toto	NOUN	_	_	2	nsubj	2:nsubj	_
+2	ikiramkwa	kiram	VERB	_	_	0	root	0:root	_
+3	te	te	PART	_	_	2	discourse	2:discourse	_
+4	kwa	kwa	_	_	_	2	discourse	2:discourse	_
+5	weren	wen	VERB	_	_	2	parataxis	2:parataxis	_
+6	,	,	PUNCT	_	_	2	punct	2:punct	_
+7	ato	ato	NOUN	_	_	8	nmod	8:nmod	_
+8	awawaʧo	awaw	NOUN	_	_	_	_	_	_
+9	awawaʧo	awaw	NOUN	_	_	8	discourse	8:discourse	_
+10	,	,	PUNCT	_	_	2	punct	2:punct	_
+11	pen	pen	VERB	_	_	2	dep	2:dep	_
+12	baj	baj	VERB	_	_	2	dep	2:dep	_
+13	awawaʧo	awaw	NOUN	_	_	_	_	_	_
+14	pen	pen	VERB	_	_	_	_	_	_
+15	baj	baj	VERB	_	_	_	_	_	_
+
+# document_title = Stone (2007) -  discourse 
+# document_authorship = Annotated by Carolina C. Aragon
+# document_reference = Akuntsú_2
+# document description = The stone hit the foot.
+
+# sent_ID = 1
+# text = kwai put ahh mãpara, kwai te epi õpa. en kwai ʧe put mãpara. ahaha iwej iwej mãpa, epi piro pi õba, put mãpara. ikɨp ãka put. ikɨp pɨtka piri put mãpara 
+# text_eng = The stone hit it. It is over. The stone hit your foot. You went to the stone and hit it. It is over. It hurt. It is over. Your foot, hit the foot. It is over. Her leg, that way, hit it. Her leg pierced because of the foot. It is over.
+
+1	kwai	_	NOUN	_	_	2	obj	2:obj	_
+2	put	_	VERB	_	_	0	root	0:root	_
+3	ahh	_	INTJ	_	_	2	discourse	2:discourse	_
+4	mãpara	_	VERB	_	_	2	parataxis	2:parataxis	_
+5	,	_	PUNCT	_	_	2	punct	2:punct	_
+6	kwai	_	NOUN	_	_	10	nsubj	10:nsubj	_
+7	te	_	PART	_	_	6	discourse	6:discourse	_
+8-9	epi	_	_	_	_	_	_	_	_
+8	e	e	PRON	_	_	9	nmod	9:nmod	_
+9	pi	pi	NOUN	_	_	10	obj	10:obj	_
+10	õpa	õpa	VERB	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	10	punct	10:punct	_
+12	en	en	PRON	_	_	14	nsubj	14:nsubj	_
+13	kwai	kwai	NOUN	_	_	14	obj	14:obj	_
+14	ʧe	ʧe	VERB	_	_	_	_	_	_
+15	put	put	VERB	_	_	14	parataxis	14:parataxis	_
+16	mãpara	mãpara	VERB	_	_	14	parataxis	14:parataxis	_
+17	.	_	PUNCT	_	_	_	_	_	_
+18	ahaha	_	_	_	_	_	_	_	_
+19	iwej	_	_	_	_	_	_	_	_
+20	iwej	_	_	_	_	_	_	_	_
+21	mãpa	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23-24	epi	_	_	_	_	_	_	_	_
+23	e	e	_	_	_	_	_	_	_
+24	pi	pi	_	_	_	_	_	_	_
+25	piro	_	_	_	_	_	_	_	_
+26	pi	_	_	_	_	_	_	_	_
+27	õba	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	put	_	_	_	_	_	_	_	_
+30	mãpara	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+32-33	ikɨp	_	_	_	_	_	_	_	_
+32	i	i	_	_	_	_	_	_	_
+33	kɨp	kɨp	_	_	_	_	_	_	_
+34	ãka	_	_	_	_	_	_	_	_
+35	put	_	_	_	_	_	_	_	_
+36	.	_	_	_	_	_	_	_	_
+37-38	ikɨp	_	_	_	_	_	_	_	_
+37	i	i	_	_	_	_	_	_	_
+38	kɨp	kɨp	_	_	_	_	_	_	_
+39	pɨtka	_	_	_	_	_	_	_	_
+40	piri	_	_	_	_	_	_	_	_
+41	put	_	_	_	_	_	_	_	_
+42	mãpara	_	_	_	_	_	_	_	_
+
+# document_title = The tapir (2007) -  discourse 
+# document_authorship = Annotated by Carolina C. Aragon
+# document_reference = Akuntsú_2
+# document description = Describing how they found the tapir.
+
+# sent_ID = 2
+# text = ɨeko itʃe ɨkwaj pe. ɨkwaj uuu ameko ikora ameko ika. Pupak kwe mia mia Pupak te ten te ipa. ɨeko uuu ameko iko eta mã ameko iko eta. ẽẽ ɨkɨtin ĩa tʃe mã ipap tʃe nɨrã uuuu. kɨbapi nobõ atʃiri te pɨt tʃu uuuu buh kooo kɨj kɨj Pupak maj tʃe pɨtekwa. iab atkwa pe pe no tʃe mã ɨkɨtin no at itʃe mã 
+# text_eng = The vulture was on the way of tapir. The tapir uuu the jaguar ate it as usually; the jaguar ate it. Pupák hunts for game meat. Pupák is strong. He returns and the vulture uuu. The jaguar’s food sleeps, for sure.There at the stream, comes smelling, comes to die, it stands uuuu. In the other woods, due to the pain, he sticks it, tchuu, uuu, it fells, catches it.Pupák come to say: "Sticks continuously". Catches its fat. (In) The other path comes, the other stream, comes to get it.
+
+1	ɨeko	ɨeko	NOUN	_	_	_	_	_	_
+2	itʃe	tʃe	AUX	_	_	_	_	_	_
+3	ɨkwaj	ɨkwaj	NOUN	_	_	_	_	_	_
+4	pe	pe	NOUN	_	_	_	_	_	_
+5	ɨkwaj	ɨkwaj	NOUN	_	_	_	_	_	_
+6	uuu	u	INTJ	_	_	_	_	_	_
+7	ameko	ameko	NOUN	_	_	_	_	_	_
+8	ikora	kot	VERB	_	_	_	_	_	_
+9	ameko	ameko	NOUN	_	_	_	_	_	_
+10	ikoa	ko	VERB	_	_	_	_	_	_
+11	Pupak	Pupak	NOUN	_	_	_	_	_	_
+12	kwe	kwe	NOUN	_	_	_	_	_	_
+13	mia	mi	VERB	_	_	_	_	_	_
+14	mia	mi	VERB	_	_	_	_	_	_
+15	Pupak	Pupak	NOUN	_	_	_	_	_	_
+16	te	te	PRON	_	_	_	_	_	_
+17	ten	ten	NOUN	_	_	_	_	_	_
+18	teipa	ip	VERB	_	_	_	_	_	_
+19	ɨeko	ɨeko	NOUN	_	_	_	_	_	_
+20	uuu	uuu	INTJ	_	_	_	_	_	_
+21	ameko	ameko	NOUN	_	_	_	_	_	_
+22	iko	ko	NOUN	_	_	_	_	_	_
+23	eta	et	VERB	_	_	_	_	_	_
+24	mã	mã	PART	_	_	_	_	_	_
+25	ameko	ameko	NOUN	_	_	_	_	_	_
+26	iko	ko	NOUN	_	_	_	_	_	_
+27	eta	et	VERB	_	_	_	_	_	_
+28	ẽẽ	ẽ	inter	_	_	_	_	_	_
+29	ɨkɨtin	ɨkɨ	NOUN	_	_	_	_	_	_
+30	ĩa	ĩ	VERB	_	_	_	_	_	_
+31	tʃe	tʃe	AUX	_	_	_	_	_	_
+32	mã	mã	PART	_	_	_	_	_	_
+33	ipap	pap	VERB	_	_	_	_	_	_
+34	tʃe	tʃe	AUX	_	_	_	_	_	_
+35	nɨrã	nɨrã	VERB	_	_	_	_	_	_
+36	uuuu	u	INTJ	_	_	_	_	_	_
+37	kɨbapi	kɨbapi	NOUN	_	_	_	_	_	_
+38	nobõ	no	PRON	_	_	_	_	_	_
+39	atʃiri	atʃi	NOUN	_	_	_	_	_	_
+40	te	te	PRON	_	_	_	_	_	_
+41	pɨt	pɨt	VERB	_	_	_	_	_	_
+42	tʃu	tʃu	INTJ	_	_	_	_	_	_
+43	uuuu	u	INTJ	_	_	_	_	_	_
+44	buh	buh	VERB	_	_	_	_	_	_
+45	kooo	ko	INTJ	_	_	_	_	_	_
+46	kɨj	kɨj	VERB	_	_	_	_	_	_
+47	kɨj	kɨj	VERB	_	_	_	_	_	_
+48	Pupak	Pupak	NOUN	_	_	_	_	_	_
+49	maj	maj	VERB	_	_	_	_	_	_
+50	tʃe	tʃe	AUX	_	_	_	_	_	_
+51	pɨtekwa	pɨt	VERB	_	_	_	_	_	_
+52	iab	ab	NOUN	_	_	_	_	_	_
+53	atkwa	at	VERB	_	_	_	_	_	_
+54	pe	pe	NOUN	_	_	_	_	_	_
+55	pe	pe	NOUN	_	_	_	_	_	_
+56	no	no	PRON	_	_	_	_	_	_
+57	tʃe	tʃe	AUX	_	_	_	_	_	_
+58	mã	mã	PART	_	_	_	_	_	_
+59	ɨkɨtin	ɨkɨ	NOUN	_	_	_	_	_	_
+60	no	no	PRON	_	_	_	_	_	_
+61	at	at	VERB	_	_	_	_	_	_
+62	itʃe	tʃe	AUX	_	_	_	_	_	_
+63	mã	mã	PART	_	_	_	_	_	_
