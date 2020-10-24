@@ -1,11 +1,10 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+UD_Akuntsu-TuDeT is a collection of annotated texts in Akuntsú. Together with [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT) and UD_Munduruku-TuDeT, UD_Akuntsu-TuDeT is part of the [TuLaR](https://tular.org) project. 
 
 # Introduction
 
-...
+UD_Akuntsu-TuDeT is a collection of annotated texts in Akuntsú. Together with [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT) and UD_Munduruku-TuDeT, UD_Akuntsu-TuDeT is part of the [TuLaR](https://tular.org) project.  The sentences are being annotated by Fabrício Ferraz Gerardi and Carolina Aragon.
 
 
 # Acknowledgments
@@ -14,7 +13,8 @@
 
 ## References
 
-* (citation)
+* Aragon, Carolina (20??) *Akuntsu*.   
+* Aragon, 
 
 
 # Changelog
