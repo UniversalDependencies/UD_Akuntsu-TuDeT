@@ -139,7 +139,7 @@
 1	kitʃetara	tʃet	VERB	v	Aspect=Hab|Clusivity[subj]=In|Mood=Ind|Person[subj]=1|VerbForm=Fin	0	root	0:root	_
 2	kom	kom	PART	part	pcl	1	advmod	1:advmod	_
 
-# sent_id = 6 3.21
+# sent_id = 6
 # text = Tʃaruj kɨjtpit õa te Kanibõ
 # text_port = Tʃaruj gave fish to Kani  3.21
 1	Tʃaruj	Tʃaruj	PROPN	ppn	_	3	nsubj	3:nsubj	_
