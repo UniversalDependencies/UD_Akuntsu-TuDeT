@@ -136,7 +136,7 @@
 # sent_id = 20
 # text = kitʃetara kom
 # text_port = We will leave (as usual)  3.19
-1	kitʃetara	tʃet	VERB	v	Aspect=Hab|Clusivity[subj]=In|Mood=Ind|Person[subj]=1|VerbForm=Fin	0	root	0:root	_
+1	kitʃetara	tʃet	VERB	v	Aspect=Hab|Clusivity=In|Mood=Ind|Person=1|VerbForm=Fin	0	root	0:root	_
 2	kom	kom	PART	part	pcl	1	advmod	1:advmod	_
 
 # sent_id = 21
