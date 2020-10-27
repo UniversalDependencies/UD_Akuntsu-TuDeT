@@ -203,7 +203,7 @@
 # sent_id = 29
 # text = Kɨte babape at
 # text_port = Take one glass! 4.84b
-1	kɨte	kɨte	NUM	num	_	2	nummod	2:nummod	_
+1	Kɨte	kɨte	NUM	num	_	2	nummod	2:nummod	_
 2	babape	babape	NOUN	n	_	3	obj	3:obj	_
 3	at	at	VERB	v	_	0	root	0:root	_
 
@@ -218,7 +218,7 @@
 # text = te ti pururu aj ɨmɨmere etʃe
 # text_eng = His own mother came and stayed around the Omere  25 3.36
 1-2	teti	_	_	_	_	_	_	_	_
-1	te	te	PRON	pro	PronType=Prs|Reflex=yes	2	nmod	2:nmod	_
+1	te	te	PRON	pro	PronType=Prs|Reflex=Yes	2	nmod	2:nmod	_
 2	ti	ti	NOUN	n	_	3	nsubj	3:nsubj	_
 3	pururu	puru	VERB	ide	_	0	root	0:root	_
 4	aj	aj	VERB	vi	_	3	parataxis	3:parataxis	_
