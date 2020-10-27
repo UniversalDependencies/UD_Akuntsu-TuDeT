@@ -9,7 +9,7 @@
 3	jẽ	jẽ	DET	_	_	2	nsubj	2:nsubj	_
 
 # sent_id = 2
-# text = paɾa tep tʃopa jẽ
+# text = apaɾa tep tʃopa jẽ
 # text_port = This one sees banana's leaf  3.10b
 1	apara	_	NOUN	_	_	2	nmod	2:nmod	_
 2	tep	_	NOUN	_	_	3	obj	3:obj	_
