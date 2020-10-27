@@ -85,14 +85,14 @@
 # sent_id = 13
 # text = Pi maã en
 # text_port =  4.47a
-1	pi	pi	NOUN	n	_	2	obj	2:obj	_
+1	Pi	pi	NOUN	n	_	2	obj	2:obj	_
 2	maã	maã	VERB	v	_	0	root	0:root	_
 3	en	en	PRON	pro	_	2	nsubj	2:nsubj	_
 
 # sent_id = 14
 # text = Kɨte babape at
 # text_port = Take one glass!  4.84b
-1	kɨte	kɨte	NUM	num	_	2	nummod	2:nummod	_
+1	Kɨte	kɨte	NUM	num	_	2	nummod	2:nummod	_
 2	babape	babape	NOUN	n	_	3	obj	3:obj	_
 3	at	at	VERB	v	_	0	root	0:root	_
 
