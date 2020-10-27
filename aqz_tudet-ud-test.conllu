@@ -19,15 +19,15 @@
 # sent_id = 3
 # text =
 # text_port = Konibu eats banana  3.11
-1	Konibu	Konibu	NOUN	_	_	3	nsubj	_	_
-2	apaɾa	apaɾa	NOUN	_	_	3	obj	_	_
-3	koa	ko	VERB	_	_	0	root	_	_
+1	Konibu	Konibu	NOUN	_	_	3	nsubj	3:nsubj	_
+2	apaɾa	apaɾa	NOUN	_	_	3	obj	3:obj	_
+3	koa	ko	VERB	_	_	0	root	0:root	_
 
 # sent_id = 4
 # text = kitʃe aɾamĩɾa
 # text_port = We are woman  3.12
-1	kitʃe	kitʃe	PRON	_	_	0	root	_	_
-2	aɾamĩɾa	aɾamĩɾa	NOUN	_	_	1	nsubj	_	_
+1	kitʃe	kitʃe	PRON	_	_	0	root	0:root	_
+2	aɾamĩɾa	aɾamĩɾa	NOUN	_	_	1	nsubj	1:nsubj	_
 
 # sent_id = 6
 # text = Tʃaɾuj kɨjtpit õa te Kanibõ
@@ -64,9 +64,9 @@
 # sent_id = 10
 # text = kitʃe tawtʃe koa
 # text_port = We eat peccary  3.28a
-1	kitʃe	kitʃe	PRON	pro	_	3	nsubj	_	_
-2	tawtʃe	tawtʃe	NOUN	n	_	3	obj	_	_
-3	koa	ko	VERB	v	_	0	root	_	_
+1	kitʃe	kitʃe	PRON	pro	_	3	nsubj	3:nsubj	_
+2	tawtʃe	tawtʃe	NOUN	n	_	3	obj	3:obj	_
+3	koa	ko	VERB	v	_	0	root	0:root	_
 
 # sen_id 11
 # text = Kani okɨpi kemkɨɾom
@@ -78,31 +78,31 @@
 # sent_id = 12
 # text = Kwako kɨpek koa
 # text_port =  4.3b
-1	kwako	kwako	NOUN	_	_	3	nsubj	_	_
-2	kɨpek	kɨpek	NOUN	_	_	3	obj	_	_
-3	koa	ko	NOUN	_	_	0	root	_	_
+1	kwako	kwako	NOUN	n	_	3	nsubj	3:nsubj	_
+2	kɨpek	kɨpek	NOUN	v	_	3	obj	3:obj	_
+3	koa	ko	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 13
 # text = Pi maã en
 # text_port =  4.47a
-1	pi	pi	NOUN	_	_	2	obj	_	_
-2	maã	maã	VERB	_	_	0	root	_	_
-3	en	en	PRON	_	_	2	nsubj	_	_
+1	pi	pi	NOUN	n	_	2	obj	2:obj	_
+2	maã	maã	VERB	v	_	0	root	0:root	_
+3	en	en	PRON	pro	_	2	nsubj	2:nsubj	_
 
 # sent_id = 14
 # text = Kɨte babape at
 # text_port = Take one glass!  4.84b
-1	kɨte	kɨte	NUM	num	_	2	det	_	_
-2	babape	babape	NOUN	n	_	3	obj	_	_
-3	at	at	VERB	v	_	0	root	_	_
+1	kɨte	kɨte	NUM	num	_	2	det	2:det	_
+2	babape	babape	NOUN	n	_	3	obj	3:obj	_
+3	at	at	VERB	v	_	0	root	0:root	_
 
 # sent_id = 15
 # text = Buko kɨte korakoɾa mi
 # text_port = Buquá killed one chicken  4.84c
-1	Buko	Buko	PROPN	_	_	4	nsubj	_	_
-2	kɨte	kɨte	NUM	_	_	3	det	_	_
-3	korakoɾa	korakoɾa	NOUN	_	_	4	obj	_	_
-4	mi	mi	VERB	_	_	0	root	_	_
+1	Buko	Buko	PROPN	pn	_	4	nsubj	4:nsubj	_
+2	kɨte	kɨte	NUM	num	_	3	det	3:det	_
+3	korakoɾa	korakoɾa	NOUN	n	_	4	obj	4:obj	_
+4	mi	mi	VERB	v	_	0	root	0:root	_
 
 # sent_id = 16
 # text = ep koa jẽ
