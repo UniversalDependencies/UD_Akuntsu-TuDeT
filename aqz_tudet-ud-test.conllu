@@ -137,7 +137,7 @@
 # text = kitʃetara kom
 # text_port = We will leave (as usual)  3.19
 1	kitʃetara	tʃet	VERB	v	Aspect=Hab|Clusivity=In|Mood=Ind|Person=1|VerbForm=Fin	0	root	0:root	_
-2	kom	kom	PART	part	pcl	1	advmod	1:advmod	_
+2	kom	kom	PART	pcl	_	1	advmod	1:advmod	_
 
 # sent_id = 21
 # text = Tʃaruj kɨjtpit õa te Kanibõ
@@ -145,7 +145,7 @@
 1	Tʃaruj	Tʃaruj	PROPN	ppn	_	3	nsubj	3:nsubj	_
 2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
 3	õa	õ	VERB	vt	_	0	root	0:root	_
-4	te	te	PART	part	_	3	dep	3:dep	_
+4	te	te	PART	pcl	_	3	dep	3:dep	_
 5	Kanibõ	Kani	PROPN	ppn	Case=Dat	3	iobj	3:iobj	_
 
 # sent_id = 22
