@@ -100,7 +100,7 @@
 # text = Buko kɨte korakora mi
 # text_port = Buquá killed one chicken  4.84c
 1	Buko	Buko	PROPN	pn	_	4	nsubj	4:nsubj	_
-2	kɨte	kɨte	NUM	num	_	3	det	3:det	_
+2	kɨte	kɨte	NUM	num	_	3	nummod	3:nummod	_
 3	korakora	korakora	NOUN	n	_	4	obj	4:obj	_
 4	mi	mi	VERB	v	_	0	root	0:root	_
 
