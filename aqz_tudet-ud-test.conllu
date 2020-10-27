@@ -42,7 +42,7 @@
 # text = Karow etap tek iw
 # text_eng = Carol's bed is damaged  3.22
 1	Karow	Karow	PROPN	pn	_	2	nmod	2:nmod	_
-2	etap	etap	NOUN n	_	3	nmod	3:nmod	_
+2	etap	etap	NOUN	n	_	3	nmod	3:nmod	_
 3	tek	tek	NOUN	n	_	0	root	0:root	_
 4	iw	iw	ADJ	adj	_	3	amod	3:amod	_
 
