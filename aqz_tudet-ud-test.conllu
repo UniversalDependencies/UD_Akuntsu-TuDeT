@@ -119,7 +119,7 @@
 3	tʃopa	tʃop	VERB	v	_	0	root	0:root	_
 4	jẽ	jẽ	DET	dem	_	3	nsubj	3:nsubj	_
 
-# sent_id = 3
+# sent_id = 18
 # text = Konibu apara koa aramĩra
 # text_port = Konibu eats banana  3.11
 1	Konibu	konibu	NOUN	n	_	3	nsubj	3:nsubj	_
@@ -127,19 +127,19 @@
 3	koa	ko	VERB	v	_	0	root	0:root	_
 4	aramĩra	aramĩra	NOUN	n	_	1	nsubj	1:nsubj	_
 
-# sent_id = 4
+# sent_id = 19
 # text = kitʃe aramĩra
 # text_port = We are woman   3.12
 1	kitʃe	kitʃe	PRON	pro	_	0	root	0:root	_
 2	aramĩra	aramĩra	NOUN	n	_	1	nsubj	1:nsubj	_
 
-# sent_id = 5
+# sent_id = 20
 # text = kitʃetara kom
 # text_port = We will leave (as usual)  3.19
 1	kitʃetara	tʃet	VERB	v	Aspect=Hab|Clusivity[subj]=In|Mood=Ind|Person[subj]=1|VerbForm=Fin	0	root	0:root	_
 2	kom	kom	PART	part	pcl	1	advmod	1:advmod	_
 
-# sent_id = 6
+# sent_id = 21
 # text = Tʃaruj kɨjtpit õa te Kanibõ
 # text_port = Tʃaruj gave fish to Kani  3.21
 1	Tʃaruj	Tʃaruj	PROPN	ppn	_	3	nsubj	3:nsubj	_
@@ -148,7 +148,7 @@
 4	te	te	PART	part	_	3	dep	3:dep	_
 5	Kanibõ	Kani	PROPN	ppn	Case=Dat	3	iobj	3:iobj	_
 
-# sent_id = 7
+# sent_id = 22
 # text = Karow etap tek iw
 # text_eng = Carol's bed is damaged  3.22
 1	Karow	Karow	PROPN	ppn	_	2	nmod	2:nmod	_
@@ -156,7 +156,7 @@
 3	tek	ek	NOUN	n	_	0	root	0:root	_
 4	iw	iw	NOUN	n	_	3	amod	3:amod	_
 
-# sent_id = 8
+# sent_id = 23
 # text = pero okwaj tokwaj perek
 # text_eng = Makaw's tail, it's long tail  3.23b
 1	pero	pero	NOUN	n	_	2	nmod	2:nmod	_
@@ -165,56 +165,56 @@
 4	tokwaj	tokwaj	NOUN	n	_	_	_	_	_
 5	perek	perek	NOUN	n	_	4	nmod	4:nmod	_
 
-# sent_id = 9
+# sent_id = 24
 # text = Ariano teita kɨrẽ
 # text_port = Adriano arrives today  3.25b
 1	Ariano	_	PROPN	_	_	2	nsubj	2:nsubj	_
 2	teita	_	VERB	_	_	0	root	0:root	_
 3	kɨrẽ	_	ADV	_	_	2	advmod	2:advmod	_
 
-# sent_id = 10
+# sent_id = 25
 # text = kitʃe tawtʃe koa
 # text_port = We eat peccary 3.28a
 1	kitʃe	kitʃe	PRON	pro	_	3	nsubj	3:nsubj	_
 2	tawtʃe	tawtʃe	NOUN	n	_	3	obj	3:obj	_
 3	koa	ko	VERB	v	_	0	root	0:root	_
 
-# sen_id 11
+# sen_id 26
 # text = Kani okɨpi kemkɨrom
 # text_eng =  4.1b
 1	Kani	Kani	NOUN	n	_	0	root	0:root	_
 2	okɨpi	okɨpi	NOUN	n	_	1	appos	1:appos	_
 3	kemkɨrom	kemkɨrom	ADJ	adj	_	1	amod	1:amod	_
 
-# sent_id = 12
+# sent_id = 27
 # text = Kwako kɨpek koa
 # text_port =  4.3b
 1	kwako	kwako	NOUN	n	_	3	nsubj	3:nsubj	_
 2	kɨpek	kɨpek	NOUN	n	_	3	obj	3:obj	_
 3	koa	ko	NOUN	n	_	0	root	0:root	_
 
-# sent_id = 13
+# sent_id = 28
 # text = Pi maã en
 # text_port =  4.47a
 1	pi	pi	NOUN	n	_	2	obj	2:obj	_
 2	maã	maã	VERB	v	_	0	root	0:root	_
 3	en	en	PRON	pro	_	2	nsubj	2:nsubj	_
 
-# sent_id = 14
+# sent_id = 29
 # text = Kɨte babape at
 # text_port = Take one glass! 4.84b
 1	kɨte	kɨte	NUM	num	_	2	nummod	2:nummod	_
 2	babape	babape	NOUN	n	_	3	obj	3:obj	_
 3	at	at	VERB	v	_	0	root	0:root	_
 
-# sent_id = 15
+# sent_id = 30
 # text = Buko kɨte korakora mi
 # text_eng = Buquá killed one chicken 4.84c
 1	kɨte	kɨte	NUM	num	_	2	det	2:det	_
 2	babape	babape	NOUN	n	_	3	obj	3:obj	_
 3	at	at	VERB	v	_	0	root	0:root	_
 
-# sent_id = 16
+# sent_id = 31
 # text = te ti pururu aj ɨmɨmere etʃe
 # text_eng = His own mother came and stayed around the Omere  25 3.36
 1-2	teti	_	_	_	_	_	_	_	_
@@ -225,7 +225,7 @@
 5	ɨmɨmere	ɨmɨmere	NOUN	n	_	4	obl	4:obl	_
 6	etʃe	etʃe	ADP	posp	Case=Per	5	case	5:case	_
 
-# sent_id = 17
+# sent_id = 32
 # text = kopiba mõatʃoa on
 # text_eng = I bathe the parrot        
 1	kopiba	kopiba	NOUN	n	_	2	obj	2:obj	_
