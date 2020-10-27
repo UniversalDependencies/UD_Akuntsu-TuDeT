@@ -14,7 +14,7 @@ The development of the treebank is supported by the by European Research Council
 ## References
   
 * Aragon, Carolina (2018) *Variações estilísticas e sociais no discurso dos falantes Akuntsú*. Revista Polifonia, v. 25, 90-103. 
-* Aragon, Carolina (2018) *Posposições e Marcadores Oblíquos em Akuntsú (Tupí).*. Revista Brasileira de Linguística Antropológica, v. 10, 47-57. 
+* Aragon, Carolina (2018) *Posposições e marcadores oblíquos em Akuntsú (Tupí).*. Revista Brasileira de Linguística Antropológica, v. 10, 47-57. 
 * Aragon, Carolina (2015) *Considerações sobre os ideofones e seu uso em Akuntsú.*. Revista de Letras (Taguatinga), v. 8, 1-13.
 * Aragon, Carolina (2014) *A Grammar of Akuntsú, a Tupian language*. PhD dissertation, University of Hawaii, unpublished PhD dissertation. 
 * Aragon, Carolina (2008) *Fonologia e aspectos morfológicos e sintáticos da língua Akuntsú*. Master Thesis, Universidade de Brasília, unpublished Master thesis.
