@@ -19,9 +19,9 @@
 # sent_id = 3
 # text = Konibu apara koa
 # text_port = Konibu eats banana  3.11
-1	Konibu	Konibu	NOUN	_	_	3	nsubj	3:nsubj	_
-2	apara	apara	NOUN	_	_	3	obj	3:obj	_
-3	koa	ko	VERB	_	_	0	root	0:root	_
+1	Konibu	Konibu	NOUN	n	_	3	nsubj	3:nsubj	_
+2	apara	apara	NOUN	n	_	3	obj	3:obj	_
+3	koa	ko	VERB	v	_	0	root	0:root	_
 
 # sent_id = 4
 # text = kitʃe aramĩra
