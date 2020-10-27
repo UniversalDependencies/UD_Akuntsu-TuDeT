@@ -189,7 +189,7 @@
 # sent_id = 27
 # text = Kwako kɨpek koa
 # text_port =  4.3b
-1	kwako	kwako	NOUN	n	_	3	nsubj	3:nsubj	_
+1	Kwako	kwako	NOUN	n	_	3	nsubj	3:nsubj	_
 2	kɨpek	kɨpek	NOUN	n	_	3	obj	3:obj	_
 3	koa	ko	NOUN	n	_	0	root	0:root	_
 
