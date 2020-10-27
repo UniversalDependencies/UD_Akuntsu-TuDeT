@@ -38,9 +38,9 @@
 4	te	te	PART	pcl	_	3	dep	3:dep	_
 5	Kanibõ	Kani	PROPN	pn	Case=Dat	3	iobj	3:iobj	_
 
-# sent_id = 7 3.22
+# sent_id = 7
 # text = Kaɾow etap tek iw
-# text_eng = Carol's bed is damaged
+# text_eng = Carol's bed is damaged  3.22
 1	Kaɾow	Kaɾow	PROPN	pn	_	2	nmod	2:nmod	_
 2	etap	etap	NOUN 	n	_	3	nmod	3:nmod	_
 3	tek	tek	NOUN	n	_	0	root	0:root	_
