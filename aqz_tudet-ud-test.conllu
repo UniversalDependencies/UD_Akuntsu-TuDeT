@@ -1,15 +1,14 @@
 # document_source = Carolina (2014) A Grammar of Akuntsú, a Tupían Language. University of Hawaii. Unpublished PhD Thesis.
 # document_authorship = Carolina Aragon and Fabrício Ferraz Gerardi
 # document_reference = 
-
-# sent_ID 1 3.10a
+# sent_id = 1 3.10a
 # text = ep koa jẽ a
 # text_port = This one eats leaf
 1	ep	ep	NOUN	_	_	2	obj	2:obj	_
 2	koa	ko	VERB	_	_	0	root	0:root	_
 3	jẽ	jẽ	DET	_	_	2	nsubj	2:nsubj	_
 
-# sent_ID 2 3.10b
+# sent_id = 2 3.10b
 # text = paɾa tep tʃopa jẽ
 # text_port = This one sees banana's leaf
 1	apara	_	NOUN	_	_	2	nmod	2:nmod	_
@@ -17,7 +16,7 @@
 3	tʃoa	_	VERB	_	_	0	root	0:root	_
 4	jẽ	_	DET	_	_	3	nsubj	3:nsubj	_
 
-# sent_ID 3 3.11
+# sent_id = 3 3.11
 # text =
 # text_port = Konibu eats banana
 1	Konibu	_	NOUN	_	_	3	nsubj	_	_
@@ -25,19 +24,19 @@
 3	koa	_	VERB	_	_	0	root	_	_
 
 
-# sent_ID 4 3.12
+# sent_id = 4 3.12
 # text =
 # text_port = We are woman
 1	kitʃe	_	PRON	_	_	0	root	_	_
 2	aɾamĩɾa	_	NOUN	_	_	1	nsubj	_	_
 
-# sent_ID 5 3.19
+# sent_id = 5 3.19
 # text = kitʃetaɾa kom
 # text_port = We will leave (as usual)
-1	kitʃetara	tʃet	VERB	_	Aspect=Hab|Clusivity[subj]=In|Mood=Ind|Person[subj]=1|VerbForm=Fin	0	root	0:root	_
+1	kitʃetara	tʃet	VERB	_	Aspect=Hab|Clusivity=In|Mood=Ind|Person=1|VerbForm=Fin	0	root	0:root	_
 2	kom	kom	PART	_	_	1	advmod	1:advmod	_
 
-# sent_ID 6 3.21
+# sent_id = 6 3.21
 # text = Tʃaɾuj kɨjtpit õa te Kanibõ
 # text_port = Tʃaruj gave fish to Kani
 1	Tʃaruj	Tʃaruj	PROPN	_	_	3	nsubj	_	_
@@ -46,8 +45,7 @@
 4	te	te	PART	_	_	3	dep	_	_
 5	Kanibõ	Kani	PROPN	_	Case=Dat	3	iobj	_	_
 
-# sent_ID 7 3.22
-# text_morph = 
+# sent_id = 7 3.22
 # text = Kaɾow etap tek iw
 # text_eng = Carol's bed is damaged
 1	Kaɾow	_	PROPN	_	_	2	nmod	2:nmod	_
@@ -55,7 +53,7 @@
 3	tek	_	NOUN	_	_	0	root	0:root	_
 4	iw	_	ADJ	_	_	3	amod	3:amod	_
 
-# sent_id 8 3.23b
+# sent_id = 8 3.23b
 # text = peɾo okwaj tokwaj peɾek
 # text_eng = Makaw's tail, it's long tail
 1	peɾo	_	NOUN	_	_	2	nmod	2:nmod	_
@@ -63,14 +61,14 @@
 3	tokwaj	_	NOUN	_	_	_	_	_	_
 4	peɾek	_	ADJ	_	_	3	amod	3:amod	_
 
-# sent_ID 9 3.25b
+# sent_id = 9 3.25b
 # text = Aɾiano teita kɨɾẽ
 # text_port = Adriano arrives today
 1	Aɾiano	_	PROPN	_	_	2	nsubj	2:nsubj	_
 2	teita	_	VERB	_	_	0	root	0:root	_
 3	kɨɾẽ	_	ADV	_	_	2	advmod	2:advmod	_
 
-# sent_ID 10 3.28a
+# sent_id = 10 3.28a
 # text =
 # text_port = We eat peccary
 1	kitʃe	_	PRON	_	_	3	nsubj	_	_
@@ -84,28 +82,28 @@
 2	okɨpi	_	NOUN	_	_	1	appos	1:appos	_
 3	kemkɨɾom	_	ADJ	_	_	1	amod	1:amod	_
 
-# sent_ID 12 4.3b
+# sent_id = 12 4.3b
 # text = Kwako kɨpek koa
 # text_port = 
 1	kwako	_	NOUN	_	_	3	nsubj	_	_
 2	kɨpek	_	NOUN	_	_	3	obj	_	_
 3	koa	_	NOUN	_	_	0	root	_	_
 
-# sent_ID 13 4.47a
+# sent_id = 13 4.47a
 # text = Pi maã en
 # text_port = 
 1	pi	_	NOUN	_	_	2	obj	_	_
 2	maã	_	VERB	_	_	0	root	_	_
 3	en	_	PRON	_	_	2	nsubj	_	_
 
-# sent_ID 14 4.84b
+# sent_id = 14 4.84b
 # text = Kɨte babape at
 # text_port = Take one glass!
 1	kɨte	_	NUM	_	_	2	det	_	_
 2	babape	_	NOUN	_	_	3	obj	_	_
 3	at	_	VERB	_	_	0	root	_	_
 
-# sent_ID 15 4.84c
+# sent_id = 15 4.84c
 # text = Buko kɨte korakoɾa mi
 # text_port = Buquá killed one chicken
 1	Buko	_	PROPN	_	_	4	nsubj	_	_
@@ -113,63 +111,59 @@
 3	korakoɾa	_	NOUN	_	_	4	obj	_	_
 4	mi	_	VERB	_	_	0	root	_	_
 
-# document_source = Carolina (2014) A Grammar of Akuntsú, a Tupían Language. University of Hawaii. Unpublished PhD Thesis.
-# document_authorship = Carolina Aragon and Fabrício Ferraz Gerardi
-# document_reference = 
-
-# sent_ID 1 3.10a
+# sent_id = 16
 # text = ep koa jẽ
-# text_port = This one eats leaf
+# text_port = This one eats leaf  1 3.10a
 1	ep	ep	NOUN	n	_	2	obj	2:obj	_
 2	koa	ko	VERB	vt	_	0	root	0:root	_
 3	jẽ	jẽ	DET	dem	_	2	nsubj	2:nsubj	_
 
-# sent_ID 2 3.10b
+# sent_id = 17
 # text = apaɾa tep tʃopa jẽ
-# text_port = This one sees banana's leaf
+# text_port = This one sees banana's leaf  2 3.10b
 1	apaɾa	apaɾa	NOUN	n	_	3	obj	2:nmod|3:obj	_
 2	tep	tep	NOUN	n	_	_	_	_	_
 3	tʃopa	tʃop	VERB	v	_	0	root	0:root	_
 4	jẽ	jẽ	DET	dem	_	3	nsubj	3:nsubj	_
 
-# sent_ID 3 3.11
+# sent_id = 3
 # text = Konibu apara koa aɾamĩɾa
-# text_port = Konibu eats banana
+# text_port = Konibu eats banana  3.11
 1	Konibu	konibu	NOUN	n	_	3	nsubj	3:nsubj	_
 2	apaɾa	apara	NOUN	n	_	3	obj	3:obj	_
 3	koa	ko	VERB	v	_	0	root	0:root	_
 4	aɾamĩɾa	aɾamĩɾa	NOUN	n	_	1	nsubj	1:nsubj	_
 
-# sent_ID 4 3.12
-# text = kitʃe aɾamĩɾa
+# sent_id = 4
+# text = kitʃe aɾamĩɾa  3.12
 # text_port = We are woman
 1	kitʃe	kitʃe	PRON	pro	_	0	root	0:root	_
 2	aɾamĩɾa	aɾamĩɾa	NOUN	n	_	1	nsubj	1:nsubj	_
 
-# sent_ID 5 3.19
+# sent_id = 5
 # text = kitʃetaɾa kom
-# text_port = We will leave (as usual)
+# text_port = We will leave (as usual)  3.19
 1	kitʃetara	tʃet	VERB	_	Aspect=Hab|Clusivity[subj]=In|Mood=Ind|Person[subj]=1|VerbForm=Fin	0	root	0:root	_
 2	kom	kom	PART	part	_	1	advmod	1:advmod	_
 
-# sent_ID 6 3.21
+# sent_id = 6 3.21
 # text = Tʃaɾuj kɨjtpit õa te Kanibõ
-# text_port = Tʃaruj gave fish to Kani
+# text_port = Tʃaruj gave fish to Kani  3.21
 1	Tʃaruj	Tʃaruj	PROPN	ppn	_	3	nsubj	3:nsubj	_
 2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
 3	õa	õ	VERB	vt	_	0	root	0:root	_
 4	te	te	PART	part	_	3	dep	3:dep	_
 5	Kanibõ	Kani	PROPN	ppn	Case=Dat	3	iobj	3:iobj	_
 
-# sent_ID 7 3.22
+# sent_id = 7
 # text = Kaɾow etap tek iw
-# text_eng = Carol's bed is damaged
+# text_eng = Carol's bed is damaged  3.22
 1	Kaɾow	Kaɾow	PROPN	ppn	_	2	nmod	2:nmod	_
 2	etap	et	NOUN 	n	_	3	nmod	3:nmod	_
 3	tek	ek	NOUN	n	_	0	root	0:root	_
 4	iw	iw	NOUN	n	_	3	amod	3:amod	_
 
-# sent_id 8 3.23b
+# sent_id = 8 3.23b
 # text = peɾo okwaj tokwaj peɾek
 # text_eng = Makaw's tail, it's long tail
 1	peɾo	peɾo	NOUN	n	_	2	nmod	2:nmod	_
@@ -178,59 +172,59 @@
 4	tokwaj	tokwaj	NOUN	n	_	_	_	_	_
 5	peɾek	peɾek	NOUN	n	_	4	nmod	4:nmod	_
 
-# sent_ID 9 3.25b
+# sent_id = 9
 # text = Aɾiano teita kɨɾẽ
-# text_port = Adriano arrives today
+# text_port = Adriano arrives today  3.25b
 1	Aɾiano	_	PROPN	_	_	2	nsubj	2:nsubj	_
 2	teita	_	VERB	_	_	0	root	0:root	_
 3	kɨɾẽ	_	ADV	_	_	2	advmod	2:advmod	_
 
-# sent_ID 10 3.28a
-# text = 
-# text_port = We eat peccary
+# sent_id = 10
+# text = kitʃe tawtʃe koa
+# text_port = We eat peccary 3.28a
 1	kitʃe	_	PRON	_	_	3	nsubj	_	_
 2	tawtʃe	_	NOUN	_	_	3	obj	_	_
 3	koa	_	VERB	_	_	0	root	_	_
 
-# sen_id 11 4.1b
+# sen_id 11
 # text = Kani okɨpi kemkɨɾom
-# text_eng =
+# text_eng =  4.1b
 1	Kani	_	NOUN	_	_	0	root	0:root	_
 2	okɨpi	_	NOUN	_	_	1	appos	1:appos	_
 3	kemkɨɾom	_	ADJ	_	_	1	amod	1:amod	_
 
-# sent_ID 12 4.3b
+# sent_id = 12
 # text = Kwako kɨpek koa
-# text_port = 
+# text_port =  4.3b
 1	kwako	_	NOUN	_	_	3	nsubj	_	_
 2	kɨpek	_	NOUN	_	_	3	obj	_	_
 3	koa	_	NOUN	_	_	0	root	_	_
 
-# sent_ID 13 4.47a
+# sent_id = 13
 # text = Pi maã en
-# text_port = 
+# text_port =  4.47a
 1	pi	_	NOUN	_	_	2	obj	_	_
 2	maã	_	VERB	_	_	0	root	_	_
 3	en	_	PRON	_	_	2	nsubj	_	_
 
-# sent_ID 14 4.84b
+# sent_id = 14
 # text = Kɨte babape at
-# text_port = Take one glass!
+# text_port = Take one glass! 4.84b
 1	kɨte	_	NUM	_	_	2	det	_	_
 2	babape	_	NOUN	_	_	3	obj	_	_
 3	at	_	VERB	_	_	0	root	_	_
 
-# sent_ID 15 4.84c
+# sent_id = 15
 # text = Buko kɨte korakoɾa mi
-# text_eng = Buquá killed one chicken
+# text_eng = Buquá killed one chicken 4.84c
 1	Buko	_	PROPN	_	_	4	nsubj	_	_
 2	kɨte	_	NUM	_	_	3	det	_	_
 3	korakoɾa	_	NOUN	_	_	4	obj	_	_
 4	mi	_	VERB	_	_	0	root	_	_
 
-# sent_ID = 25 3.36
+# sent_id = 16
 # text = te ti puɾuɾu aj ɨmɨmeɾe etʃe
-# text_eng = His own mother came and stayed around the Omere
+# text_eng = His own mother came and stayed around the Omere  25 3.36
 1-2	teti	_	_	_	_	_	_	_	_
 1	te	te	PRON	pro	PronType=Prs|Reflex=yes	2	nmod	2:nmod	_
 2	ti	ti	NOUN	n	_	3	nsubj	3:nsubj	_
@@ -239,7 +233,7 @@
 5	ɨmɨmeɾe	ɨmɨmeɾe	NOUN	n	_	4	obl	4:obl	_
 6	etʃe	etʃe	ADP	posp	Case=Per	5	case	5:case	_
 
-# sent_ID = 
+# sent_id = 17 
 # text = kopiba mõatʃoa on
 # text_eng = I bathe the parrot        
 1	kopiba	kopiba	NOUN	n	_	2	obj	2:obj	_
