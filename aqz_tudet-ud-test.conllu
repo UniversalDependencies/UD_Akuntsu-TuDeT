@@ -128,8 +128,8 @@
 4	aramĩra	aramĩra	NOUN	n	_	1	nsubj	1:nsubj	_
 
 # sent_id = 4
-# text = kitʃe aramĩra  3.12
-# text_port = We are woman
+# text = kitʃe aramĩra
+# text_port = We are woman   3.12
 1	kitʃe	kitʃe	PRON	pro	_	0	root	0:root	_
 2	aramĩra	aramĩra	NOUN	n	_	1	nsubj	1:nsubj	_
 
