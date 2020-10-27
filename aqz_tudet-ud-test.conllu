@@ -13,7 +13,7 @@
 # text_port = This one sees banana's leaf  3.10b
 1	apara	apara	NOUN	n	_	2	nmod	2:nmod	_
 2	tep	ep	NOUN	n	_	3	obj	3:obj	_
-3	tʃoa	tʃop	VERB	vt	_	0	root	0:root	_
+3	tʃopa	tʃop	VERB	vt	_	0	root	0:root	_
 4	jẽ	jẽ	DET	dem	_	3	nsubj	3:nsubj	_
 
 # sent_id = 3
