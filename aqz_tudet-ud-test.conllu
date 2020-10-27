@@ -157,12 +157,12 @@
 4	iw	iw	NOUN	n	_	3	amod	3:amod	_
 
 # sent_id = 23
-# text = pero okwaj tokwaj perek
+# text = pero okwaj , tokwaj perek
 # text_eng = Makaw's tail, it's long tail  3.23b
 1	pero	pero	NOUN	n	_	2	nmod	2:nmod	_
 2	okwaj	okwaj	NOUN	n	_	4	nsubj	4:nsubj	_
-3	,	,	PUNCT	punct	_	2	punct	2:punct|4:punct	_
-4	tokwaj	tokwaj	NOUN	n	_	_	_	_	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	tokwaj	tokwaj	NOUN	n	_	0	root	0:root	_
 5	perek	perek	NOUN	n	_	4	nmod	4:nmod	_
 
 # sent_id = 24
