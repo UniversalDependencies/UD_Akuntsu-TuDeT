@@ -58,21 +58,21 @@
 # text = Ariano teita kɨrẽ
 # text_port = Adriano arrives today  3.25b
 1	Ariano	Ariano	PROPN	pn	_	2	nsubj	2:nsubj	_
-2	teita	teita	VERB	v	_	0	root	0:root	_
+2	teita	teita	VERB	vi	_	0	root	0:root	_
 3	kɨrẽ	kɨrẽ	ADV	adv	_	2	advmod	2:advmod	_
 
 # sent_id = 9
 # text = kitʃe tawtʃe koa
 # text_port = We eat peccary  3.28a
-1	kitʃe	kitʃe	PRON	pro	_	3	nsubj	3:nsubj	_
+1	kitʃe	kitʃe	PRON	pro	Clusivity=In|PronType=Prs	3	nsubj	3:nsubj	_
 2	tawtʃe	tawtʃe	NOUN	n	_	3	obj	3:obj	_
-3	koa	ko	VERB	v	_	0	root	0:root	_
+3	koa	ko	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 10
 # text = Kani okɨpi kemkɨrom
 # text_eng = 1 4.1b
-1	Kani	Kani	NOUN	n	_	0	root	0:root	_
-2	okɨpi	okɨpi	NOUN	n	_	1	appos	1:appos	_
+1	Kani	Kani	PROPN	pn	_	0	root	0:root	_
+2	okɨpi	kɨpi	NOUN	n	_	1	appos	1:appos	_
 3	kemkɨrom	kemkɨrom	ADJ	adj	_	1	amod	1:amod	_
 
 # sent_id = 11
@@ -83,18 +83,18 @@
 3	koa	ko	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 12
-# text = Pi maã en
+# text = pi maã en
 # text_port =  4.47a
-1	Pi	pi	NOUN	n	_	2	obj	2:obj	_
-2	maã	maã	VERB	v	_	0	root	0:root	_
-3	en	en	PRON	pro	_	2	nsubj	2:nsubj	_
+1	pi	pi	NOUN	n	_	2	obj	2:obj	_
+2	maã	maã	VERB	vt	_	0	root	0:root	_
+3	en	en	PRON	pro PronType=Prs	2	nsubj	2:nsubj	_
 
 # sent_id = 13
 # text = Kɨte babape at
 # text_port = Take one glass!  4.84b
 1	Kɨte	kɨte	NUM	num	_	2	nummod	2:nummod	_
 2	babape	babape	NOUN	n	_	3	obj	3:obj	_
-3	at	at	VERB	v	_	0	root	0:root	_
+3	at	at	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 14
 # text = Buko kɨte korakora mi
@@ -102,7 +102,7 @@
 1	Buko	Buko	PROPN	pn	_	4	nsubj	4:nsubj	_
 2	kɨte	kɨte	NUM	num	_	3	nummod	3:nummod	_
 3	korakora	korakora	NOUN	n	_	4	obj	4:obj	_
-4	mi	mi	VERB	v	_	0	root	0:root	_
+4	mi	mi	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 16
 # text = ep koa jẽ
@@ -117,7 +117,7 @@
 1	apara	apara	NOUN	n	_	2	nmod	2:nmod	_
 2	tep	tep	NOUN	n	_	3	obj	3:obj	_
 3	tʃopa	tʃop	VERB	v	_	0	root	0:root	_
-4	jẽ	jẽ	DET	dem	_	3	nsubj	3:nsubj	_
+4	jẽ	jẽ	DET	dem	Dem=Prox	3	nsubj	3:nsubj	_
 
 # sent_id = 18
 # text = Konibu apara koa aramĩra
