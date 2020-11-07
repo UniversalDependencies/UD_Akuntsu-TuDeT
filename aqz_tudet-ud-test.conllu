@@ -127,7 +127,7 @@
 
 # sent_id = 18
 # text = teti pururu aj ɨmɨmere etʃe
-# text_eng = His own mother came and stayed around the Omere  25 3.36
+# text_eng = His own mother came and stayed around the Omere  3.36
 1-2	teti	_	_	_	_	_	_	_	_
 1	te	te	PRON	pro	PronType=Prs|Reflex=Yes	2	nmod	2:nmod	_
 2	ti	ti	NOUN	n	_	3	nsubj	3:nsubj	_
@@ -138,7 +138,7 @@
 
 # sent_id = 19
 # text = kopiba mõatʃoa on
-# text_eng = I bathe the parrot        
+# text_eng = I bathe the parrot    5.3b    
 1	kopiba	kopiba	NOUN	n	_	2	obj	2:obj	_
 2	mõatʃoa	atʃop	VERB	vi	Voice=Cau	0	root	0:root	_
 3	on	on	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
