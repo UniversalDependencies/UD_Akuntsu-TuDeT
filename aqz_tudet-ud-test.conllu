@@ -5,98 +5,98 @@
 # text = ep koa jẽ
 # text_port = This one eats leaf  3.10a
 1	ep	ep	NOUN	n	_	2	obj	2:obj	_
-2	koa	ko	VERB	v	_	0	root	0:root	_
-3	jẽ	jẽ	DET	dem	_	2	nsubj	2:nsubj	_
+2	koa	ko	VERB	vt	_	0	root	0:root	_
+3	jẽ	jẽ	DET	dem	Dem=Prox	2	nsubj	2:nsubj	_
 
 # sent_id = 2
 # text = apara tep tʃopa jẽ
 # text_port = This one sees banana's leaf  3.10b
 1	apara	apara	NOUN	n	_	2	nmod	2:nmod	_
-2	tep	ep	NOUN	n	_	3	obj	3:obj	_
+2	tep	ep	NOUN	n	Rel=Cont	3	obj	3:obj	_
 3	tʃopa	tʃop	VERB	vt	_	0	root	0:root	_
-4	jẽ	jẽ	DET	dem	_	3	nsubj	3:nsubj	_
+4	jẽ	jẽ	DET	dem	Dem=Prox	3	nsubj	3:nsubj	_
 
 # sent_id = 3
 # text = Konibu apara koa
 # text_port = Konibu eats banana  3.11
-1	Konibu	Konibu	NOUN	n	_	3	nsubj	3:nsubj	_
+1	Konibu	Konibu	PROPN	pn	_	3	nsubj	3:nsubj	_
 2	apara	apara	NOUN	n	_	3	obj	3:obj	_
-3	koa	ko	VERB	v	_	0	root	0:root	_
+3	koa	ko	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 4
 # text = kitʃe aramĩra
 # text_port = We are woman  3.12
-1	kitʃe	kitʃe	PRON	_	_	0	root	0:root	_
+1	kitʃe	kitʃe	PRON	pro	Clusivity=In|PronType=Prs	0	root	0:root	_
 2	aramĩra	aramĩra	NOUN	_	_	1	nsubj	1:nsubj	_
 
-# sent_id = 6
+# sent_id = 5
 # text = Tʃaruj kɨjtpit õa te Kanibõ
 # text_port = Tʃaruj gave fish to Kani  3.21
-1	Tʃaruj	Tʃaruj	PROPN	_	_	3	nsubj	3:nsubj	_
+1	Tʃaruj	Tʃaruj	PROPN	pn	_	3	nsubj	3:nsubj	_
 2	kɨjtpit	kɨjtpit	NOUN	_	_	3	obj	3:obj	_
-3	õa	õ	VERB	v	_	0	root	0:root	_
+3	õa	õ	VERB	vt	_	0	root	0:root	_
 4	te	te	PART	pcl	_	3	dep	3:dep	_
 5	Kanibõ	Kani	PROPN	pn	Case=Dat	3	iobj	3:iobj	_
 
-# sent_id = 7
+# sent_id = 6
 # text = Karow etap tek iw
 # text_eng = Carol's bed is damaged  3.22
 1	Karow	Karow	PROPN	pn	_	2	nmod	2:nmod	_
 2	etap	etap	NOUN	n	_	3	nmod	3:nmod	_
-3	tek	tek	NOUN	n	_	0	root	0:root	_
+3	tek	ek	NOUN	n	Rel=Cont	0	root	0:root	_
 4	iw	iw	ADJ	adj	_	3	amod	3:amod	_
 
-# sent_id = 8
-# text = pero okwaj tokwaj perek
+# sent_id = 7
+# text = pero okwaj, tokwaj perek
 # text_eng = Makaw's tail, it's long tail  3.23b
 1	pero	pero	NOUN	n	_	2	nmod	2:nmod	_
-2	okwaj	okwaj	NOUN	n	_	3	dislocated	3:dislocated	_
-3	tokwaj	tokwaj	NOUN	n	_	0	root	0:root	_
+2	okwaj	okwaj	NOUN	n	Rel=Cont	3	dislocated	3:dislocated	_
+3	tokwaj	okwaj	NOUN	n	Rel=NCont	0	root	0:root	_
 4	perek	perek	ADJ	adj	_	3	amod	3:amod	_
 
-# sent_id = 9
+# sent_id = 8
 # text = Ariano teita kɨrẽ
 # text_port = Adriano arrives today  3.25b
 1	Ariano	Ariano	PROPN	pn	_	2	nsubj	2:nsubj	_
 2	teita	teita	VERB	v	_	0	root	0:root	_
 3	kɨrẽ	kɨrẽ	ADV	adv	_	2	advmod	2:advmod	_
 
-# sent_id = 10
+# sent_id = 9
 # text = kitʃe tawtʃe koa
 # text_port = We eat peccary  3.28a
 1	kitʃe	kitʃe	PRON	pro	_	3	nsubj	3:nsubj	_
 2	tawtʃe	tawtʃe	NOUN	n	_	3	obj	3:obj	_
 3	koa	ko	VERB	v	_	0	root	0:root	_
 
-# sent_id = 11
+# sent_id = 10
 # text = Kani okɨpi kemkɨrom
 # text_eng = 1 4.1b
 1	Kani	Kani	NOUN	n	_	0	root	0:root	_
 2	okɨpi	okɨpi	NOUN	n	_	1	appos	1:appos	_
 3	kemkɨrom	kemkɨrom	ADJ	adj	_	1	amod	1:amod	_
 
-# sent_id = 12
+# sent_id = 11
 # text = Kwako kɨpek koa
 # text_port =  4.3b
 1	Kwako	kwako	NOUN	n	_	3	nsubj	3:nsubj	_
 2	kɨpek	kɨpek	NOUN	v	_	3	obj	3:obj	_
 3	koa	ko	NOUN	n	_	0	root	0:root	_
 
-# sent_id = 13
+# sent_id = 12
 # text = Pi maã en
 # text_port =  4.47a
 1	Pi	pi	NOUN	n	_	2	obj	2:obj	_
 2	maã	maã	VERB	v	_	0	root	0:root	_
 3	en	en	PRON	pro	_	2	nsubj	2:nsubj	_
 
-# sent_id = 14
+# sent_id = 13
 # text = Kɨte babape at
 # text_port = Take one glass!  4.84b
 1	Kɨte	kɨte	NUM	num	_	2	nummod	2:nummod	_
 2	babape	babape	NOUN	n	_	3	obj	3:obj	_
 3	at	at	VERB	v	_	0	root	0:root	_
 
-# sent_id = 15
+# sent_id = 14
 # text = Buko kɨte korakora mi
 # text_port = Buquá killed one chicken  4.84c
 1	Buko	Buko	PROPN	pn	_	4	nsubj	4:nsubj	_
