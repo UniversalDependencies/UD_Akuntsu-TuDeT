@@ -43,7 +43,7 @@
 # text_eng = Carol's bed is damaged  3.22
 1	Karow	Karow	PROPN	pn	_	2	nmod	2:nmod	_
 2	etap	etap	NOUN	n	_	3	nmod	3:nmod	_
-3	tek	ek	NOUN	n	Rel=Cont	0	root	0:root	_
+3	tek	ek	NOUN	n	_	0	root	0:root	_
 4	iw	iw	ADJ	adj	_	3	amod	3:amod	_
 
 # sent_id = 7
@@ -51,7 +51,7 @@
 # text_eng = Makaw's tail, it's long tail  3.23b
 1	pero	pero	NOUN	n	_	2	nmod	2:nmod	_
 2	okwaj	okwaj	NOUN	n	Rel=Cont	3	dislocated	3:dislocated	_
-3	tokwaj	okwaj	NOUN	n	Rel=NCont	0	root	0:root	_
+3	tokwaj	okwaj	NOUN	n	_	0	root	0:root	_
 4	perek	perek	ADJ	adj	_	3	amod	3:amod	_
 
 # sent_id = 8
