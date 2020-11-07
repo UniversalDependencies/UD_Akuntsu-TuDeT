@@ -10,4 +10,4 @@
 # text_port = Tomorrow I will leave  3.25
 1	erape	erape	ADV	adv	_	2	advmod	2:advmod	_
 2	okwata	kwat	VERB	vi	_	0	root	0:root	_
-3	kom	kom	PART	pcl	_	2	nmod	2:nmod	_
+3	kom	kom	PART	pcl	_	2	advmod	2:advmod	_
