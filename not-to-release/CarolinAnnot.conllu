@@ -1,1 +1,6 @@
-
+# sent_id = 20
+# text = ep koa jẽ
+# text_port = This one eats leaf  3.10a
+1	ep	ep	NOUN	n	_	2	obj	2:obj	_
+2	koa	ko	VERB	vt	_	0	root	0:root	_
+3	jẽ	jẽ	DET	dem	Dem=Prox	2	nsubj	2:nsubj	_
