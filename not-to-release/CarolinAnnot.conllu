@@ -1,6 +1,13 @@
 # sent_id = 20
-# text = ep koa jẽ
-# text_port = This one eats leaf  3.10a
-1	ep	ep	NOUN	n	_	2	obj	2:obj	_
-2	koa	ko	VERB	vt	_	0	root	0:root	_
-3	jẽ	jẽ	DET	dem	Dem=Prox	2	nsubj	2:nsubj	_
+# text = Pura ikoa te
+# text_port = Pura eats it  3.3
+1	Pura	Pura	NOUN	n	_	2	nsubj	2:nsubj	_
+2	ikoa	ko	VERB	vt	_	0	root	0:root	_
+3	te	te	PART	pcl	_	2	_	2	_
+
+# sent_id = 21
+# text = erape okwata kom
+# text_port = Tomorrow I will leave  3.25
+1	erape	erape	ADV	_	_	2	advmod	2:advmod	_
+2	okwata	kwat	VERB	vi	_	0	root	0:root	_
+3	kom	kom	PART	pcl	_	2	nmod	2:nmod	_
