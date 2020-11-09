@@ -167,7 +167,7 @@
 5	etʃe	etʃe	ADP	loc	_	4	nmod	4:nmod	_
 
 # sent_id = 23
-# text = en ikorom ka
+# text = en ikoromka
 # text_port = You cut it  3.28b
 1	en	en	PRON	pr	_	2	nsubj	2:nsubj	_
 2	ikoromka	korom	VERB	vt	Person=3	0	root	_	_
