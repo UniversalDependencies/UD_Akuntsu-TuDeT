@@ -13,7 +13,7 @@
 3	kom	kom	PART	pcl	_	2	advmod	2:advmod	_
 
 # sent_id = 22
-# text = potʃek momo tejã otek etʃe
+# text = potʃek momo tejã otek etʃe
 # text_port = The notebook stayed for long time in my house  3.27
 1	potʃek	potʃek	NOUN	n	_	2	nsubj	_	_
 2	momo	mo	VERB	vt	_	0	root	_	_
@@ -25,11 +25,11 @@
 # text = en ikorom ka
 # text_port = You cut it  3.28b
 1	en	en	PRON	pr	_	2	nsubj	2:nsubj	_
-2	ikoromka	korom	VERB	Person=3|	0	root	_	_	_
+2	ikoromka	korom	VERB	_ Person=3	0	root	_	_
 
 # sent_id = 24
 # text = oetara otoa
 # text_port = I am going to sleep  3.29
-1	oetara	et	VERB	vi	Aspect=Hab|Person=1|	0	root	_	_
-2	otoa	toa	AUX	aux	Persn=1|	1	aux	_	_
+1	oetara	et	VERB	vi	Aspect=Hab|Person=1	0	root	_	_
+2	otoa	toa	AUX	aux	Person=1	1	aux	_	_
 
