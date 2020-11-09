@@ -148,7 +148,7 @@
 # text_port = Pura eats it  3.3
 1	Pura	Pura	NOUN	n	_	2	nsubj	2:nsubj	_
 2	ikoa	ko	VERB	vt	_	0	root	0:root	_
-3	te	te	PART	pcl	_	2	_	2	_
+3	te	te	PART	pcl	_	2	discourse	2:discourse	_
 
 # sent_id = 21
 # text = erape okwata kom
