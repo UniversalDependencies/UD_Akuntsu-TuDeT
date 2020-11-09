@@ -11,3 +11,13 @@
 1	erape	erape	ADV	adv	_	2	advmod	2:advmod	_
 2	okwata	kwat	VERB	vi	Mood=Ind|Person=1| VerbForm=Fin	0	root	0:root	_
 3	kom	kom	PART	pcl	_	2	advmod	2:advmod	_
+
+# sent_id = 22
+# text = potʃek momo tejã otek etʃe
+# text_port = The notebook stayed for long time in my house  3.27
+1	potʃek	potʃek	NOUN	n	_	2	nsubj	_	_
+2	momo	mo	VERB	vt	_	0	root	_	_
+3	tejã	jã	AUX	aux	_	2	aux	_	_
+4	otek	ek	NOUN	n	_	2	advmod	_	_
+5	etʃe	etʃe	ADP	loc	_	4	nmod	_	_
+
