@@ -170,7 +170,7 @@
 # text = en ikorom ka
 # text_port = You cut it  3.28b
 1	en	en	PRON	pr	_	2	nsubj	2:nsubj	_
-2	ikoromka	korom	VERB	_Person=3	0	root	_	_
+2	ikoromka	korom	VERB	_ Person=3	0	root	_	_
 
 # sent_id = 24
 # text = oetara otoa
