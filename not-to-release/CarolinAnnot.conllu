@@ -21,3 +21,9 @@
 4	otek	ek	NOUN	n	PronType=Prs|Rel=Cont	2	advmod	_	_
 5	etʃe	etʃe	ADP	loc	_	4	nmod	_	_
 
+# sent_id = 23
+# text = en ikorom ka
+# text_port = You cut it  3.28b
+1	en	en	PRON	pr	_	2	nsubj	2:nsubj	_
+2	ikoromka	korom	VERB	PronType=Prs|	0	root	_	_	_
+
