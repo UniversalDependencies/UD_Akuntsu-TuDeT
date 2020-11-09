@@ -170,5 +170,11 @@
 # text = en ikoromka
 # text_port = You cut it  3.28b
 1	en	en	PRON	pr	_	2	nsubj	2:nsubj	_
-2	ikoromka	korom	VERB	vt	Person=3	0	root	_	_
+2	ikoromka	korom	VERB	vt	Person=3	0	root	0:root	_
+
+# sent_id = 24
+# text = oetara otoa
+# text_port = I am going to sleep  3.29
+1	oetara	et	VERB	vi	Aspect=Hab|Person=1	0	root	0:root	_
+2	otoa	toa	AUX	aux	Person=1	1	aux	1:aux	_
 
