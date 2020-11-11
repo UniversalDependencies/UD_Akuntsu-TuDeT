@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>24</sentences><tokens>79</tokens><words>80</words><fused>1</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>24</sentences><tokens>79</tokens><words>80</words><fused>1</fused></test>
+  </size>
+  <lemmas unique="55" /><!-- ko, ek, ep, et, jẽ, te, Kani, Karow, apara, en, etʃe, iw, kitʃe, kom, kɨte -->
+  <forms unique="61" /><!-- koa, jẽ, te, Karow, apara, en, ep, etap, etʃe, iw, kitʃe, kom, kɨte, tek, Ariano -->
+  <fusions unique="1" /><!-- teti -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="11">
+    <tag name="ADJ">3</tag><!-- iw, kemkɨ, perek -->
+    <tag name="ADP">2</tag><!-- etʃe -->
+    <tag name="ADV">2</tag><!-- erape, kɨrẽ -->
+    <tag name="AUX">2</tag><!-- jã, toa -->
+    <tag name="DET">3</tag><!-- jẽ -->
+    <tag name="NOUN">29</tag><!-- ek, ep, apara, et, okwaj, Pura, aramĩra, babape, iw, ko -->
+    <tag name="NUM">2</tag><!-- kɨte -->
+    <tag name="PART">4</tag><!-- kom, te -->
+    <tag name="PRON">6</tag><!-- en, kitʃe, on, te -->
+    <tag name="PROPN">8</tag><!-- Kani, Karow, Ariano, Buko, Konibu, Tʃaruj -->
+    <tag name="VERB">19</tag><!-- ko, aj, at, atʃop, et, ita, korom, kwat, maã, mi -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="13">
+    <feat name="Aspect" value="Hab" upos="VERB">2</feat><!-- kitʃetara, oetara -->
+    <feat name="Case" value="Dat" upos="PROPN">1</feat><!-- Kanibõ -->
+    <feat name="Case" value="Per" upos="ADP">1</feat><!-- etʃe -->
+    <feat name="Clusivity" value="In" upos="PRON,VERB">3</feat><!-- kitʃe, kitʃetara -->
+    <feat name="Dem" value="Prox" upos="DET">3</feat><!-- jẽ -->
+    <feat name="Mood" value="Ind" upos="VERB">2</feat><!-- kitʃetara, okwata -->
+    <feat name="Person" value="1" upos="AUX,NOUN,VERB">5</feat><!-- kitʃetara, oetara, okwata, otek, otoa -->
+    <feat name="Person" value="3" upos="AUX,VERB">2</feat><!-- ikoromka, tejã -->
+    <feat name="PronType" value="Prs" upos="PRON">5</feat><!-- kitʃe, en, on, te -->
+    <feat name="Reflex" value="Yes" upos="PRON">1</feat><!-- te -->
+    <feat name="Rel" value="Cont" upos="NOUN">3</feat><!-- okwaj, otek, tep -->
+    <feat name="VerbForm" value="Fin" upos="VERB">2</feat><!-- kitʃetara, okwata -->
+    <feat name="Voice" value="Cau" upos="VERB">1</feat><!-- mõatʃoa -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="16">
+    <dep name="advmod">4</dep>
+    <dep name="amod">4</dep>
+    <dep name="appos">1</dep>
+    <dep name="aux">2</dep>
+    <dep name="case">1</dep>
+    <dep name="dep">1</dep>
+    <dep name="discourse">1</dep>
+    <dep name="dislocated">1</dep>
+    <dep name="iobj">1</dep>
+    <dep name="nmod">8</dep>
+    <dep name="nsubj">16</dep>
+    <dep name="nummod">2</dep>
+    <dep name="obj">11</dep>
+    <dep name="obl">2</dep>
+    <dep name="parataxis">1</dep>
+    <dep name="root">24</dep>
+  </deps>
+</treebank>
