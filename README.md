@@ -1,10 +1,19 @@
 # Summary
 
-UD_Akuntsu-TuDeT is a collection of annotated texts in Akuntsú. Together with [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT) and UD_Munduruku-TuDeT, UD_Akuntsu-TuDeT is part of the [TuLaR](https://tular.org) project. 
+<p>
+<img align="left" src="not-to-release/tupi1.png" width="180" height="180">
+UD_Akunstu-TuDeT is a collection of annotated sentences in <a href="http://endangeredlanguages.com/lang/1567"> Akuntsú</a>.
+Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Munduruku-TuDeT</a> and <a href="https://github.com/UniversalDependencies/UD_Tupinambá-TuDeT">UD_Tupinambá-TuDeT</a>, UD_Akuntsu-TuDeT is part of <a href="https://tular.org">TuLaR</a>. </p>
+
+</br>
+</br>
+</br>
+</br>
+</br>
 
 # Introduction
 
-UD_Akuntsu-TuDeT is a collection of annotated texts in Akuntsú. Together with [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT) and UD_Munduruku-TuDeT, UD_Akuntsu-TuDeT is part of the [TuLaR](https://tular.org) project.  The sentences are being annotated by Carolina Aragon and Fabrício Ferraz Gerardi.
+UD_Akuntsu-TuDeT is a collection of annotated texts in Akuntsú. Together with [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT) and UD_Munduruku-TuDeT, UD_Akuntsu-TuDeT is part of the [TuLaR](https://tular.org) project.  The sentences are being annotated by Carolina Aragon and Fabrício Ferraz Gerardi. Besides the wors cited in the References Section, all the annotated sentences stem from Carolina's field work. 
 
 
 # Acknowledgments
