@@ -1,3 +1,7 @@
 # sent_id = 25
-# text = 
-# text_port = 
+# text = kwaẽ te ipitka  
+# text_eng = the pot, she is scrabbing it
+1	kwaẽ	kwaẽ	NOUN	n	_	3	obj	3:obj	_
+2	te	te	PART	pcl	_	1	discourse	1:discourse	_
+3	ipitka	pit	VERB	vt	Person=3|Trans=Yes	0	root	0:root	_
+
