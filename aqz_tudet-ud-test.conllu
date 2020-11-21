@@ -178,3 +178,30 @@
 1	oetara	et	VERB	vi	Aspect=Hab|Person=1	0	root	0:root	_
 2	otoa	toa	AUX	aux	Person=1	1	aux	1:aux	_
 
+# sent_id = 25
+# text = kwaẽ te ipitka  
+# text_eng = the pot, she is scrabbing it (3.30)
+1	kwaẽ	kwaẽ	NOUN	n	_	3	obj	3:obj	_
+2	te	te	PART	pcl	_	1	discourse	1:discourse	_
+3	ipitka	pit	VERB	vt	Person=3|Trans=Yes	0	root	0:root	_
+
+# sent_id = 26
+# text = erẽ epo tʃoga erẽ
+# text_eng = you bite your hand (3.32)
+1	erẽ	erẽ	PRON	pro	Number=Sing|PronType=Emp	3	nsubj	3:nsubj	_
+2	epo	po	NOUN	n	Number=Sing|Person=2	3	obj	3:obj	_
+3	tʃoga	tʃoga	VERB	vt	_	0	root	0:root	_
+4	erẽ	erẽ	PRON	pro	Number=Sing|PronType=Emp	1	discourse	1:discourse	_
+
+# sent_id = 27
+# text = jẽ kem kɨ jẽ kem kɨrom
+# text_eng = This one has breast-milk, this one doesn't have breast-milk (3.33b)
+1	jẽ	jẽ	DET	dem	Dem=Prox	3	nmod	3:nmod	_
+2	kem	kem	NOUN	n	_	3	nmod	3:nmod	_
+3	kɨ	kɨ	NOUN	n	_	0	root	0:root	_
+4	jẽ	jẽ	DET	dem	Dem=Prox	6	nmod	6:nmod	_
+5	kem	kem	NOUN	n	_	6	nmod	6:nmod	_
+6-7	kɨrom	_	_	_	_	_	_	_	_
+6	kɨ	kɨ	NOUN	n	_	3	parataxis	3:parataxis	_
+7	rom	rom	ADV	adv	_	6	advmod	6:advmod	_
+
