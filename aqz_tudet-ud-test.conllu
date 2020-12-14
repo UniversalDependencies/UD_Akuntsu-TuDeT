@@ -6,7 +6,7 @@
 # text_port = This one eats leaf  3.10a
 1	ep	ep	NOUN	n	_	2	obj	2:obj	_
 2	koa	ko	VERB	vt	_	0	root	0:root	_
-3	jẽ	jẽ	DET	dem	Dem=Prox	2	nsubj	2:nsubj	_
+3	jẽ	jẽ	DET	dem	Deixis=Prox	2	nsubj	2:nsubj	_
 
 # sent_id = 2
 # text = apara tep tʃopa jẽ
@@ -14,7 +14,7 @@
 1	apara	apara	NOUN	n	_	2	nmod	2:nmod	_
 2	tep	ep	NOUN	n	Rel=Cont	3	obj	3:obj	_
 3	tʃopa	tʃop	VERB	vt	_	0	root	0:root	_
-4	jẽ	jẽ	DET	dem	Dem=Prox	3	nsubj	3:nsubj	_
+4	jẽ	jẽ	DET	dem	Deixis=Prox	3	nsubj	3:nsubj	_
 
 # sent_id = 3
 # text = Konibu apara koa
@@ -109,7 +109,7 @@
 # text_port = This one eats leaf  1 3.10a
 1	ep	ep	NOUN	n	_	2	obj	2:obj	_
 2	koa	ko	VERB	vt	_	0	root	0:root	_
-3	jẽ	jẽ	DET	dem	Dem=Prox	2	nsubj	2:nsubj	_
+3	jẽ	jẽ	DET	dem	Deixis=Prox	2	nsubj	2:nsubj	_
 
 # sent_id = 16
 # text = kitʃetara kom
@@ -196,10 +196,10 @@
 # sent_id = 27
 # text = jẽ kem kɨ jẽ kem kɨrom
 # text_eng = This one has breast-milk, this one doesn't have breast-milk (3.33b)
-1	jẽ	jẽ	DET	dem	Dem=Prox	3	nmod	3:nmod	_
+1	jẽ	jẽ	DET	dem	Deixis=Prox	3	nmod	3:nmod	_
 2	kem	kem	NOUN	n	_	3	nmod	3:nmod	_
 3	kɨ	kɨ	NOUN	n	_	0	root	0:root	_
-4	jẽ	jẽ	DET	dem	Dem=Prox	6	nmod	6:nmod	_
+4	jẽ	jẽ	DET	dem	Deixis=Prox	6	nmod	6:nmod	_
 5	kem	kem	NOUN	n	_	6	nmod	6:nmod	_
 6-7	kɨrom	_	_	_	_	_	_	_	_
 6	kɨ	kɨ	NOUN	n	_	3	parataxis	3:parataxis	_
