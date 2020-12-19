@@ -1,5 +1,12 @@
 # sent_id = 28
-# text = oatap ãka             ẽ       ẽ	o=ø-atap     õkwa       on  
-# text_eng = This one has breast-milk, this one doesn't have breast-milk (3.35)
-
+# text = oatap ãka ẽ ẽ oatap õkwa on  
+# text_eng = My hair, that way, I wash my hair (3.35)
+1	oatap	_	NOUN	_	_	0	root	0:root	_
+2	ãka	_	PART	_	_	1	discourse	1:discourse	_
+3	ẽ	_	INTJ	_	_	1	discourse	1:discourse	_
+4	ẽ	_	INTJ	_	_	1	discourse	1:discourse	_
+5	,	_	PUNCT	_	_	1	punct	1:punct|7:punct	_
+6	oatap	_	NOUN	_	_	7	obj	7:obj	_
+7	õkwa	_	VERB	_	_	0	root	0:root	_
+8	on	_	PRON	_	_	7	nsubj	7:nsubj	_
 
