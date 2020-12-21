@@ -1,12 +1,4 @@
-# sent_id = 28
+# sent_id = 29
 # text = oatap ãka ẽ ẽ oatap õkwa on  
 # text_eng = My hair, that way, I wash my hair (3.35)
-1	oatap	atap	NOUN	n	Person=1	0	root	0:root	_
-2	ãka	ãka	PART	pcl	_	1	discourse	1:discourse	_
-3	ẽ	ẽ	INTJ	intj	_	1	discourse	1:discourse	_
-4	ẽ	ẽ	INTJ	intj	_	1	discourse	1:discourse	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct|6:punct	_
-6	oatap	atap	NOUN	n	Person=1	7	obj	7:obj	_
-7	õkwa	õkwa	VERB	vi	_	0	root	0:root	_
-8	on	on	PRON	pro	PronType=Prs	7	nsubj	7:nsubj	_
 
