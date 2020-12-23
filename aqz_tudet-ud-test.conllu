@@ -206,7 +206,7 @@
 7	rom	rom	ADV	adv	_	6	advmod	6:advmod	_
 
 # sent_id = 28
-# text = oatap ãka ẽ ẽ oatap õkwa on  
+# text = oatap ãka ẽ ẽ , oatap õkwa on
 # text_eng = My hair, that way, I wash my hair (3.35)
 1	oatap	atap	NOUN	n	Person=1	0	root	0:root	_
 2	ãka	ãka	PART	pcl	_	1	discourse	1:discourse	_
