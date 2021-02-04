@@ -1,6 +1,6 @@
 # document_source = Carolina (2014) A Grammar of Akuntsú, a Tupían Language. University of Hawaii. Unpublished PhD Thesis.
 # document_authorship = Carolina Aragon and Fabrício Ferraz Gerardi
-# document_reference = 
+# document_reference =
 # sent_id = 1
 # text = ep koa jẽ
 # text_port = This one eats leaf  3.10a
@@ -138,7 +138,7 @@
 
 # sent_id = 19
 # text = kopiba mõatʃoa on
-# text_eng = I bathe the parrot    5.3b    
+# text_eng = I bathe the parrot    5.3b
 1	kopiba	kopiba	NOUN	n	_	2	obj	2:obj	_
 2	mõatʃoa	atʃop	VERB	vi	Voice=Cau	0	root	0:root	_
 3	on	on	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
@@ -189,7 +189,7 @@
 # text = erẽ epo tʃoga erẽ
 # text_eng = you bite your hand (3.32)
 1	erẽ	erẽ	PRON	pro	Number=Sing|PronType=Emp	3	nsubj	3:nsubj	_
-2	epo	po	NOUN	n	Number=Sing|Person=2	3	obj	3:obj	_
+2	epo	po	NOUN	n	Person=2	3	obj	3:obj	_
 3	tʃoga	tʃoga	VERB	vt	_	0	root	0:root	_
 4	erẽ	erẽ	PRON	pro	Number=Sing|PronType=Emp	1	discourse	1:discourse	_
 
