@@ -27,7 +27,7 @@
 # text = kitʃe aramĩra
 # text_eng = We are woman  3.12
 1	kitʃe	kitʃe	PRON	pro	Clusivity=In|PronType=Prs	0	root	0:root	_
-2	aramĩra	aramĩra	NOUN	_	_	1	nsubj	1:nsubj	_
+2	aramĩra	aramĩra	NOUN	n	_	1	nsubj	1:nsubj	_
 
 # sent_id = 5
 # text = Tʃaruj kɨjtpit õa te Kanibõ
@@ -43,7 +43,7 @@
 # text_eng = Carol's bed is damaged  3.22
 1	Karow	Karow	PROPN	pn	_	2	nmod	2:nmod	_
 2	etap	et	NOUN	n	_	3	nmod	3:nmod	_
-3	tek	ek	NOUN	n	_	0	root	0:root	_
+3	tek	ek	NOUN	n	Rel=Cont	0	root	0:root	_
 4	iw	iw	ADJ	adj	_	3	amod	3:amod	_
 
 # sent_id = 7
@@ -167,7 +167,7 @@
 # sent_id = 23
 # text = en ikoromka
 # text_eng = You cut it  3.28b
-1	en	en	PRON	pr	_	2	nsubj	2:nsubj	_
+1	en	en	PRON	pro	Number=Sing|Person=2|PronType=Prs	nsubj	2:nsubj	_
 2	ikoromka	korom	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 24
@@ -233,3 +233,6 @@
 6	atiti	atiti	NOUN	n	_	7	obj	7:obj	_
 7	ta	ta	VERB	vt	_	2	parataxis	2:parataxis	_
 
+# sent_id = 31
+# text = no tet eni amkwa on
+# text_eng = The other (thing's) name I (say is) rope of the hammock (4.1)
