@@ -32,7 +32,7 @@
 # sent_id = 5
 # text = Tʃaruj kɨjtpit õa te Kanibõ
 # text_eng = Tʃaruj gave fish to Kani  3.21
-1	Tʃaruj	Tʃaruj	PROPN	ppn	_	3	nsubj	3:nsubj	_
+1	Tʃaruj	Tʃaruj	PROPN	pn	_	3	nsubj	3:nsubj	_
 2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
 3	õa	õ	VERB	vt	_	0	root	0:root	_
 4	te	te	PART	pcl	_	3	dep	3:dep	_
@@ -58,7 +58,7 @@
 # text = Ariano teita kɨrẽ
 # text_eng = Adriano arrives today  3.25b
 1	Ariano	Ariano	PROPN	pn	_	2	nsubj	2:nsubj	_
-2	teita	ita	VERB	vi	_	0	root	0:root	_
+2	teita	ita	VERB	vi	Person:3	0	root	0:root	_
 3	kɨrẽ	kɨrẽ	ADV	adv	_	2	advmod	2:advmod	_
 
 # sent_id = 9
@@ -120,9 +120,9 @@
 # sent_id = 17
 # text = Karow etap tek iw
 # text_eng = Carol's bed is damaged  3.22
-1	Karow	Karow	PROPN	ppn	_	2	nmod	2:nmod	_
+1	Karow	Karow	PROPN	pn	_	2	nmod	2:nmod	_
 2	etap	et	NOUN	n	_	3	nmod	3:nmod	_
-3	tek	ek	NOUN	n	_	0	root	0:root	_
+3	tek	ek	NOUN	n	Rel=Cont 0	root	0:root	_
 4	iw	iw	NOUN	n	_	3	amod	3:amod	_
 
 # sent_id = 18
@@ -144,8 +144,8 @@
 # sent_id = 20
 # text = Pura ikoa te
 # text_eng = Pura eats it  3.3
-1	Pura	Pura	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ikoa	ko	VERB	vt	_	0	root	0:root	_
+1	Pura	Pura	NOUN	pn	_	2	nsubj	2:nsubj	_
+2	ikoa	ko	VERB	vt	Person:3	0	root	0:root	_
 3	te	te	PART	pcl	_	2	discourse	2:discourse	_
 
 # sent_id = 21
@@ -167,7 +167,7 @@
 # sent_id = 23
 # text = en ikoromka
 # text_eng = You cut it  3.28b
-1	en	en	PRON	pro	Number=Sing|Person=2|PronType=Prs	nsubj	2:nsubj	_
+1	en	en	PRON	pro	Number=Sing|Person=2|PronType=Prs 2	nsubj	2:nsubj	_
 2	ikoromka	korom	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 24
@@ -234,5 +234,8 @@
 7	ta	ta	VERB	vt	_	2	parataxis	2:parataxis	_
 
 # sent_id = 31
-# text = no tet eni amkwa on
-# text_eng = The other (thing's) name I (say is) rope of the hammock (4.1)
+# text = kaɾã tepna
+# text_eng = It's for the brazil nut's leaf (4.1c)
+1	kaɾã	kaɾã	NOUN	n	_	2	nmod	2:nmod	_
+2	tepna	ep	NOUN	n	Rel=Cont	0	root	0:root	_
+
