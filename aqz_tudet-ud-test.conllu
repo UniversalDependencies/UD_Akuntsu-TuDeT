@@ -143,21 +143,21 @@
 
 # sent_id = 20
 # text = Pura ikoa te
-# text_port = Pura eats it  3.3
+# text_eng = Pura eats it  3.3
 1	Pura	Pura	NOUN	n	_	2	nsubj	2:nsubj	_
 2	ikoa	ko	VERB	vt	_	0	root	0:root	_
 3	te	te	PART	pcl	_	2	discourse	2:discourse	_
 
 # sent_id = 21
 # text = erape okwata kom
-# text_port = Tomorrow I will leave  3.25
+# text_eng = Tomorrow I will leave  3.25
 1	erape	erape	ADV	adv	_	2	advmod	2:advmod	_
 2	okwata	kwat	VERB	vi	Mood=Ind|Person=1|VerbForm=Fin	0	root	0:root	_
 3	kom	kom	PART	pcl	_	2	advmod	2:advmod	_
 
 # sent_id = 22
 # text = potʃek momo tejã otek etʃe
-# text_port = The notebook stayed for long time in my house  3.27
+# text_eng = The notebook stayed for long time in my house  3.27
 1	potʃek	potʃek	NOUN	n	_	2	nsubj	2:nsubj	_
 2	momo	mo	VERB	vt	_	0	root	0:root	_
 3	tejã	jã	AUX	aux	Person=3	2	aux	2:aux	_
@@ -166,13 +166,13 @@
 
 # sent_id = 23
 # text = en ikoromka
-# text_port = You cut it  3.28b
+# text_eng = You cut it  3.28b
 1	en	en	PRON	pr	_	2	nsubj	2:nsubj	_
 2	ikoromka	korom	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 24
 # text = oetara otoa
-# text_port = I am going to sleep  3.29
+# text_eng = I am going to sleep  3.29
 1	oetara	et	VERB	vi	Aspect=Hab|Person=1	0	root	0:root	_
 2	otoa	toa	AUX	aux	Person=1	1	aux	1:aux	_
 
@@ -225,4 +225,11 @@
 # sent_id = 30
 # text = tʃoktʃok	atiti ta
 # text_eng = planting, planting, (I am) planting corn (3.38)
+1	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	ita	ta	VERB	vt	Person=3	0	root	0:root	_
+3	tʃoktʃok	tʃok	VERB	ideo	_	2	dep	2:dep	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	tʃoktʃok	tʃok	VERB	ideo	_	3	dep	3:dep	_
+6	atiti	atiti	NOUN	n	_	7	obj	7:obj	_
+7	ta	ta	VERB	vt	_	2	parataxis	2:parataxis	_
 
