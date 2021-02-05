@@ -3,14 +3,14 @@
 # document_reference =
 # sent_id = 1
 # text = ep koa jẽ
-# text_eng = This one eats leaf (3.10a)
+# text_port = This one eats leaf  3.10a
 1	ep	ep	NOUN	n	_	2	obj	2:obj	_
 2	koa	ko	VERB	vt	_	0	root	0:root	_
 3	jẽ	jẽ	DET	dem	Deixis=Prox	2	nsubj	2:nsubj	_
 
 # sent_id = 2
 # text = apara tep tʃopa jẽ
-# text_eng = This one sees banana's leaf (3.10b)
+# text_port = This one sees banana's leaf  3.10b
 1	apara	apara	NOUN	n	_	2	nmod	2:nmod	_
 2	tep	ep	NOUN	n	Rel=Cont	3	obj	3:obj	_
 3	tʃopa	tʃop	VERB	vt	_	0	root	0:root	_
@@ -18,20 +18,20 @@
 
 # sent_id = 3
 # text = Konibu apara koa
-# text_eng = Konibu eats banana (3.11)
+# text_port = Konibu eats banana  3.11
 1	Konibu	Konibu	PROPN	pn	_	3	nsubj	3:nsubj	_
 2	apara	apara	NOUN	n	_	3	obj	3:obj	_
 3	koa	ko	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 4
 # text = kitʃe aramĩra
-# text_eng = We are woman (3.12)
+# text_port = We are woman  3.12
 1	kitʃe	kitʃe	PRON	pro	Clusivity=In|PronType=Prs	0	root	0:root	_
 2	aramĩra	aramĩra	NOUN	_	_	1	nsubj	1:nsubj	_
 
 # sent_id = 5
 # text = Tʃaruj kɨjtpit õa te Kanibõ
-# text_eng = Tʃaruj gave fish to Kani 3.21
+# text_port = Tʃaruj gave fish to Kani  3.21
 1	Tʃaruj	Tʃaruj	PROPN	ppn	_	3	nsubj	3:nsubj	_
 2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
 3	õa	õ	VERB	vt	_	0	root	0:root	_
@@ -40,7 +40,7 @@
 
 # sent_id = 6
 # text = Karow etap tek iw
-# text_eng = Carol's bed is damaged 3.22
+# text_eng = Carol's bed is damaged  3.22
 1	Karow	Karow	PROPN	pn	_	2	nmod	2:nmod	_
 2	etap	et	NOUN	n	_	3	nmod	3:nmod	_
 3	tek	ek	NOUN	n	_	0	root	0:root	_
@@ -48,7 +48,7 @@
 
 # sent_id = 7
 # text = pero okwaj tokwaj perek
-# text_eng = Makaw's tail, it's long tail 3.23b
+# text_eng = Makaw's tail, it's long tail  3.23b
 1	pero	pero	NOUN	n	_	2	nmod	2:nmod	_
 2	okwaj	okwaj	NOUN	n	Rel=Cont	3	dislocated	3:dislocated	_
 3	tokwaj	okwaj	NOUN	n	_	0	root	0:root	_
@@ -56,49 +56,49 @@
 
 # sent_id = 8
 # text = Ariano teita kɨrẽ
-# text_eng = Adriano arrives today 3.25b
+# text_port = Adriano arrives today  3.25b
 1	Ariano	Ariano	PROPN	pn	_	2	nsubj	2:nsubj	_
 2	teita	ita	VERB	vi	_	0	root	0:root	_
 3	kɨrẽ	kɨrẽ	ADV	adv	_	2	advmod	2:advmod	_
 
 # sent_id = 9
 # text = kitʃe tawtʃe koa
-# text_eng = We eat peccary 3.28a
+# text_port = We eat peccary  3.28a
 1	kitʃe	kitʃe	PRON	pro	Clusivity=In|PronType=Prs	3	nsubj	3:nsubj	_
 2	tawtʃe	tawtʃe	NOUN	n	_	3	obj	3:obj	_
 3	koa	ko	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 10
 # text = Kani okɨpi kemkɨrom
-# text_eng = Kani, my younger sister, doesn't have breast-milk 4.1b
+# text_eng = 1 4.1b
 1	Kani	Kani	PROPN	pn	_	0	root	0:root	_
 2	okɨpi	kɨpi	NOUN	n	_	1	appos	1:appos	_
 3	kemkɨrom	kemkɨ	ADJ	adj	_	1	amod	1:amod	_
 
 # sent_id = 11
 # text = kwako kɨpek koa
-# text_eng = The guan is eating papaya 4.3b
+# text_port =  4.3b
 1	kwako	kwako	NOUN	n	_	3	nsubj	3:nsubj	_
 2	kɨpek	kɨpek	NOUN	v	_	3	obj	3:obj	_
 3	koa	ko	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 12
 # text = pi maã en
-# text_eng = You wear the feet 4.47a
+# text_port =  4.47a
 1	pi	pi	NOUN	n	_	2	obj	2:obj	_
 2	maã	maã	VERB	vt	_	0	root	0:root	_
 3	en	en	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
 
 # sent_id = 13
 # text = Kɨte babape at
-# text_eng = Take one glass!  4.84b
+# text_port = Take one glass!  4.84b
 1	Kɨte	kɨte	NUM	num	_	2	nummod	2:nummod	_
 2	babape	babape	NOUN	n	_	3	obj	3:obj	_
 3	at	at	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 14
 # text = Buko kɨte korakora mi
-# text_eng = Buquá killed one chicken  4.84c
+# text_port = Buquá killed one chicken  4.84c
 1	Buko	Buko	PROPN	pn	_	4	nsubj	4:nsubj	_
 2	kɨte	kɨte	NUM	num	_	3	nummod	3:nummod	_
 3	korakora	korakora	NOUN	n	_	4	obj	4:obj	_
@@ -106,14 +106,14 @@
 
 # sent_id = 15
 # text = ep koa jẽ
-# text_eng = This one eats leaf 3.10a
+# text_port = This one eats leaf  1 3.10a
 1	ep	ep	NOUN	n	_	2	obj	2:obj	_
 2	koa	ko	VERB	vt	_	0	root	0:root	_
 3	jẽ	jẽ	DET	dem	Deixis=Prox	2	nsubj	2:nsubj	_
 
 # sent_id = 16
 # text = kitʃetara kom
-# text_eng = We will leave (as usual)  3.19
+# text_port = We will leave (as usual)  3.19
 1	kitʃetara	tʃet	VERB	v	Aspect=Hab|Clusivity=In|Mood=Ind|Person=1|VerbForm=Fin	0	root	0:root	_
 2	kom	kom	PART	pcl	_	1	advmod	1:advmod	_
 
@@ -128,38 +128,36 @@
 # sent_id = 18
 # text = teti pururu aj ɨmɨmere etʃe
 # text_eng = His own mother came and stayed around the Omere  3.36
-1-2	teti	_	_	_	_	_	_	_	_
-1	te	te	PRON	pro	PronType=Prs|Reflex=Yes	2	nmod	2:nmod	_
-2	ti	ti	NOUN	n	_	3	nsubj	3:nsubj	_
-3	pururu	puru	VERB	ide	_	0	root	0:root	_
-4	aj	aj	VERB	vi	_	3	parataxis	3:parataxis	_
-5	ɨmɨmere	ɨmɨmere	NOUN	n	_	4	obl	4:obl	_
-6	etʃe	etʃe	ADP	posp	Case=Per	5	case	5:case	_
+1	teti	ti	NOUN	n	Person=3|Reflex=Yes	2	nsubj	2:nsubj	_
+2	pururu	pururu	VERB	ideo	_	0	root	0:root	_
+3	aj	aj	VERB	vi	_	2	dep	2:dep	_
+4	ɨmɨmere	ɨmɨmere	NOUN	n	_	2	obl	2:obl	_
+5	etʃe	etʃe	ADP	posp	_	4	case	4:case	_
 
 # sent_id = 19
 # text = kopiba mõatʃoa on
-# text_eng = I bathe the parrot 5.3b
+# text_eng = I bathe the parrot    5.3b
 1	kopiba	kopiba	NOUN	n	_	2	obj	2:obj	_
 2	mõatʃoa	atʃop	VERB	vi	Voice=Cau	0	root	0:root	_
 3	on	on	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
 
 # sent_id = 20
 # text = Pura ikoa te
-# text_eng = Pura eats it  3.3
+# text_port = Pura eats it  3.3
 1	Pura	Pura	NOUN	n	_	2	nsubj	2:nsubj	_
 2	ikoa	ko	VERB	vt	_	0	root	0:root	_
 3	te	te	PART	pcl	_	2	discourse	2:discourse	_
 
 # sent_id = 21
 # text = erape okwata kom
-# text_eng = Tomorrow I will leave  3.25
+# text_port = Tomorrow I will leave  3.25
 1	erape	erape	ADV	adv	_	2	advmod	2:advmod	_
 2	okwata	kwat	VERB	vi	Mood=Ind|Person=1|VerbForm=Fin	0	root	0:root	_
 3	kom	kom	PART	pcl	_	2	advmod	2:advmod	_
 
 # sent_id = 22
 # text = potʃek momo tejã otek etʃe
-# text_eng = The notebook stayed for long time in my house  3.27
+# text_port = The notebook stayed for long time in my house  3.27
 1	potʃek	potʃek	NOUN	n	_	2	nsubj	2:nsubj	_
 2	momo	mo	VERB	vt	_	0	root	0:root	_
 3	tejã	jã	AUX	aux	Person=3	2	aux	2:aux	_
@@ -168,13 +166,13 @@
 
 # sent_id = 23
 # text = en ikoromka
-# text_eng = You cut it  3.28b
+# text_port = You cut it  3.28b
 1	en	en	PRON	pr	_	2	nsubj	2:nsubj	_
 2	ikoromka	korom	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 24
 # text = oetara otoa
-# text_eng = I am going to sleep  3.29
+# text_port = I am going to sleep  3.29
 1	oetara	et	VERB	vi	Aspect=Hab|Person=1	0	root	0:root	_
 2	otoa	toa	AUX	aux	Person=1	1	aux	1:aux	_
 
@@ -216,8 +214,4 @@
 6	oatap	atap	NOUN	n	Person=1	7	obj	7:obj	_
 7	õkwa	õkwa	VERB	vi	_	0	root	0:root	_
 8	on	on	PRON	pro	PronType=Prs	7	nsubj	7:nsubj	_
-
-# sent_id = 29
-# text = on ita	tʃoktʃok
-# text_eng = I am planting it, planting, planting (3.37)
 
