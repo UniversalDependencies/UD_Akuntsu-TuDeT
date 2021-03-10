@@ -122,7 +122,7 @@
 # text_eng = Carol's bed is damaged  3.22
 1	Karow	Karow	PROPN	pn	_	2	nmod	2:nmod	_
 2	etap	et	NOUN	n	_	3	nmod	3:nmod	_
-3	tek	ek	NOUN	n	Rel=Cont 0	root	0:root	_
+3	tek	ek	NOUN	n	Rel=Cont  0	root	0:root	_
 4	iw	iw	NOUN	n	_	3	amod	3:amod	_
 
 # sent_id = 18
