@@ -167,7 +167,7 @@
 # sent_id = 23
 # text = en ikoromka
 # text_eng = You cut it  3.28b
-1	en	en	PRON	pro	Number=Sing|Person=2|PronType=Prs 2	nsubj	2:nsubj	_
+1	en	en	PRON	pro	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
 2	ikoromka	korom	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 24
