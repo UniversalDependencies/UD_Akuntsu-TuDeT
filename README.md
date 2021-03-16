@@ -3,7 +3,7 @@
 # Summary
 
 UD_Akunstu-TuDeT is a collection of annotated sentences in <a href="http://endangeredlanguages.com/lang/1567"> Akuntsú</a>.
-Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Munduruku-TuDeT</a>, <a href="https://github.com/UniversalDependencies/UD_Tupinambá-TuDeT">UD_Tupinambá-TuDeT</a>, UD_Akuntsu-TuDeT is part of <a href="https://tular.org">TuLaR</a>. 
+Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Munduruku-TuDeT</a> and <a href="https://github.com/UniversalDependencies/UD_Tupinambá-TuDeT">UD_Tupinambá-TuDeT</a>, UD_Akuntsu-TuDeT is part of <a href="https://tular.org">TuLaR</a>. 
 
 </br>
 </br>
