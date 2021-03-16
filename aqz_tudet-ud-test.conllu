@@ -33,6 +33,7 @@
 # sent_id = 5
 # text = Tʃaruj kɨjtpit õa te Kanibõ
 # text_eng = Tʃaruj gave fish to Kani (3.21)
+
 1	Tʃaruj	Tʃaruj	PROPN	pn	_	3	nsubj	3:nsubj	_
 2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
 3	õa	õ	VERB	vt	_	0	root	0:root	_
@@ -73,8 +74,8 @@
 # text = Kani okɨpi kemkɨrom
 # text_eng = Kani, my younger sister, doesn't have breast-milk (4.1b)
 1	Kani	Kani	PROPN	pn	_	0	root	0:root	_
-2	okɨpi	kɨpi	NOUN	n	_	1	appos	1:appos	_
-3	kemkɨrom	kemkɨ	ADJ	adj	_	1	amod	1:amod	_
+2	okɨpi	kɨpi	NOUN	n	Person=1|Rel=Cont	1	appos	1:appos	_
+3	kemkɨrom	kemkɨ	NOUN	n	_	1	amod	1:amod	_
 
 # sent_id = 11
 # text = kwako kɨpek koa
@@ -253,4 +254,12 @@
 # text_eng = It is my guan's food (4.2b)
 1	okwako	kwako	NOUN	n	Person=1|Rel=Cont	2	nmod	2:nmod	_
 2	ikona	ko	NOUN	n	Person=3|Case=Tra	0	root	0:root	_
+
+# sent_id = 34
+# text = eɾẽ ekoɾo	nõm
+# text_eng = You don't have your bowl (4.2c)
+1	eɾẽ	eɾẽ	PRON	prn	Person=2	2	nsubj	2:nsubj	_
+2	ekoɾo	koro	NOUN	n	Person=2|Rel=Cont	_	_	_	_
+3	nõm	nõm	ADV	adv	_	2	advmod	2:advmod	_
+
 
