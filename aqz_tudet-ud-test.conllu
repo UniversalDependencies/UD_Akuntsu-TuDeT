@@ -1,6 +1,6 @@
 # document_source = Carolina (2014) A Grammar of Akuntsú, a Tupían Language. University of Hawaii. Unpublished PhD Thesis.
 # document_authorship = Carolina Aragon and Fabrício Ferraz Gerardi
-# document_reference = 
+# document_reference =
 
 # sent_id = 1
 # text = ep koa jẽ
@@ -33,7 +33,6 @@
 # sent_id = 5
 # text = Tʃaruj kɨjtpit õa te Kanibõ
 # text_eng = Tʃaruj gave fish to Kani (3.21)
-
 1	Tʃaruj	Tʃaruj	PROPN	pn	_	3	nsubj	3:nsubj	_
 2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
 3	õa	õ	VERB	vt	_	0	root	0:root	_
