@@ -225,7 +225,7 @@
 3	ta	ta	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 30
-# text = tʃoktʃok	atiti ta
+# text = on tʃoktʃok	atiti ta
 # text_eng = planting, planting, (I am) planting corn (3.38)
 1	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	ita	ta	VERB	vt	Person=3	0	root	0:root	_
