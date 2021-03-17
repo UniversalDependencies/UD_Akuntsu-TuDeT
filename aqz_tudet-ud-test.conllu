@@ -253,7 +253,7 @@
 # text = okwako ikona
 # text_eng = It is my guan's food (4.2b)
 1	okwako	kwako	NOUN	n	Person=1|Rel=Cont	2	nmod	2:nmod	_
-2	ikona	ko	NOUN	n	Person=3|Case=Tra	0	root	0:root	_
+2	ikona	ko	NOUN	n	Case=Tra|Person=3	0	root	0:root	_
 
 # sent_id = 34
 # text = eɾẽ ekoɾo nõm
