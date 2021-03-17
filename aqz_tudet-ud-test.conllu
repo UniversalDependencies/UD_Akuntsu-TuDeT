@@ -220,9 +220,9 @@
 # sent_id = 29
 # text = on ita tʃoktʃok
 # text_eng = I am planting it, planting, planting (3.37)
-1	tʃoktʃok	tʃok	VERB	ideo	_	3	dep	3:dep	_
-2	atiti	atiti	NOUN	n	_	3	obj	3:obj	_
-3	ta	ta	VERB	vt	_	0	root	0:root	_
+1	on	on	PRON	prn	_	2	nsubj	2:nsubj	_
+2	ita	ta	VERB	vt	Person=3	0	root	0:root	_
+3	tʃoktʃok	tʃok	VERB	ideo	_	2	dep	2:dep	_
 
 # sent_id = 30
 # text = tʃoktʃok atiti ta
