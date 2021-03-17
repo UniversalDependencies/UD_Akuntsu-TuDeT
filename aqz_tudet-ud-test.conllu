@@ -256,7 +256,7 @@
 2	ikona	ko	NOUN	n	Person=3|Case=Tra	0	root	0:root	_
 
 # sent_id = 34
-# text = eɾẽ ekoɾo	nõm
+# text = eɾẽ ekoɾo nõm
 # text_eng = You don't have your bowl (4.2c)
 1	eɾẽ	eɾẽ	PRON	prn	Person=2|PronType=Prs	2	nsubj	2:nsubj	_
 2	ekoɾo	koro	NOUN	n	Person=2|Rel=Cont	0	root	0:root	_
