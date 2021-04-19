@@ -207,7 +207,7 @@
 7	rom	rom	ADV	adv	_	6	advmod	6:advmod	_
 
 # sent_id = 28
-# text = oatap ãka ẽ ẽ , oatap õkwa on
+# text = oatap ãka ẽ ẽ, oatap õkwa on
 # text_eng = My hair, that way, I wash my hair (3.35)
 1	oatap	atap	NOUN	n	Person=1	7	nsubj	7:nsubj	_
 2	ãka	ãka	PART	pcl	_	1	discourse	1:discourse	_
@@ -253,13 +253,27 @@
 2	ikona	ko	NOUN	n	Case=Tra|Person=3	0	root	0:root	_
 
 # sent_id = 34
-# text = eɾẽ ekoɾo nõm
+# text = eɾẽ ekoro nõm
 # text_eng = You don't have your bowl (4.2c)
 1	eɾẽ	eɾẽ	PRON	prn	Number=Sing|Person=2|PronType=Emp	2	nsubj	2:nsubj	_
-2	ekoɾo	koro	NOUN	n	Person=2|Rel=Cont	0	root	0:root	_
+2	ekoro	koro	NOUN	n	Person=2|Rel=Cont	0	root	0:root	_
 3	nõm	nõm	ADV	adv	_	2	advmod	2:advmod	_
 
-# sent_id = 34
-# text = eɾẽ ekoɾo nõm
-# text_eng = You don't have your bowl (4.2c)
+# sent_id = 35
+# text = kotin, eme peka
+# text_eng = The small hook, bring this one (4.3a)
+1	kotin	ko	NOUN	n	_	3	appos	3:appos	_
+2	,	,	PUNCT	punct	_	3	punct	3:punct	_
+3	eme	eme	DET	dem	 Deixis=Prox	4	obj	4:obj	_
+4	peka	peka	VERB	vt	_	0	root	0:root	_
 
+# sent_id = 36
+# text = koro, oeɾekwa   
+# text_eng = Bowl, I say (4.3c)
+1	koro	koro	NOUN	n	_	3	appos	3:appos	_
+2	,	,	PUNCT	punct	_	3	punct	3:punct	_
+3	oeɾekwa	erek	VERB	vi	Person=1|Trans=Yes	0	root	0:root	_
+
+# sent_id = 37
+# text = okɨp atapeɾom, ke kɨp atap   
+# text_eng = My leg doesn't have hair, this one's leg has hair (4.4)
