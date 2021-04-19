@@ -161,11 +161,11 @@
 # sent_id = 22
 # text = potʃek momo tejã otek etʃe
 # text_eng = The notebook stayed for long time in my house (3.27)
-1	potʃek	potʃek	NOUN	n	_	2	nsubj	2:nsubj	_
-2	momo	mo	VERB	vt	_	0	root	0:root	_
-3	tejã	jã	AUX	aux	Person=3	2	aux	2:aux	_
-4	otek	ek	NOUN	n	Person=1|Rel=Cont	2	obl	2:obl	_
-5	etʃe	etʃe	ADP	loc	_	4	nmod	4:nmod	_
+1	potʃek	potʃek	NOUN	n	_	3	nsubj	3:nsubj	_
+2	momo	mo	ADV	adv	_	3	advmod	3:advmod	_
+3	tejã	jã	AUX	aux	Person=3	0	root	0:root	_
+4	otek	ek	NOUN	n	Person=1|Rel=Cont	3	obl	3:obl	_
+5	etʃe	etʃe	ADP	loc	_	4	case	4:case	_
 
 # sent_id = 23
 # text = en ikoromka
@@ -297,5 +297,16 @@
 6	te	te	PART	pcl	_	5	discourse	5:discourse	_
 
 # sent_id = 39
-# text = Ke Kani   
+# text = ke Kani   
 # text_eng = This is Kani (4.6)
+1	ke	ke	DET	dem	Dem=Prox	2	nmod	2:nmod	_
+2	Kani	kani	NOUN	pn	_	0	root	0:root	_
+
+# sent_id = 40
+# text = koni tʃe okɨp etʃe  
+# text_eng = The thorn gets into my leg (4.10a)
+1	koni	koni	NOUN	n	_	2	nsubj	2:nsubj	_
+2	tʃe	tʃe	VERB	vi	_	0	root	0:root	_
+3	okɨp	kɨp	NOUN	n	Person=1|Rel=Cont	2	obl	2:obl	_
+4	etʃe	etʃe	ADP	loc	_	3	case	3:case	_
+
