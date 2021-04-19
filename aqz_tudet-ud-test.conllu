@@ -131,18 +131,18 @@
 # sent_id = 18
 # text = teti pururu aj ɨmɨmere etʃe
 # text_eng = His own mother came and stayed around the Omere (3.36)
-1	teti	ti	NOUN	n	Person=3|Reflex=Yes	2	nsubj	2:nsubj	_
+1	teti	ti	NOUN	n	Person=3|Reflex=Yes|Rel=Cont	2	nsubj	2:nsubj	_
 2	pururu	pururu	VERB	ideo	_	0	root	0:root	_
 3	aj	aj	VERB	vi	_	2	dep	2:dep	_
 4	ɨmɨmere	ɨmɨmere	NOUN	n	_	2	obl	2:obl	_
-5	etʃe	etʃe	ADP	posp	_	4	case	4:case	_
+5	etʃe	etʃe	ADP	loc	_	4	case	4:case	_
 
 # sent_id = 19
 # text = kopiba mõatʃoa on
 # text_eng = I bathe the parrot (5.3b)
 1	kopiba	kopiba	NOUN	n	_	2	obj	2:obj	_
 2	mõatʃoa	atʃop	VERB	vi	Voice=Cau	0	root	0:root	_
-3	on	on	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
+3	on	on	PRON	pro	Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 
 # sent_id = 20
 # text = Pura ikoa te
@@ -163,7 +163,7 @@
 # text_eng = The notebook stayed for long time in my house (3.27)
 1	potʃek	potʃek	NOUN	n	_	3	nsubj	3:nsubj	_
 2	momo	mo	ADV	adv	_	3	advmod	3:advmod	_
-3	tejã	jã	AUX	aux	Person=3	0	root	0:root	_
+3	tejã	jã	VERB	vi	Person=3	0	root	0:root	_
 4	otek	ek	NOUN	n	Person=1|Rel=Cont	3	obl	3:obl	_
 5	etʃe	etʃe	ADP	loc	_	4	case	4:case	_
 
@@ -209,14 +209,14 @@
 # sent_id = 28
 # text = oatap ãka ẽ ẽ, oatap õkwa on
 # text_eng = My hair, that way, I wash my hair (3.35)
-1	oatap	atap	NOUN	n	Person=1	7	nsubj	7:nsubj	_
+1	oatap	atap	NOUN	n	Person=1|Rel=Cont	7	nsubj	7:nsubj	_
 2	ãka	ãka	PART	pcl	_	1	discourse	1:discourse	_
 3	ẽ	ẽ	INTJ	intj	_	1	discourse	1:discourse	_
 4	ẽ	ẽ	INTJ	intj	_	1	discourse	1:discourse	_
 5	,	,	PUNCT	punct	_	1	punct	1:punct	_
-6	oatap	atap	NOUN	n	Person=1	7	obj	7:obj	_
+6	oatap	atap	NOUN	n	Person=1|Rel=Cont	7	obj	7:obj	_
 7	õkwa	õkwa	VERB	vi	_	0	root	0:root	_
-8	on	on	PRON	pro	PronType=Prs	7	nsubj	7:nsubj	_
+8	on	on	PRON	pro	Person=1|PronType=Prs	7	nsubj	7:nsubj	_
 
 # sent_id = 29
 # text = on ita tʃoktʃok
@@ -309,4 +309,36 @@
 2	tʃe	tʃe	VERB	vi	_	0	root	0:root	_
 3	okɨp	kɨp	NOUN	n	Person=1|Rel=Cont	2	obl	2:obl	_
 4	etʃe	etʃe	ADP	loc	_	3	case	3:case	_
+
+# sent_id = 41
+# text = eboɾo etʃe     
+# text_eng = It is along your back (4.10b)
+1	eboɾo	boro	NOUN	n	Person=2|Rel=Cont	0	root	0:root	_
+2	etʃe	etʃe	ADP	loc	_	1	case	1:case	_
+
+# sent_id = 42
+# text = kwako aj ek etʃe      
+# text_eng = Guan stays at home (4.10c)
+1	kwako	kwako	NOUN	n	_	2	nsubj	2:nsubj	_
+2	aj	aj	VERB	vi	_	0	root	0:root	_
+3	ek	ek	NOUN	n	_	2	obl	2:obl	_
+4	etʃe	etʃe	ADP	loc	_	3	case	3:case	_
+
+# sent_id = 43
+# text = ek etʃe imaã                     
+# text_eng = Guan stays at home (4.10d)
+1	ek	ek	NOUN	n	_	3	obl	3:obl	_
+2	etʃe	etʃe	ADP	loc	_	1	case	1:case	_
+3	imaã	maã	VERB	vt	Person=3	0	root	0:root	_
+
+# sent_id = 44
+# text = teatap nĩap ete                    
+# text_eng = It is the braided of her hair (4.11a)
+1	teatap	atap	NOUN	n	Person=3|Reflex=Yes|Rel=Cont	2	nmod	2:nmod	_
+2	nĩap	nĩ	NOUN	n	_	0	root	0:root	_
+3	ete	ete	ADP	rel	_	2	case	2:case	_
+
+# sent_id = 45
+# text = itoaap atʃoap ete                   
+# text_eng = His place of sleeping is wet (4.11b)
 
