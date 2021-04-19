@@ -26,7 +26,7 @@
 # sent_id = 4
 # text = kitʃe aramĩra
 # text_eng = We are woman (3.12)
-1	kitʃe	kitʃe	PRON	pro	Clusivity=In|PronType=Prs	0	root	0:root	_
+1	kitʃe	kitʃe	PRON	pro	Clusivity=In|Person=1|PronType=Prs	0	root	0:root	_
 2	aramĩra	aramĩra	NOUN	n	_	1	nsubj	1:nsubj	_
 
 # sent_id = 5
@@ -50,8 +50,8 @@
 # text = pero okwaj tokwaj perek
 # text_eng = Makaw's tail, it's long tail (3.23b)
 1	pero	pero	NOUN	n	_	2	nmod	2:nmod	_
-2	okwaj	okwaj	NOUN	n	Rel=Cont	3	dislocated	3:dislocated	_
-3	tokwaj	okwaj	NOUN	n	_	0	root	0:root	_
+2	okwaj	okwaj	NOUN	n	_	3	dislocated	3:dislocated	_
+3	tokwaj	okwaj	NOUN	n	Rel=Cont	0	root	0:root	_
 4	perek	perek	ADJ	adj	_	3	amod	3:amod	_
 
 # sent_id = 8
@@ -64,7 +64,7 @@
 # sent_id = 9
 # text = kitʃe tawtʃe koa
 # text_eng = We eat peccary (3.28a)
-1	kitʃe	kitʃe	PRON	pro	Clusivity=In|PronType=Prs	3	nsubj	3:nsubj	_
+1	kitʃe	kitʃe	PRON	pro	Clusivity=In|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	tawtʃe	tawtʃe	NOUN	n	_	3	obj	3:obj	_
 3	koa	ko	VERB	vt	_	0	root	0:root	_
 
@@ -73,21 +73,24 @@
 # text_eng = Kani, my younger sister, doesn't have breast-milk (4.1b)
 1	Kani	Kani	PROPN	pn	_	0	root	0:root	_
 2	okɨpi	kɨpi	NOUN	n	Person=1|Rel=Cont	1	appos	1:appos	_
-3	kemkɨrom	kemkɨ	NOUN	n	_	1	amod	1:amod	_
+3	kem	kem 	NOUN	n	_	1	nmod	1:nmod	_
+4-5	kɨrom	_	_	_	_	_	_	_	_
+4	kɨ	kɨ	NOUN	n	_	3	parataxis	3:parataxis	_
+5	rom	rom	ADV	avd	_	3	advmod	3:advmod	_
 
 # sent_id = 11
 # text = kwako kɨpek koa
 # text_eng = The guan is eating papaya (4.3b)
 1	kwako	kwako	NOUN	n	_	3	nsubj	3:nsubj	_
-2	kɨpek	kɨpek	NOUN	v	_	3	obj	3:obj	_
-3	koa	ko	NOUN	n	_	0	root	0:root	_
+2	kɨpek	kɨpek	NOUN	n	_	3	obj	3:obj	_
+3	koa	ko	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 12
 # text = pi maã en
 # text_eng = You wear the feet (4.47a)
 1	pi	pi	NOUN	n	_	2	obj	2:obj	_
 2	maã	maã	VERB	vt	_	0	root	0:root	_
-3	en	en	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
+3	en	en	PRON	pro	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
 
 # sent_id = 13
 # text = Kɨte babape at
@@ -114,7 +117,7 @@
 # sent_id = 16
 # text = kitʃetara kom
 # text_eng = We will leave (as usual) (3.19)
-1	kitʃetara	tʃet	VERB	v	Aspect=Hab|Clusivity=In|Mood=Ind|Person=1|VerbForm=Fin	0	root	0:root	_
+1	kitʃetara	tʃet	VERB	v	Aspect=Hab|Clusivity=In|Mood=Ind|Person=1	0	root	0:root	_
 2	kom	kom	PART	pcl	_	1	advmod	1:advmod	_
 
 # sent_id = 17
@@ -153,7 +156,7 @@
 # text_eng = Tomorrow I will leave (3.25)
 1	erape	erape	ADV	adv	_	2	advmod	2:advmod	_
 2	okwata	kwat	VERB	vi	Mood=Ind|Person=1|VerbForm=Fin	0	root	0:root	_
-3	kom	kom	PART	pcl	_	2	advmod	2:advmod	_
+3	kom	kom	PART	pcl	Tense=Future	2	advmod	2:advmod	_
 
 # sent_id = 22
 # text = potʃek momo tejã otek etʃe
@@ -174,7 +177,7 @@
 # text = oetara otoa
 # text_eng = I am going to sleep (3.29)
 1	oetara	et	VERB	vi	Aspect=Hab|Person=1	0	root	0:root	_
-2	otoa	toa	AUX	aux	Person=1	1	aux	1:aux	_
+2	otoa	toa	AUX	aux	Person=1|Trans=Yes	1	aux	1:aux	_
 
 # sent_id = 25
 # text = kwaẽ te ipitka
@@ -189,7 +192,7 @@
 1	erẽ	erẽ	PRON	pro	Number=Sing|PronType=Emp	3	nsubj	3:nsubj	_
 2	epo	po	NOUN	n	Person=2	3	obj	3:obj	_
 3	tʃoga	tʃoga	VERB	vt	_	0	root	0:root	_
-4	erẽ	erẽ	PRON	pro	Number=Sing|PronType=Emp	1	discourse	1:discourse	_
+4	erẽ	erẽ	PRON	pro	Number=Sing|Person=2|PronType=Emp	1	discourse	1:discourse	_
 
 # sent_id = 27
 # text = jẽ kem kɨ jẽ kem kɨrom
@@ -218,7 +221,7 @@
 # sent_id = 29
 # text = on ita tʃoktʃok
 # text_eng = I am planting it, planting, planting (3.37)
-1	on	on	PRON	prn	_	2	nsubj	2:nsubj	_
+1	on	on	PRON	prn	Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	ita	ta	VERB	vt	Person=3	0	root	0:root	_
 3	tʃoktʃok	tʃok	VERB	ideo	_	2	dep	2:dep	_
 
@@ -252,7 +255,11 @@
 # sent_id = 34
 # text = eɾẽ ekoɾo nõm
 # text_eng = You don't have your bowl (4.2c)
-1	eɾẽ	eɾẽ	PRON	prn	Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+1	eɾẽ	eɾẽ	PRON	prn	Number=Sing|Person=2|PronType=Emp	2	nsubj	2:nsubj	_
 2	ekoɾo	koro	NOUN	n	Person=2|Rel=Cont	0	root	0:root	_
 3	nõm	nõm	ADV	adv	_	2	advmod	2:advmod	_
+
+# sent_id = 34
+# text = eɾẽ ekoɾo nõm
+# text_eng = You don't have your bowl (4.2c)
 
