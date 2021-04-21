@@ -433,7 +433,7 @@
 # sent_id = 57
 # text = kojõpebõ kɨjtpit at kom                  
 # text_eng = I will fish up to (until) the night (4.18a)
-1	kojõpebõ	kojõpe	ADV	adv	Case=All   	3	advmod	3:advmod	_
+1	kojõpebõ	kojõpe	NOUN	n	Case=All	3	obl	3:obl	_
 2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
 3	at	at	VERB	vt	_	0	root	0:root	_
 4	kom	kom	PART	pcl	Tense=Fut	3	advmod	3:advmod	_
@@ -443,9 +443,9 @@
 # text_eng = Tomorrow he'll leave, today he doesn't (4.18b)
 1	erape	erape	ADV	adv	_	2	advmod	2:advmod	_
 2	tekwata	kwat	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	0	root	0:root	_
-3	,	,	PUNCT	punct	_	4	punct	4:punct	_
-4	kɨrẽbõ	kɨrẽ	ADV	adv	Case=All	2	parataxis	2:parataxis	_
-5	nõm	nõm	ADV	adv	Polarity=Yes	4	advmod	4:advmod	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	kɨrẽbõ	kɨrẽ	NOUN	n	Case=All	2	obl	2:obl	_
+5	nõm	nõm	ADV	adv	Polarity=Yes	2	advmod	2:advmod	_
 
 # sent_id = 59
 # text = pabapebõ ɨkɨ kiramka en                
@@ -473,28 +473,125 @@
 # sent_id = 62
 # text = kɨrẽri ta paja, kiwkiw             
 # text_eng = From now one, that one cleans, ripping, ripping (4.22)
-1	kɨrẽri	kɨrẽ	ADV	adv	Case=Abl	3	advmod	3:advmod	_
+1	kɨrẽri	kɨrẽ	NOUN	n	Case=Abl	3	obl	3:obl	_
 2	ta	ta	DET	dem	Deixis=Dist	3	nsubj	3:nsubj	_
 3	paja	paj	VERB	vi	Vt=Yes	0	root	0:root	_
-4	,	,	PUNCT	punct	_	5	punct	5:punct	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	kiwkiw	kiw	VERB	ideo	_	3	parataxis	3:parataxis	_
 
 # sent_id = 63
 # text = kwena, tawtʃena, takɨrapna, tawpɨkna, tatona, tato kwakwa, takɨrap kwakwa           
 # text_eng = As for game animal, peccary, spider-monkey, black-monkey,armadillo, (he) grabbed an armadillo, (he) grabbed a spider-monkey (4.23a)
-1	kwena	kwe	NOUN	n	Case=Tra	11	conj	11:conj	_
-2	,	,	PUNCT	punct	_	3	punct	3:punct	_
+1	kwena	kwe	NOUN	n	Case=Tra	12	conj	12:conj	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	tawtʃena	tawtʃe	NOUN	n	Case=Tra	11	conj	11:conj	_
-4	,	,	PUNCT	punct	_	5	punct	5:punct	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	takɨrapna	takɨrap	NOUN	n	Case=Tra	11	conj	11:conj	_
-6	,	,	PUNCT	punct	_	7	punct	7:punct	_
-7	tawpɨkna	tawpɨk	NOUN	n	Case=Tra	11	conj	11:conj	_
-8	,	,	PUNCT	punct	_	9	punct	9:punct	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	tawpɨkna	tawpɨk	NOUN	n	Case=Tra	12	conj	12:conj	_
+8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	tatona	tato	NOUN	n	Case=Tra	11	conj	11:conj	_
-10	,	,	PUNCT	punct	_	11	punct	11:punct	_
+10	,	,	PUNCT	punct	_	9	punct	9:punct	_
 11	tato	tato	NOUN	n	_	12	obj	12:obj	_
 12	kwakwa	kwakwa	VERB	vt	_	0	root	0:root	_
-13	,	,	PUNCT	punct	_	14	punct	14:punct	_
+13	,	,	PUNCT	punct	_	12	punct	12:punct	_
 14	takɨrap	takɨrap	NOUN	n	_	15	obj	15:obj	_
 15	kwakwa	kwakwa	VERB	vt	_	12	parataxis	12:parataxis	_
+
+# sent_id = 64
+# text = imen iõ	imepit menna          
+# text_eng = Her husband's given (thing), her daughter's husband (4.24a)
+1	imen	men	NOUN	n	Person=3	2	nmod	2:nmod	_
+2	iõ	õ	NOUN	n	Nomzr=Obj	4	nmod	4:nmod	_
+3	imepit	mepit	NOUN	n	Person=3	4	nmod	4:nmod	_
+4	menna	men	NOUN	n	Case=Tra	0	root	0:root	_
+
+# sent_id = 65
+# text = ɨkɨ pekã ana         
+# text_eng = There is cold water (4.24b)
+1	ɨkɨ	ɨkɨ	NOUN	n	_	2	nmod	2:nmod	_
+2	pekã	pekã	NOUN	n	_	3	nsubj	3:nsubj	_
+3	ana	a	PART	pcl	Case=Tra	0	root	0:root	_
+
+# sent_id = 66
+# text = ɨkɨ ata en ɨkɨpe
+# text_eng = You get water at the river (4.25a)
+1	ɨkɨ	ɨkɨ	NOUN	n	_	2	obj	2:obj	_
+2	ata	at	VERB	vt	Tv=Yes	0	root	0:root	_
+3	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+4	ɨkɨpe	ɨkɨ	NOUN	n	Case=Loc	2	obl	2:obl	_
+
+# sent_id = 67
+# text = kɨp tep eanampe
+# text_eng = The leaf of the tree is on your head (4.25c)
+1	kɨp	kɨp	NOUN	n	_	2	nmod	2:nmod	_
+2	tep	ep	NOUN	n	Rel=Cont	0	root	0:root	_
+3	eanampe	anam	NOUN	n	Case=Loc|Number=Sing|Person=2	2	obl	2:obl	_
+
+# sent_id = 68
+# text = tʃarimẽ okwaj, tokwajet
+# text_eng = Hummingbird's tail, its tail (4.26c)
+1	tʃarimẽ	tʃarimẽ	NOUN	n	_	2	nmod	2:nmod	_
+2	okwaj	okwaj	NOUN	n	_	0	root	0:root	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	tokwajet	okwaj	NOUN	n	Person=3	2	parataxis	2:parataxis	_
+
+# sent_id = 69
+# text = mepitet jẽ, jẽrom tɨrɨ
+# text_eng = These are the daughters, there are two there (4.26e)
+1	mepitet	mepit	NOUN	n	_	0	root	0:root	_
+2	jẽ	jẽ	DET	dem	Deixis=Prox	1	nmod	1:nmod	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	jẽrom	jẽrom	DET	dem	Deixis=Dist	1	parataxis	1:parataxis	_
+5	tɨrɨ	tɨrɨ	NUM	num	NumType=Card	4	nummod	4:nummod	_
+
+# sent_id = 70
+# text = aparapiat kwamoa oiɾika
+# text_eng = The doctor healed me (4.26g)
+1	aparapiat	aparabia	NOUN	n	_	2	nmod	2:nmod	_
+2	kwamoa	kwamoa	NOUN	n	_	3	obj	3:obj	_
+3	oiɾika	iri	VERB	vt	Number=Sing|Person=1|Trans=Yes	0	root	0:root	_
+
+# sent_id = 71
+# text = te aj koa, ajet koa
+# text_eng = He eats cajá, (he) eats the cajá (4.27a)
+1	te	te	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+2	aj	aj	NOUN	n	_	3	obj	3:obj	_
+3	koa	ko	VERB	vt	Tv=Yes	0	root	0:root	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	ajet	aj	NOUN	n	_	6	obj	6:obj	_
+6	koa	ko	VERB	vt	Tv=Yes	3	parataxis	3:parataxis	_
+
+# sent_id = 72
+# text = on ikiɾamka ɨkɨ tʃooo, kɨpitʃik ɨkɨt ãka
+# text_eng = I poured the water, I poured water, the cold water, that way (4.27b)
+1	on	on	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+2	ikiɾamka	kiram	VERB	vt	Person=3|Trans=Yes	0	root	0:root	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	ɨkɨ	ɨkɨ	NOUN	n	_	5	nsubj	5:nsubj	_
+5	tʃooo	tʃo	VERB	ideo	_	2	parataxis	2:parataxis	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	kɨpitʃik	kɨpitʃik	NOUN	n	_	8	nmod	8:nmod	_
+8	ɨkɨt	ɨkɨ	NOUN	n	_	2	parataxis	2:parataxis	_
+9	ãka	ãka	PART	pcl	_	8	discourse	8:discourse	_
+
+# sent_id = 73
+# text = aramĩra nõm, aramĩra aparapia dow, nako ata ãka, ɨkɨ ape dow aparapiat
+# text_eng = Woman no, woman, the Non-Indian shot, they caught men, that way, the river's path, the non-Indian shot (4.27c)
+1	aramĩra	aramĩra	NOUN	n	_	7	appos	7:appos	_
+2	nõm	nõm	ADV	adv	Polarity=Yes	1	nsubj	1:nsubj	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	aramĩra	aramĩra	NOUN	n	_	7	appos	7:appos	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	aparapia	aparabia	NOUN	n	_	7	nsubj	7:nsubj	_
+7	dow	dow	VERB	ideo	_	0	root	0:root	_
+8	,	,	PUNCT	punct	_	7	punct	7:punct	_
+9	nako	nako	NOUN	n	_	10	obj	10:obj	_
+10	ata	at	VERB	vt	Tv=Yes	7	parataxis	7:parataxis	_
+11	ãka	ãka	PART	pcl	_	10	discourse	10:discourse	_
+12	,	,	PUNCT	punct	_	10	punct	10:punct	_
+13	ɨkɨ	ɨkɨ	NOUN	n	_	14	nmod	14:nmod	_
+14	ape	ape	NOUN	n	_	15	nmod	15:nmod	_
+15	dow	dow	VERB	ideo	_	7	parataxis	7:parataxis	_
+16	aparapiat	aparabia	NOUN	n	_	15	nsubj	15:nsubj	_
 
