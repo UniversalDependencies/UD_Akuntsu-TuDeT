@@ -445,7 +445,7 @@
 2	tekwata	kwat	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	0	root	0:root	_
 3	,	,	PUNCT	punct	_	4	punct	4:punct	_
 4	kɨrẽbõ	kɨrẽ	ADV	adv	Case=All	2	parataxis	2:parataxis	_
-5	nõm	nõm	ADV	adv	Polarity=Yes	4	parataxis	4:parataxis	_
+5	nõm	nõm	ADV	adv	Polarity=Yes	4	advmod	4:advmod	_
 
 # sent_id = 59
 # text = pabapebõ ɨkɨ kiramka en                
@@ -456,8 +456,45 @@
 4	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
 
 # sent_id = 60
-# text = kɨpek atʃiɾi aj                
+# text = kɨpek atʃiri aj                
 # text_eng = because of the pain from the papaya, she stays (4.21a)
+1	kɨpek	kɨpek	NOUN	n	_	2	case	2:case	_
+2	atʃiri	atʃi	NOUN	n	Case=Abl	3	obl	3:obl	_
+3	aj	aj	VERB	vi	_	0	root	0:root	_
 
+# sent_id = 61
+# text = tawtʃeri	mia kɨjtpit nõm              
+# text_eng = because of the pain from the papaya, she stays (4.21a)
+1	tawtʃeri	tawtʃe	NOUN	n	Case=Abl	2	obl	2:obl	_
+2	mia	mi	VERB	vi	Tv=Yes	0	root	0:root	_
+3	kɨjtpit	kɨjtpit	NOUN	n	_	2	parataxis	2:parataxis	_
+4	nõm	nõm	ADV	adv	Polarity=Yes	3	advmod	3:advmod	_
 
+# sent_id = 62
+# text = kɨrẽri ta paja, kiwkiw             
+# text_eng = From now one, that one cleans, ripping, ripping (4.22)
+1	kɨrẽri	kɨrẽ	ADV	adv	Case=Abl	3	advmod	3:advmod	_
+2	ta	ta	DET	dem	Deixis=Dist	3	nsubj	3:nsubj	_
+3	paja	paj	VERB	vi	Vt=Yes	0	root	0:root	_
+4	,	,	PUNCT	punct	_	5	punct	5:punct	_
+5	kiwkiw	kiw	VERB	ideo	_	3	parataxis	3:parataxis	_
+
+# sent_id = 63
+# text = kwena, tawtʃena, takɨrapna, tawpɨkna, tatona, tato kwakwa, takɨrap kwakwa           
+# text_eng = As for game animal, peccary, spider-monkey, black-monkey,armadillo, (he) grabbed an armadillo, (he) grabbed a spider-monkey (4.23a)
+1	kwena	kwe	NOUN	n	Case=Tra	11	conj	11:conj	_
+2	,	,	PUNCT	punct	_	3	punct	3:punct	_
+3	tawtʃena	tawtʃe	NOUN	n	Case=Tra	11	conj	11:conj	_
+4	,	,	PUNCT	punct	_	5	punct	5:punct	_
+5	takɨrapna	takɨrap	NOUN	n	Case=Tra	11	conj	11:conj	_
+6	,	,	PUNCT	punct	_	7	punct	7:punct	_
+7	tawpɨkna	tawpɨk	NOUN	n	Case=Tra	11	conj	11:conj	_
+8	,	,	PUNCT	punct	_	9	punct	9:punct	_
+9	tatona	tato	NOUN	n	Case=Tra	11	conj	11:conj	_
+10	,	,	PUNCT	punct	_	11	punct	11:punct	_
+11	tato	tato	NOUN	n	_	12	obj	12:obj	_
+12	kwakwa	kwakwa	VERB	vt	_	0	root	0:root	_
+13	,	,	PUNCT	punct	_	14	punct	14:punct	_
+14	takɨrap	takɨrap	NOUN	n	_	15	obj	15:obj	_
+15	kwakwa	kwakwa	VERB	vt	_	12	parataxis	12:parataxis	_
 
