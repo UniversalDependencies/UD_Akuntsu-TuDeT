@@ -273,18 +273,18 @@
 2-3	atapeɾom	_	_	_	_	_	_	_	_
 2	atap	atap	NOUN	n	_	0	root	0:root	_
 3	eɾom	rom	ADV	adv	Polarity=Yes	2	advmod	2:advmod	_
-4	,	,	PUNCT	punct	_	5	punct	5:punct	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
 5	ke	ke	DET	dem	Dem=Dist	6	nmod	6:nmod	_
 6	kɨp	kɨp	NOUN	n	_	7	nmod	7:nmod	_
 7	atap	atap	NOUN	n	_	2	discourse	2:discourse	_
 
 # sent_id = 37
-# text = Kaɾow, omepiɾẽpitet, kwep te   
+# text = Karow, omepirẽpitet, kwep te   
 # text_eng = Carol, my granddaughter, climbs (4.5)
-1	Kaɾow	Karow	PROPN	pn	_	5	nsubj	5:nsubj	_
-2	,	,	PUNCT	punct	_	3	punct	3:punct	_
-3	omepiɾẽpitet	mepit	NOUN	n	Number=Sing|Person=1	1	appos	1:appos	_
-4	,	,	PUNCT	punct	_	5	punct	5:punct	_
+1	Karow	Karow	PROPN	pn	_	5	nsubj	5:nsubj	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	omepirẽpitet	mepit	NOUN	n	Number=Sing|Person=1	1	appos	1:appos	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	kwep	kwep	VERB	vi	_	0	root	0:root	_
 6	te	te	PART	pclfoc	_	5	discourse	5:discourse	_
 
