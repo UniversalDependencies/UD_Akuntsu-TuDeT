@@ -641,7 +641,7 @@
 8	tojẽpittin	tojẽpit	NOUN	n	_	7	appos	7:appos	_
 
 # sent_id = 80
-# text = on	opoatʃo en te tʃokĩn   
+# text = on opoatʃo en te tʃokĩn   
 # text_eng = My hand is big, you have a small (one) (4.37a)
 1	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	opoatʃo	po	NOUN	n	Person=1	0	root	0:root	_
