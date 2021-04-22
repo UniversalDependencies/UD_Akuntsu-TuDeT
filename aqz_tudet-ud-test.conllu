@@ -225,9 +225,9 @@
 3	ta	ta	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 30
-# text = kaɾã tepna
+# text = karã tepna
 # text_eng = It's for the brazil nut's leaf (4.1c)
-1	kaɾã	kaɾã	NOUN	n	_	2	nmod	2:nmod	_
+1	karã	karã	NOUN	n	_	2	nmod	2:nmod	_
 2	tepna	ep	NOUN	n	Case=Tra|Rel=Cont	0	root	0:root	_
 
 # sent_id = 31
@@ -245,9 +245,9 @@
 2	ikona	ko	NOUN	n	Case=Tra|Person=3	0	root	0:root	_
 
 # sent_id = 33
-# text = eɾẽ ekoro nõm
+# text = erẽ ekoro nõm
 # text_eng = You don't have your bowl (4.2c)
-1	eɾẽ	eɾẽ	PRON	pron	Number=Sing|Person=2|PronType=Emp	2	nsubj	2:nsubj	_
+1	erẽ	erẽ	PRON	pron	Number=Sing|Person=2|PronType=Emp	2	nsubj	2:nsubj	_
 2	ekoro	koro	NOUN	n	Person=2	0	root	0:root	_
 3	nõm	nõm	ADV	adv	Polarity=Yes	2	advmod	2:advmod	_
 
@@ -260,19 +260,19 @@
 4	peka	peka	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 35
-# text = koro, oeɾekwa   
+# text = koro, oerekwa   
 # text_eng = Bowl, I say (4.3c)
 1	koro	koro	NOUN	n	_	3	appos	3:appos	_
 2	,	,	PUNCT	punct	_	3	punct	3:punct	_
-3	oeɾekwa	erek	VERB	vi	Number=Sing|Person=1|Trans=Yes	0	root	0:root	_
+3	oerekwa	erek	VERB	vi	Number=Sing|Person=1|Trans=Yes	0	root	0:root	_
 
 # sent_id = 36
-# text = okɨp atapeɾom, ke kɨp atap   
+# text = okɨp ataperom, ke kɨp atap   
 # text_eng = My leg doesn't have hair, this one's leg has hair (4.4)
 1	okɨp	kɨp	NOUN	n	Number=Sing|Person=1	2	nmod	2:nmod	_
 2-3	atapeɾom	_	_	_	_	_	_	_	_
 2	atap	atap	NOUN	n	_	0	root	0:root	_
-3	eɾom	rom	ADV	adv	Polarity=Yes	2	advmod	2:advmod	_
+3	erom	rom	ADV	adv	Polarity=Yes	2	advmod	2:advmod	_
 4	,	,	PUNCT	punct	_	2	punct	2:punct	_
 5	ke	ke	DET	dem	Dem=Dist	6	nmod	6:nmod	_
 6	kɨp	kɨp	NOUN	n	_	7	nmod	7:nmod	_
@@ -648,4 +648,86 @@
 3	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 4	te	te	PART	pclfoc	_	5	discourse	5:discourse	_
 5	tʃokĩn	tʃokĩn	NOUN	n	_	2	conj	2:conj	_
+
+# sent_id = 81
+# text = Pupak kɨjtpitatʃo ata kom   
+# text_eng = Pupák will get big fish (4.37a)
+1	Pupak	Pupak	PROPN	pn	_	3	nsubj	3:nsubj	_
+2	kɨjtpitatʃo	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
+3	ata	at	VERB	vt	Tv=Yes	0	root	0:root	_
+4	kom	kom	PART	pcl	Tense=Future	3	advmod	3:advmod	_
+
+# sent_id = 82
+# text = ke boroteatʃori tʃooo jẽrom barobaro  
+# text_eng = That star is getting bigger, there it is the star (another type of)(4.38)
+1	ke	ke	DET	dem	Deixis=Dist	2	case	2:case	_
+2	boroteatʃori	borote	NOUN	n	_	0	root	0:root	_
+3	tʃooo	tʃo	NOUN	n	_	2	obl	2:obl	_
+4	,	,	PUNCT	punct	_	5	punct	5:punct	_
+5	jẽrom	jẽrom	DET	dem	Deixis=Dist	6	nmod	6:nmod	_
+6	barobaro	baro	NOUN	n	_	2	parataxis	2:parataxis	_
+
+# sent_id = 83
+# text = itʃoke tʃop en
+# text_eng = See the big one!(4.39b)
+1	itʃoke	tʃoke	NOUN	n	Person=3	2	obj	2:obj	_
+2	tʃop	tʃop	VERB	vt	_	0	root	0:root	_
+3	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+
+# sent_id = 84
+# text = koa koa tʃoke 
+# text_eng = he ate a lot and he got big!(4.39c)
+1	koa	ko	VERB	vi	Vt=Yes	0	root	0:root	_
+2	koa	ko	VERB	vi	Vt=Yes	1	discourse	1:discourse	_
+3	tʃoke	tʃoke	NOUN	n	_	1	parataxis	1:parataxis	_
+
+# sent_id = 85
+# text = Patʃo Patʃe tɨɾɨ tajtʃi
+# text_eng = Patʃo and Patʃe were his two wives (4.52)
+1	Patʃo	Patʃo	PROPN	pn	nmod	4	nmod	4:nmod	_
+2	Patʃe	Patʃe	PROPN	pn	_	4	nmod	4:nmod	_
+3	tɨɾɨ	tɨɾɨ	NUM	num	NumType=Card	4	nummod	4:nummod	_
+4	tajtʃi	ajtʃi	NOUN	n	Person=3	0	root	0:root	_
+
+# sent_id = 86
+# text = Pura te kɨte     
+# text_eng = Pura is alone (4.53)
+1	Pura	Pura	PROPN	pn	_	3	nsubj	3:nsubj	_
+2	te	te	PART	pclfoc	_	3	discourse	3:discourse	_
+3	kɨte	kɨte	NUM	num	NumType=Card	0	root	0:root	_
+
+# sent_id = 87
+# text = en aramĩra, aramĩra baba   
+# text_eng = You are woman, (a) middle-aged woman (4.54)
+1	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+2	aramĩra	aramĩra	NOUN	n	_	0	root	0:root	_
+3	,	,	PUNCT	punct	_	4	punct	4:punct	_
+4	aramĩra	aramĩra	NOUN	n	_	5	nmod	5:nmod	_
+5	baba	baba	NOUN	n	_	2	nmod	2:nmod	_
+
+# sent_id = 88
+# text = erẽ baba, oerekwa   
+# text_eng = You are middle-aged woman, I say (4.55)
+1	erẽ	erẽ	PRON	pron	Number=Sing|Person=2|PronType=Emp	2	nsubj	2:nsubj	_
+2	baba	baba	NOUN	n	_	0	root	0:root	_
+3	,	,	PUNCT	punct	_	4	punct	4:punct	_
+4	oerekwa	erek	VERB	vi	Person=1|Trans=Yes	2	parataxis	2:parataxis	_
+
+# sent_id = 89
+# text = on eni erepe, on terepe      
+# text_eng = I tie the hammock, I tie it (4.57)
+1	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	eni	eni	NOUN	n	_	3	obj	3:obj	_
+3	erepe	erepe	VERB	vt	_	0	root	0:root	_
+4	,	,	PUNCT	punct	_	5	punct	5:punct	_
+5	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+6	terepe	erepe	VERB	vt	Person=3	3	parataxis	3:parataxis	_
+
+# sent_id = 90
+# text = kwiro, on ikɨta    
+# text_eng = Recipient, I cover it (4.58a)
+1	kwiro	kwiro	NOUN	n	_	4	appos	4:appos	_
+2	,	,	PUNCT	punct	_	3	punct	3:punct	_
+3	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+4	ikɨta	kɨta	VERB	vt	Person=3	0	root	0:root	_
 
