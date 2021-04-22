@@ -421,7 +421,7 @@
 2	ka	ka	VERB	vi	_	0	root	0:root	_
 
 # sent_id = 56
-# text = tebõ kɨte puɾuɾuɾu kebõ nõm                   
+# text = tebõ kɨte purururu kebõ nõm                   
 # text_eng = For him (there is) one coming back, for that one there isn't (4.17c)
 1	tebõ	te	PRON	pron	Case=All|Person=3|Reflex=Yes	3	nmod	3:nmod	_
 2	kɨte	kɨte	NUM	num	_	3	nummod	3:nummod	_
@@ -546,11 +546,11 @@
 5	tɨrɨ	tɨrɨ	NUM	num	NumType=Card	4	nummod	4:nummod	_
 
 # sent_id = 70
-# text = aparapiat kwamoa oiɾika
+# text = aparapiat kwamoa oirika
 # text_eng = The doctor healed me (4.26g)
 1	aparapiat	aparabia	NOUN	n	_	2	nmod	2:nmod	_
 2	kwamoa	kwamoa	NOUN	n	_	3	obj	3:obj	_
-3	oiɾika	iri	VERB	vt	Number=Sing|Person=1|Trans=Yes	0	root	0:root	_
+3	oirika	iri	VERB	vt	Number=Sing|Person=1|Trans=Yes	0	root	0:root	_
 
 # sent_id = 71
 # text = te aj koa, ajet koa
@@ -563,10 +563,10 @@
 6	koa	ko	VERB	vt	Tv=Yes	3	parataxis	3:parataxis	_
 
 # sent_id = 72
-# text = on ikiɾamka ɨkɨ tʃooo, kɨpitʃik ɨkɨt ãka
+# text = on ikiramka ɨkɨ tʃooo, kɨpitʃik ɨkɨt ãka
 # text_eng = I poured the water, I poured water, the cold water, that way (4.27b)
 1	on	on	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
-2	ikiɾamka	kiram	VERB	vt	Person=3|Trans=Yes	0	root	0:root	_
+2	ikiramka	kiram	VERB	vt	Person=3|Trans=Yes	0	root	0:root	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
 4	ɨkɨ	ɨkɨ	NOUN	n	_	5	nsubj	5:nsubj	_
 5	tʃooo	tʃo	VERB	ideo	_	2	parataxis	2:parataxis	_
@@ -580,18 +580,72 @@
 # text_eng = Woman no, woman, the Non-Indian shot, they caught men, that way, the river's path, the non-Indian shot (4.27c)
 1	aramĩra	aramĩra	NOUN	n	_	7	appos	7:appos	_
 2	nõm	nõm	ADV	adv	Polarity=Yes	1	nsubj	1:nsubj	_
-3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+3	,	,	PUNCT	punct	_	4	punct	4:punct	_
 4	aramĩra	aramĩra	NOUN	n	_	7	appos	7:appos	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+5	,	,	PUNCT	punct	_	6	punct	6:punct	_
 6	aparapia	aparabia	NOUN	n	_	7	nsubj	7:nsubj	_
 7	dow	dow	VERB	ideo	_	0	root	0:root	_
-8	,	,	PUNCT	punct	_	7	punct	7:punct	_
+8	,	,	PUNCT	punct	_	9	punct	9:punct	_
 9	nako	nako	NOUN	n	_	10	obj	10:obj	_
 10	ata	at	VERB	vt	Tv=Yes	7	parataxis	7:parataxis	_
-11	ãka	ãka	PART	pcl	_	10	discourse	10:discourse	_
-12	,	,	PUNCT	punct	_	10	punct	10:punct	_
+11	ãka	ãka	PART	pcl	_	7	discourse	7:discourse	_
+12	,	,	PUNCT	punct	_	13	punct	13:punct	_
 13	ɨkɨ	ɨkɨ	NOUN	n	_	14	nmod	14:nmod	_
 14	ape	ape	NOUN	n	_	15	nmod	15:nmod	_
 15	dow	dow	VERB	ideo	_	7	parataxis	7:parataxis	_
 16	aparapiat	aparabia	NOUN	n	_	15	nsubj	15:nsubj	_
+
+# sent_id = 74
+# text = õjpe pajapna
+# text_eng = It is for snuff-brush (4.28a)
+1	õjpe	õjpe	NOUN	n	_	2	nmod	2:nmod	_
+2	pajapna	paj	NOUN	n	Case=Tra|Nomzr=Circ	0	root	0:root	_
+
+# sent_id = 75
+# text = tʃopa te parãap
+# text_eng = She will see the clearcutting (4.28d)
+1	tʃopa	tʃop	VERB	vt	Vt=Yes	0	root	0:root	_
+2	te	te	PART	pclfoc	_	1	discourse	1:discourse	_
+3	parãap	parã	NOUN	n	Nomzr=Circ	1	obj	1:obj	_
+
+# sent_id = 76
+# text = tawtʃe	tʃogaap
+# text_eng = Peccary's bite (4.28e)
+1	tawtʃe	tawtʃe	NOUN	n	_	2	nmod	2:nmod	_
+2	tʃogaap	tʃoga	NOUN	n	Nomzr=Circ	0	root	0:root	_
+
+# sent_id = 77
+# text = niam Tʃaruj imokwa
+# text_eng = Bracelet, Tʃaruj's manufacture (4.29c)
+1	niam	niam	NOUN	n	_	3	appos	3:appos	_
+2	Tʃaruj	Tʃaruj	PROPN	pn	_	3	nmod	3:nmod	_
+3	imokwa	mokwa	NOUN	n	Nomzr=Obj	0	root	0:root	_
+
+# sent_id = 78
+# text = oiko tokkwa ojã
+# text_eng = I am punching my food (4.29d)
+1	oiko	ko	NOUN	n	Nomzr=Obj|Person=1	3	obj	3:obj	_
+2	tokkwa	tok	VERB	vt	Trans=Yes	3	aux	3:aux	_
+3	ojã	jã	AUX	aux	Person=1	0	root	0:root	_
+
+# sent_id = 79
+# text =  otojẽpitin ẽ tow ẽ tow ebapap ɨro tojẽpittin
+# text_eng = My dear granddaughter (little granddaughter) this is dark, this is dark,the eyes are shrinking, my dear granddaughter (4.31)
+1	otojẽpitin	tojẽpit	NOUN	n	Person=1	3	appos	3:appos	_
+2	ẽ	ẽ	DET	dem	Deixis=Prox	3	nmod	3:nmod	_
+3	tow	tow	NOUN	ideo	_	7	nsubj	7:nsubj	_
+4	ẽ	ẽ	DET	dem	Deixis=Prox	5	nmod	5:nmod	_
+5	tow	tow	NOUN	ideo	_	7	nsubj	7:nsubj	_
+6	ebapap	ebapap	NOUN	n	_	7	nmod	7:nmod	_
+7	ɨro	ɨro	NOUN	n	_	0	root	0:root	_
+8	tojẽpittin	tojẽpit	NOUN	n	_	7	appos	7:appos	_
+
+# sent_id = 80
+# text = on	opoatʃo en te tʃokĩn   
+# text_eng = My hand is big, you have a small (one) (4.37a)
+1	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	opoatʃo	po	NOUN	n	Person=1	0	root	0:root	_
+3	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
+4	te	te	PART	pclfoc	_	5	discourse	5:discourse	_
+5	tʃokĩn	tʃokĩn	NOUN	n	_	2	conj	2:conj	_
 
