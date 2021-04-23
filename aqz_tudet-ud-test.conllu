@@ -622,10 +622,10 @@
 3	imokwa	mokwa	NOUN	n	Nomzr=Obj	0	root	0:root	_
 
 # sent_id = 78
-# text = oiko tokkwa ojã
+# text = oiko tokwa ojã
 # text_eng = I am punching my food (4.29d)
 1	oiko	ko	NOUN	n	Nomzr=Obj|Person=1	3	obj	3:obj	_
-2	tokkwa	tok	VERB	vt	Trans=Yes	3	aux	3:aux	_
+2	tokwa	tok	VERB	vt	Trans=Yes	3	aux	3:aux	_
 3	ojã	jã	AUX	aux	Person=1	0	root	0:root	_
 
 # sent_id = 79
@@ -658,7 +658,7 @@
 4	kom	kom	PART	pcl	Tense=Future	3	advmod	3:advmod	_
 
 # sent_id = 82
-# text = ke boroteatʃori tʃooo jẽrom barobaro
+# text = ke boroteatʃori tʃooo ,jẽrom barobaro
 # text_eng = That star is getting bigger, there it is the star (another type of)(4.38)
 1	ke	ke	DET	dem	Deixis=Dist	2	nmod	2:nmod	_
 2	boroteatʃori	borote	NOUN	n	_	0	root	0:root	_
