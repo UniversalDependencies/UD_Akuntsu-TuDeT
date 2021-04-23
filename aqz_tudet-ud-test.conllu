@@ -256,7 +256,7 @@
 # text_eng = The small hook, bring this one (4.3a)
 1	kotin	ko	NOUN	n	_	3	appos	3:appos	_
 2	,	,	PUNCT	punct	_	3	punct	3:punct	_
-3	eme	eme	DET	dem	 Deixis=Prox	4	obj	4:obj	_
+3	eme	eme	DET	dem	 Dem=Prox	4	obj	4:obj	_
 4	peka	peka	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 35
