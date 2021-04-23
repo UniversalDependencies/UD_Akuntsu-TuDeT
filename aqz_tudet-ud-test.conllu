@@ -482,18 +482,18 @@
 # sent_id = 63
 # text = kwena , tawtʃena , takɨrapna , tawpɨkna , tatona , tato kwakwa , takɨrap kwakwa
 # text_eng = As for game animal, peccary, spider-monkey, black-monkey,armadillo, (he) grabbed an armadillo, (he) grabbed a spider-monkey (4.23a)
-1	kwena	kwe	NOUN	n	Case=Tra	12	conj	12:conj	_
+1	kwena	kwe	NOUN	n	Case=Tra	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	tawtʃena	tawtʃe	NOUN	n	Case=Tra	11	conj	11:conj	_
+3	tawtʃena	tawtʃe	NOUN	n	Case=Tra	1	conj	1:conj	_
 4	,	,	PUNCT	punct	_	3	punct	3:punct	_
-5	takɨrapna	takɨrap	NOUN	n	Case=Tra	11	conj	11:conj	_
+5	takɨrapna	takɨrap	NOUN	n	Case=Tra	3	conj	3:conj	_
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	tawpɨkna	tawpɨk	NOUN	n	Case=Tra	12	conj	12:conj	_
+7	tawpɨkna	tawpɨk	NOUN	n	Case=Tra	5	conj	5:conj	_
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
-9	tatona	tato	NOUN	n	Case=Tra	11	conj	11:conj	_
+9	tatona	tato	NOUN	n	Case=Tra	7	conj	7:conj	_
 10	,	,	PUNCT	punct	_	9	punct	9:punct	_
 11	tato	tato	NOUN	n	_	12	obj	12:obj	_
-12	kwakwa	kwakwa	VERB	vt	_	0	root	0:root	_
+12	kwakwa	kwakwa	VERB	vt	_	9	conj	9:conj	_
 13	,	,	PUNCT	punct	_	12	punct	12:punct	_
 14	takɨrap	takɨrap	NOUN	n	_	15	obj	15:obj	_
 15	kwakwa	kwakwa	VERB	vt	_	12	parataxis	12:parataxis	_
