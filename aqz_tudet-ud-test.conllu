@@ -804,7 +804,7 @@
 # text = pero jẽrom te aj
 # text_eng = Macaw stays there (4.70d)
 1	pero	pero	NOUN	n	_	4	nsubj	4:nsubj	_
-2	jẽrom	jẽrom	DET	dem	Dem=Dist	1	nmod	1:nmod	_
+2	jẽrom	jẽrom	DET	dem	Dem=Dist	1	nmod	1:nmod	_
 3	te	te	PART	pclfoc	_	1	discourse	1:discourse	_
 4	aj	aj	VERB	vi	_	0	root	0:root	_
 
@@ -814,5 +814,5 @@
 1	Pupak	Pupak	PROPN	pn	_	2	nmod	2:nmod	_
 2	ko	ko	NOUN	n	_	3	obj	3:obj	_
 3	ata	at	VERB	vt	Tv=Yes	0	root	0:root	_
-4	kebõ	ke	DET	dem	Case=Dat|Dem=Prox	3	obl	3:obl	_
+4	kebõ	ke	DET	dem	Case=Dat|Dem=Prox	3	obl	3:obl	_
 
