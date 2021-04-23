@@ -768,19 +768,19 @@
 3	pi	pi	NOUN	n	_	2	obl	2:obl	_
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_id = 95
+# sent_id = 96
 # text = orẽ oerekwa
 # text_eng = I speak (4.66a)
 1	orẽ	orẽ	PRON	pron	Number=Sing|Person=1|PronType=Emp	2	discourse	2:discourse	_
 2	oerekwa	erek	VERB	vi	Person=1|Trans=Yes	0	root	0:root	_
 
-# sent_id = 96
+# sent_id = 97
 # text = kirẽbõ kipera
 # text_eng = We woke up (4.67)
 1	kirẽbõ	kirẽ	NOUN	n	Case=All	2	obl	2:obl	_
 2	kipera	pera	VERB	vi	Clusivity=In|Person=1	0	root	0:root	_
 
-# sent_id = 97
+# sent_id = 98
 # text = koro am , eme tetna
 # text_eng = Rope's bowl, it is this one's name (4.68b)
 1	koro	koro	NOUN	n	_	2	nmod	2:nmod	_
@@ -789,7 +789,7 @@
 4	eme	eme	DET	dem	Deixis=Prox	5	nmod	5:nmod	_
 5	tetna	et	NOUN	n	Rel=Cont|Case=Tra	2	appos	2:appos	_
 
-# sent_id = 98
+# sent_id = 99
 # text =  en ekem kɨ pi , jẽbõ nõm
 # text_eng = You have milk inside, for this one there isn't (4.69c)
 1	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
@@ -800,7 +800,7 @@
 6	jẽbõ	jẽ	DET	dem	Case=All|Dem=Prox	3	parataxis	3:parataxis	_
 7	nõm	nõm	ADV	adv	Polarity=Yes	6	advmod	6:advmod	_
 
-# sent_id = 99
+# sent_id = 100
 # text = pero jẽrom te aj
 # text_eng = Macaw stays there (4.70d)
 1	pero	pero	NOUN	n	_	4	nsubj	4:nsubj	_
@@ -808,7 +808,7 @@
 3	te	te	PART	pclfoc	_	1	discourse	1:discourse	_
 4	aj	aj	VERB	vi	_	0	root	0:root	_
 
-# sent_id = 100
+# sent_id = 101
 # text = Pupak ko ata kebõ
 # text_eng = Pupák takes the fishhook for this one (4.73d)
 1	Pupak	Pupak	PROPN	pn	_	2	nmod	2:nmod	_
