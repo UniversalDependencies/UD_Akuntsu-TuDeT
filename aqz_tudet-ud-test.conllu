@@ -658,7 +658,7 @@
 4	kom	kom	PART	pcl	Tense=Future	3	advmod	3:advmod	_
 
 # sent_id = 82
-# text = ke boroteatʃori tʃooo , jẽrom barobaro
+# text = ke boroteatʃori tʃooo, jẽrom barobaro
 # text_eng = That star is getting bigger, there it is the star (another type of)(4.38)
 1	ke	ke	DET	dem	Dem=Dist	2	nmod	2:nmod	_
 2	boroteatʃori	borote	NOUN	n	_	0	root	0:root	_
