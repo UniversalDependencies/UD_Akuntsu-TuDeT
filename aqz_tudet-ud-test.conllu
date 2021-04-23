@@ -787,7 +787,7 @@
 2	am	am	NOUN	n	_	0	root	0:root	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
 4	eme	eme	DET	dem	Deixis=Prox	5	nmod	5:nmod	_
-5	tetna	et	NOUN	n	Rel=Cont|Case=Tra	2	appos	2:appos	_
+5	tetna	et	NOUN	n	Case=Tra|Rel=Cont	2	appos	2:appos	_
 
 # sent_id = 99
 # text =  en ekem kɨ pi , jẽbõ nõm
