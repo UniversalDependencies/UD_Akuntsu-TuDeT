@@ -61,14 +61,14 @@
 3	koa	ko	VERB	vt	Tv=Yes	0	root	0:root	_
 
 # sent_id = 9
-# text = Kani okɨpi kemkɨrom
+# text = Kani okɨpi kem kɨrom
 # text_eng = Kani, my younger sister, doesn't have breast-milk (4.1b)
 1	Kani	Kani	PROPN	pn	_	0	root	0:root	_
 2	okɨpi	kɨpi	NOUN	n	Person=1	1	appos	1:appos	_
 3	kem	kem 	NOUN	n	_	1	nmod	1:nmod	_
 4-5	kɨrom	_	_	_	_	_	_	_	_
 4	kɨ	kɨ	NOUN	n	_	3	parataxis	3:parataxis	_
-5	rom	rom	ADV	avd	Polarity=Yes	3	advmod	3:advmod	_
+5	rom	rom	ADV	avd	Polarity=Neg	3	advmod	3:advmod	_
 
 # sent_id = 10
 # text = kwako kɨpek koa
@@ -798,7 +798,7 @@
 4	pi	pi	NOUN	n	_	3	nmod	3:nmod	_
 5	,	,	PUNCT	punct	_	3	punct	3:punct	_
 6	jẽbõ	jẽ	DET	dem	Case=All|Dem=Prox	3	parataxis	3:parataxis	_
-7	nõm	nõm	ADV	adv	Polarity=Yes	6	advmod	6:advmod	_
+7	nõm	nõm	ADV	adv	Polarity=Neg	6	advmod	6:advmod	_
 
 # sent_id = 100
 # text = pero jẽrom te aj
