@@ -658,13 +658,13 @@
 4	kom	kom	PART	pcl	Tense=Future	3	advmod	3:advmod	_
 
 # sent_id = 82
-# text = ke boroteatʃori tʃooo jẽrom barobaro
+# text = ke boroteatʃori tʃooo jẽrom barobaro
 # text_eng = That star is getting bigger, there it is the star (another type of)(4.38)
 1	ke	ke	DET	dem	Deixis=Dist	2	nmod	2:nmod	_
 2	boroteatʃori	borote	NOUN	n	_	0	root	0:root	_
 3	tʃooo	tʃo	NOUN	n	_	2	obl	2:obl	_
 4	,	,	PUNCT	punct	_	5	punct	5:punct	_
-5	jẽrom	jẽrom	DET	dem	Deixis=Dist	6	nmod	6:nmod	_
+5	jẽrom	jẽrom	DET	dem	Deixis=Dist	6	nmod	6:nmod	_
 6	barobaro	baro	NOUN	n	_	2	parataxis	2:parataxis	_
 
 # sent_id = 83
@@ -714,7 +714,7 @@
 4	oerekwa	erek	VERB	vi	Person=1|Trans=Yes	2	parataxis	2:parataxis	_
 
 # sent_id = 89
-# text = on eni erepe , on terepe 
+# text = on eni erepe , on terepe
 # text_eng = I tie the hammock, I tie it (4.57)
 1	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	eni	eni	NOUN	n	_	3	obj	3:obj	_
