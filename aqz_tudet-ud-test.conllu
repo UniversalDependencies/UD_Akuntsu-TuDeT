@@ -684,8 +684,8 @@
 # sent_id = 85
 # text = Patʃo Patʃe tɨɾɨ tajtʃi
 # text_eng = Patʃo and Patʃe were his two wives (4.52)
-1	Patʃo	Patʃo	PROPN	pn	nmod	4	nmod	4:nmod	_
-2	Patʃe	Patʃe	PROPN	pn	_	4	nmod	4:nmod	_
+1	Patʃo	Patʃo	PROPN	pn	nmod	4	nsubj	4:nsubj	_
+2	Patʃe	Patʃe	PROPN	pn	_	4	nsubj	4:nsubj	_
 3	tɨɾɨ	tɨɾɨ	NUM	num	NumType=Card	4	nummod	4:nummod	_
 4	tajtʃi	ajtʃi	NOUN	n	Person=3	0	root	0:root	_
 
