@@ -563,7 +563,7 @@
 6	koa	ko	VERB	vt	Tv=Yes	3	parataxis	3:parataxis	_
 
 # sent_id = 72
-# text = on ikiramka ɨkɨ tʃooo , kɨpitʃik ɨkɨt ãka
+# text = on ikiramka ɨkɨ , tʃooo , kɨpitʃik ɨkɨt ãka
 # text_eng = I poured the water, I poured water, the cold water, that way (4.27b)
 1	on	on	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
 2	ikiramka	kiram	VERB	vt	Person=3|Trans=Yes	0	root	0:root	_
