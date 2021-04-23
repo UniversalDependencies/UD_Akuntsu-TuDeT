@@ -663,8 +663,8 @@
 1	ke	ke	DET	dem	Deixis=Dist	2	nmod	2:nmod	_
 2	boroteatʃori	borote	NOUN	n	_	0	root	0:root	_
 3	tʃooo	tʃo	NOUN	n	_	2	obl	2:obl	_
-4	,	,	PUNCT	punct	_	5	punct	5:punct	_
-5	jẽrom	jẽrom	DET	dem	Deixis=Dist	6	nmod	6:nmod	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5	jẽrom	jẽrom	DET	dem	Deixis=Dist	6	nmod	6:nmod	_
 6	barobaro	baro	NOUN	n	_	2	parataxis	2:parataxis	_
 
 # sent_id = 83
