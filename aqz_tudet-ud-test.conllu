@@ -270,7 +270,7 @@
 # text = okɨp ataperom , ke kɨp atap
 # text_eng = My leg doesn't have hair, this one's leg has hair (4.4)
 1	okɨp	kɨp	NOUN	n	Number=Sing|Person=1	2	nmod	2:nmod	_
-2-3	atapeɾom	_	_	_	_	_	_	_	_
+2-3	ataperom	_	_	_	_	_	_	_	_
 2	atap	atap	NOUN	n	_	0	root	0:root	_
 3	erom	rom	ADV	adv	Polarity=Neg	2	advmod	2:advmod	_
 4	,	,	PUNCT	punct	_	2	punct	2:punct	_
