@@ -199,7 +199,7 @@
 7	rom	rom	ADV	adv	Polarity=Neg	6	advmod	6:advmod	_
 
 # sent_id = 27
-# text = oatap ãka ẽ ẽ, oatap õkwa on
+# text = oatap ãka ẽ ẽ , oatap õkwa on
 # text_eng = My hair, that way, I wash my hair (3.35)
 1	oatap	atap	NOUN	n	Person=1	7	nsubj	7:nsubj	_
 2	ãka	ãka	PART	pcl	_	1	discourse	1:discourse	_
