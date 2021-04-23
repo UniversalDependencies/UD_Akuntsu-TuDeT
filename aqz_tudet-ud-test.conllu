@@ -604,7 +604,7 @@
 # sent_id = 75
 # text = tʃopa te parãap
 # text_eng = She will see the clearcutting (4.28d)
-1	tʃopa	tʃop	VERB	vt	Vt=Yes	0	root	0:root	_
+1	tʃopa	tʃop	VERB	vt	Tv=Yes	0	root	0:root	_
 2	te	te	PART	pclfoc	_	1	discourse	1:discourse	_
 3	parãap	parã	NOUN	n	Nomzr=Circ	1	obj	1:obj	_
 
@@ -677,8 +677,8 @@
 # sent_id = 84
 # text = koa koa tʃoke
 # text_eng = he ate a lot and he got big!(4.39c)
-1	koa	ko	VERB	vi	Vt=Yes	0	root	0:root	_
-2	koa	ko	VERB	vi	Vt=Yes	1	discourse	1:discourse	_
+1	koa	ko	VERB	vi	Tv=Yes	0	root	0:root	_
+2	koa	ko	VERB	vi	Tv=Yes	1	discourse	1:discourse	_
 3	tʃoke	tʃoke	NOUN	n	_	1	parataxis	1:parataxis	_
 
 # sent_id = 85
@@ -744,13 +744,13 @@
 # text_eng = Her husband got his salt (4.62b)
 1	temen	men	NOUN	n	Person=3|Reflex=Yes	3	nsubj	3:nsubj	_
 2	tekɨjt	kɨjt	NOUN	n	Person=3|Reflex=Yes	3	obj	3:obj	_
-3	ata	at	VERB	vt	Vt=Yes	0	root	0:root	_
+3	ata	at	VERB	vt	Tv=Yes	0	root	0:root	_
 
 # sent_id = 93
 # text = en	iata ka
 # text_eng = You (go and) get it (4.63b)
 1	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
-2	iata	at	VERB	vt	Person=3|Vt=Yes	0	root	0:root	_
+2	iata	at	VERB	vt	Person=3|Tv=Yes	0	root	0:root	_
 3	ka	ka	VERB	vi	_	2	dep	2:dep	_
 
 # sent_id = 94
@@ -813,6 +813,6 @@
 # text_eng = Pupák takes the fishhook for this one (4.73d)
 1	Pupak	Pupak	PROPN	pn	_	2	nmod	2:nmod	_
 2	ko	ko	NOUN	n	_	3	obj	3:obj	_
-3	ata	at	VERB	vt	Vt=Yes	0	root	0:root	_
+3	ata	at	VERB	vt	Tv=Yes	0	root	0:root	_
 4	kebõ	ke	DET	dem	Case=Dat|Dem=Prox	3	obl	3:obl	_
 
