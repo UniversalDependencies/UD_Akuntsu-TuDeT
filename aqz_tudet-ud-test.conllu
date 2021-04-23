@@ -762,8 +762,8 @@
 
 # sent_id = 95
 # text = enõ kɨ pi ?
-# text_eng = Is there liquid inside you? (4.65)
-1	enõ	en	PRON	pron	Case=All|Number=Sing|Person=2|PronType=Prs	2	obl	2:obl	_
+# text_eng = Is there liquid inside you ? (4.65)
+1	enõ	en	PRON	pron	Case=All|Number=Sing|Person=2|PronType=Prs	2	obl	2:obl	_
 2	kɨ	kɨ	NOUN	n	_	0	root	0:root	_
 3	pi	pi	NOUN	n	_	2	obl	2:obl	_
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
