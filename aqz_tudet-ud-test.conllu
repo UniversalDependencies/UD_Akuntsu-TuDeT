@@ -726,16 +726,16 @@
 # sent_id = 90
 # text = kwiro , on ikɨta
 # text_eng = Recipient, I cover it (4.58a)
-1	kwiro	kwiro	NOUN	n	_	4	appos	4:appos	_
-2	,	,	PUNCT	punct	_	3	punct	3:punct	_
+1	kwiro	kwiro	NOUN	n	_	4	obl	4:obl	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 4	ikɨta	kɨta	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 91
 # text = pea , en ipoka
 # text_eng = Firewood, I burned it (4.58b)
-1	pea	pea	NOUN	n	_	4	appos	4:appos	_
-2	,	,	PUNCT	punct	_	3	punct	3:punct	_
+1	pea	pea	NOUN	n	_	4	obl	4:obl	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	en	en	PRON	pron	_	4	nsubj	4:nsubj	_
 4	ipoka	poka	VERB	vt	Person=3	0	root	0:root	_
 
