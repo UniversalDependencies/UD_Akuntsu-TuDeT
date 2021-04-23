@@ -408,20 +408,20 @@
 3	ka	ka	VERB	vi	_	0	root	0:root	_
 
 # sent_id = 54
-# text = aparapia kwamoa tekõ       
+# text = aparapia kwamoa tekõ 
 # text_eng = to doctor's house (4.16b)
 1	aparapia	aparabia	NOUN	n	_	2	nmod	2:nmod	_
 2	kwamoa	kwamoa	NOUN	n	_	3	nmod	3:nmod	_
 3	tekõ	ek	NOUN	n	Case=All|Rel=Cont	0	root	0:root	_
 
 # sent_id = 55
-# text = ekõ ka     
+# text = ekõ ka
 # text_eng = (He's) going to the house (4.16c)
 1	ekõ	ek	NOUN	n	Case=All	2	obl	2:obl	_
 2	ka	ka	VERB	vi	_	0	root	0:root	_
 
 # sent_id = 56
-# text = tebõ kɨte purururu , kebõ nõm              
+# text = tebõ kɨte purururu , kebõ nõm    
 # text_eng = For him (there is) one coming back, for that one there isn't (4.17c)
 1	tebõ	te	PRON	pron	Case=All|Person=3|Reflex=Yes	3	nmod	3:nmod	_
 2	kɨte	kɨte	NUM	num	_	3	nummod	3:nummod	_
@@ -431,7 +431,7 @@
 6	nõm	nõm	ADV	adv	Polarity=Neg	5	advmod	5:advmod	_
 
 # sent_id = 57
-# text = kojõpebõ kɨjtpit at kom       
+# text = kojõpebõ kɨjtpit at kom
 # text_eng = I will fish up to (until) the night (4.18a)
 1	kojõpebõ	kojõpe	NOUN	n	Case=All	3	obl	3:obl	_
 2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
@@ -540,7 +540,7 @@
 # text = mepitet jẽ , jẽrom tɨrɨ
 # text_eng = These are the daughters, there are two there (4.26e)
 1	mepitet	mepit	NOUN	n	_	0	root	0:root	_
-2	jẽ	jẽ	DET	dem	Deixis=Prox	1	nmod	1:nmod	_
+2	jẽ	jẽ	DET	dem	Dem=Prox	1	nmod	1:nmod	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
 4	jẽrom	jẽrom	DET	dem	Dem=Dist	1	parataxis	1:parataxis	_
 5	tɨrɨ	tɨrɨ	NUM	num	NumType=Card	4	nummod	4:nummod	_
