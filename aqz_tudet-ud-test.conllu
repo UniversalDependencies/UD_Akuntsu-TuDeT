@@ -390,7 +390,7 @@
 3	pi	pi	NOUN	n	_	7	nsubj	7:nsubj	_
 4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	ameko	ameko	NOUN	n	_	7	nsubj	7:nsubj	_
-6	ikora	kora	VERB	vt	Person=3	7	aux	7:aux	_
+6	ikora	kora	VERB	vt	Person=3	7	cc	7:cc	_
 7	tʃe	tʃe	AUX	aux	_	0	root	0:root	_
 
 # sent_id = 52
