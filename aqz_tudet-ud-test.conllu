@@ -68,7 +68,7 @@
 3	kem	kem 	NOUN	n	_	1	nmod	1:nmod	_
 4-5	kɨrom	_	_	_	_	_	_	_	_
 4	kɨ	kɨ	NOUN	n	_	3	nmod	3:nmod	_
-5	rom	rom	ADV	avd	Polarity=Neg	3	advmod	3:advmod	_
+5	rom	rom	ADV	adv	Polarity=Neg	3	advmod	3:advmod	_
 
 # sent_id = 10
 # text = kwako kɨpek koa
