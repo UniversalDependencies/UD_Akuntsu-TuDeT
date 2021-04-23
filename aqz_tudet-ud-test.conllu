@@ -264,7 +264,7 @@
 # text_eng = Bowl, I say (4.3c)
 1	koro	koro	NOUN	n	_	3	obj	3:obj	_
 2	,	,	PUNCT	punct	_	3	punct	3:punct	_
-3	oerekwa	erek	VERB	vi	Number=Sing|Person=1|Trans=Yes	0	root	0:root	_
+3	oerekwa	erek	VERB	vi	Person=1|Trans=Yes	0	root	0:root	_
 
 # sent_id = 36
 # text = okɨp ataperom , ke kɨp atap
