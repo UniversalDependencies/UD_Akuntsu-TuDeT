@@ -394,14 +394,14 @@
 7	tʃe	tʃe	AUX	aux	_	0	root	0:root	_
 
 # sent_id = 52
-# text = okere atʃi pibõ     
+# text = okere atʃi pibõ  
 # text_eng = I have pain into my ribs (4.15) 
 1	okere	kere	NOUN	n	Number=Sing|Person=1	2	nsubj	2:nsubj	_
 2	atʃi	atʃi	NOUN	n	_	0	root	0:root	_
 3	pibõ	pi	NOUN	n	Case=All	2	obl	2:obl	_
 
 # sent_id = 53
-# text = otʃipap tabɨtõ ka      
+# text = otʃipap tabɨtõ ka     
 # text_eng = My grandmother went to the garden (4.16a)
 1	otʃipap	tʃipap	NOUN	n	Number=Sing|Person=1	3	nsubj	3:nsubj	_
 2	tabɨtõ	tabɨt	NOUN	n	Case=All	3	obl	3:obl	_
@@ -415,13 +415,13 @@
 3	tekõ	ek	NOUN	n	Case=All|Rel=Cont	0	root	0:root	_
 
 # sent_id = 55
-# text = ekõ ka            
+# text = ekõ ka     
 # text_eng = (He's) going to the house (4.16c)
 1	ekõ	ek	NOUN	n	Case=All	2	obl	2:obl	_
 2	ka	ka	VERB	vi	_	0	root	0:root	_
 
 # sent_id = 56
-# text = tebõ kɨte purururu kebõ nõm                
+# text = tebõ kɨte purururu kebõ nõm              
 # text_eng = For him (there is) one coming back, for that one there isn't (4.17c)
 1	tebõ	te	PRON	pron	Case=All|Person=3|Reflex=Yes	3	nmod	3:nmod	_
 2	kɨte	kɨte	NUM	num	_	3	nummod	3:nummod	_
@@ -431,7 +431,7 @@
 6	nõm	nõm	ADV	adv	Polarity=Neg	5	advmod	5:advmod	_
 
 # sent_id = 57
-# text = kojõpebõ kɨjtpit at kom             
+# text = kojõpebõ kɨjtpit at kom            
 # text_eng = I will fish up to (until) the night (4.18a)
 1	kojõpebõ	kojõpe	NOUN	n	Case=All	3	obl	3:obl	_
 2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
@@ -439,7 +439,7 @@
 4	kom	kom	PART	pcl	Tense=Fut	3	advmod	3:advmod	_
 
 # sent_id = 58
-# text = erape tekwata , kɨrẽbõ nõm              
+# text = erape tekwata , kɨrẽbõ nõm  
 # text_eng = Tomorrow he'll leave, today he doesn't (4.18b)
 1	erape	erape	ADV	adv	_	2	advmod	2:advmod	_
 2	tekwata	kwat	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	0	root	0:root	_
@@ -448,7 +448,7 @@
 5	nõm	nõm	ADV	adv	Polarity=Neg	2	advmod	2:advmod	_
 
 # sent_id = 59
-# text = pabapebõ ɨkɨ kiramka en             
+# text = pabapebõ ɨkɨ kiramka en
 # text_eng = You pour the water with the gourd (4.19a)
 1	pabapebõ	pabape	NOUN	n	Case=All	2	case	2:case	_
 2	ɨkɨ	ɨkɨ	NOUN	n	_	3	obj	3:obj	_
@@ -456,14 +456,14 @@
 4	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
 
 # sent_id = 60
-# text = kɨpek atʃiri aj          
+# text = kɨpek atʃiri aj
 # text_eng = because of the pain from the papaya, she stays (4.21a)
 1	kɨpek	kɨpek	NOUN	n	_	2	case	2:case	_
 2	atʃiri	atʃi	NOUN	n	Case=Abl	3	obl	3:obl	_
 3	aj	aj	VERB	vi	_	0	root	0:root	_
 
 # sent_id = 61
-# text = tawtʃeri	mia kɨjtpit nõm         
+# text = tawtʃeri	mia kɨjtpit nõm
 # text_eng = because of the pain from the papaya, she stays (4.21a)
 1	tawtʃeri	tawtʃe	NOUN	n	Case=Abl	2	obl	2:obl	_
 2	mia	mi	VERB	vi	Tv=Yes	0	root	0:root	_
@@ -471,7 +471,7 @@
 4	nõm	nõm	ADV	adv	Polarity=Neg	3	advmod	3:advmod	_
 
 # sent_id = 62
-# text = kɨrẽri ta paja , kiwkiw         
+# text = kɨrẽri ta paja , kiwkiw
 # text_eng = From now one, that one cleans, ripping, ripping (4.22)
 1	kɨrẽri	kɨrẽ	NOUN	n	Case=Abl	3	obl	3:obl	_
 2	ta	ta	DET	dem	Deixis=Dist	3	nsubj	3:nsubj	_
@@ -480,7 +480,7 @@
 5	kiwkiw	kiw	VERB	ideo	_	3	parataxis	3:parataxis	_
 
 # sent_id = 63
-# text = kwena , tawtʃena , takɨrapna , tawpɨkna , tatona , tato kwakwa , takɨrap kwakwa        
+# text = kwena , tawtʃena , takɨrapna , tawpɨkna , tatona , tato kwakwa , takɨrap kwakwa
 # text_eng = As for game animal, peccary, spider-monkey, black-monkey,armadillo, (he) grabbed an armadillo, (he) grabbed a spider-monkey (4.23a)
 1	kwena	kwe	NOUN	n	Case=Tra	12	conj	12:conj	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
@@ -499,7 +499,7 @@
 15	kwakwa	kwakwa	VERB	vt	_	12	parataxis	12:parataxis	_
 
 # sent_id = 64
-# text = imen iõ	imepit menna   
+# text = imen iõ	imepit menna
 # text_eng = Her husband's given (thing), her daughter's husband (4.24a)
 1	imen	men	NOUN	n	Person=3	2	nmod	2:nmod	_
 2	iõ	õ	NOUN	n	Nomzr=Obj	4	nmod	4:nmod	_
