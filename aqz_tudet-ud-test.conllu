@@ -731,3 +731,88 @@
 3	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 4	ikɨta	kɨta	VERB	vt	Person=3	0	root	0:root	_
 
+# sent_id = 91
+# text = pea, en ipoka    
+# text_eng = Firewood, I burned it (4.58b)
+1	pea	pea	NOUN	n	_	4	appos	4:appos	_
+2	,	,	PUNCT	punct	_	3	punct	3:punct	_
+3	en	en	PRON	pron	_	4	nsubj	4:nsubj	_
+4	ipoka	poka	VERB	vt	Person=3	0	root	0:root	_
+
+# sent_id = 92
+# text = temen tekɨjt ata   
+# text_eng = Her husband got his salt (4.62b)
+1	temen	men	NOUN	n	Person=3|Reflex=Yes	3	nsubj	3:nsubj	_
+2	tekɨjt	kɨjt	NOUN	n	Person=3|Reflex=Yes	3	obj	3:obj	_
+3	ata	at	VERB	vt	Vt=Yes	0	root	0:root	_
+
+# sent_id = 93
+# text = en	iata ka
+# text_eng = You (go and) get it (4.63b)
+1	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+2	iata	at	VERB	vt	Person=3|Vt=Yes	0	root	0:root	_
+3	ka	ka	VERB	vi	_	2	dep	2:dep	_
+
+# sent_id = 94
+# text = kitʃe kɨp boja
+# text_eng = We cut the wood (4.63d)
+1	kitʃe	kitʃe	PRON	pron	Clusivity=In|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	kɨp	kɨp	NOUN	n	_	3	obj	3:obj	_
+3	boja	boja	VERB	vt	_	0	root	0:root	_
+
+# sent_id = 95
+# text = enõ kɨ pi?
+# text_eng = Is there liquid inside you? (4.65)
+1	enõ	en	PRON	pron	Case=All|Number=Sing|Person=2|PronType=Prs	2	obl	2:obl	_
+2	kɨ	kɨ	NOUN	n	_	0	root	0:root	_
+3	pi	pi	NOUN	n	_	2	obl	2:obl	_
+4	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 95
+# text = orẽ oerekwa 
+# text_eng = I speak (4.66a)
+1	orẽ	orẽ	PRON	pron	Number=Sing|Person=1|PronType=Emp	2	discourse	2:discourse	_
+2	oerekwa	erek	VERB	vi	Person=1|Trans=Yes	0	root	0:root	_
+
+# sent_id = 96
+# text = kirẽbõ kipera 
+# text_eng = We woke up (4.67)
+1	kirẽbõ	kirẽ	NOUN	n	Case=All	2	obl	2:obl	_
+2	kipera	pera	VERB	vi	Clusivity=In|Person=1	0	root	0:root	_
+
+# sent_id = 97
+# text = koro am, eme tetna
+# text_eng = Rope's bowl, it is this one's name (4.68b)
+1	koro	koro	NOUN	n	_	2	nmod	2:nmod	_
+2	am	am	NOUN	n	_	0	root	0:root	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	eme	eme	DET	dem	Deixis=Prox	5	nmod	5:nmod	_
+5	tetna	et	NOUN	n	Rel=Cont|Case=Tra	2	appos	2:appos	_
+
+# sent_id = 98
+# text =  en ekem kɨ pi, jẽbõ nõm
+# text_eng = You have milk inside, for this one there isn't (4.69c)
+1	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
+2	ekem	kem	NOUN	kem	Person=2	3	nmod	3:nmod	_
+3	kɨ	kɨ	NOUN	n	_	0	root	0:root	_
+4	pi	pi	NOUN	n	_	3	nmod	3:nmod	_
+5	,	,	PUNCT	punct	_	3	punct	3:punct	_
+6	jẽbõ	jẽ	DET	dem	Case=All|Dem=Prox	3	parataxis	3:parataxis	_
+7	nõm	nõm	ADV	adv	Polarity=Yes	6	advmod	6:advmod	_
+
+# sent_id = 99
+# text = pero jẽrom te aj
+# text_eng = Macaw stays there (4.70d)
+1	pero	pero	NOUN	n	_	4	nsubj	4:nsubj	_
+2	jẽrom	jẽrom	DET	dem	Dem=Dist	1	nmod	1:nmod	_
+3	te	te	PART	pclfoc	_	1	discourse	1:discourse	_
+4	aj	aj	VERB	vi	_	0	root	0:root	_
+
+# sent_id = 100
+# text = Pupak ko ata kebõ
+# text_eng = Pupák takes the fishhook for this one (4.73d)
+1	Pupak	Pupak	PROPN	pn	_	2	nmod	2:nmod	_
+2	ko	ko	NOUN	n	_	3	obj	3:obj	_
+3	ata	at	VERB	vt	Vt=Yes	0	root	0:root	_
+4	kebõ	ke	DET	dem	Case=Dat|Dem=Prox	3	obl	3:obl	_
+
