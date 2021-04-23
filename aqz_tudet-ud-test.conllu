@@ -714,7 +714,7 @@
 4	oerekwa	erek	VERB	vi	Person=1|Trans=Yes	2	parataxis	2:parataxis	_
 
 # sent_id = 89
-# text = on eni erepe , on terepe   
+# text = on eni erepe , on terepe 
 # text_eng = I tie the hammock, I tie it (4.57)
 1	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	eni	eni	NOUN	n	_	3	obj	3:obj	_
