@@ -317,28 +317,28 @@
 4	etʃe	etʃe	ADP	posp	_	3	case	3:case	_
 
 # sent_id = 42
-# text = ek etʃe imaã                
+# text = ek etʃe imaã
 # text_eng = Guan stays at home (4.10d)
 1	ek	ek	NOUN	n	_	3	obl	3:obl	_
 2	etʃe	etʃe	ADP	posp	_	1	case	1:case	_
 3	imaã	maã	VERB	vt	Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 43
-# text = teatap nĩap ete                
+# text = teatap nĩap ete
 # text_eng = It is the braided of her hair (4.11a)
 1	teatap	atap	NOUN	n	Person=3|Reflex=Yes	2	nmod	2:nmod	_
 2	nĩap	nĩ	NOUN	n	Nomzr=Circ	0	root	0:root	_
 3	ete	ete	ADP	posp	_	2	case	2:case	_
 
 # sent_id = 44
-# text = itoap atʃoap ete            
+# text = itoap atʃoap ete
 # text_eng = His place of sleeping is wet (4.11b)
 1	itoap	toa	NOUN	n	Person=3	2	nmod	2:nmod	_
 2	atʃoap	atʃop	NOUN	n	Nomzr=Circ	0	root	0:root	_
 3	ete	ete	ADP	posp	_	2	case	2:case	_
 
 # sent_id = 45
-# text = aparapia tet ete ?             
+# text = aparapia tet ete ?
 # text_eng = What about the non-Indian's name?(4.11c)
 1	aparapia	aparapia	NOUN	n	_	2	nmod	2:nmod	_
 2	tet	tet	NOUN	n	Rel=Cont	0	root	0:root	_
@@ -346,7 +346,7 @@
 4	?	?	PUNCT	punct	_	2	case	2:case	_
 
 # sent_id = 46
-# text = omapi ete ?          
+# text = omapi ete ?
 # text_eng = What about my arrow? (4.11d)
 1	omapi	mapi	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
 2	ete	ete	ADP	posp	_	1	case	1:case	_
@@ -360,14 +360,14 @@
 3	ete	ete	ADP	posp	_	2	case	2:case	_
 
 # sent_id = 48
-# text = tekwata Buko ete        
+# text = tekwata Buko ete
 # text_eng = He leaves with Buquá (4.13)
 1	tekwata	kwat	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	0	root	0:root	_
 2	Buko	Buko	PROPN	pn	_	1	obl	1:obl	_
 3	ete	ete	ADP	posp	_	2	case	2:case	_
 
 # sent_id = 49
-# text = omepit tek pi tʃopa on           
+# text = omepit tek pi tʃopa on
 # text_eng = I am going to see the interior of my daughter's house (4.14a)
 1	omepit	mepit	NOUN	n	Number=Sing|Person=1	2	nmod	2:nmod	_
 2	tek	ek	NOUN	n	Rel=Cont	3	nmod	3:nmod	_
@@ -376,14 +376,14 @@
 5	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 
 # sent_id = 50
-# text = ojẽ pi õkwa       
+# text = ojẽ pi õkwa
 # text_eng = I am washing the interior of my mouth (4.14b) 
 1	ojẽ	jẽ	NOUN	n	Number=Sing|Person=1	2	nmod	2:nmod	_
 2	pi	pi	NOUN	n	_	3	obj	3:obj	_
 3	õkwa	õkwa	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 51
-# text = poga pe pi , ameko ikora tʃe         
+# text = poga pe pi , ameko ikora tʃe
 # text_eng = The interior of tortoise's skin, jaguar comes to look for it (4.14c) 
 1	poga	poga	NOUN	n	_	2	nmod	2:nmod	_
 2	pe	pe	NOUN	n	_	3	nmod	3:nmod	_
@@ -394,21 +394,21 @@
 7	tʃe	tʃe	AUX	aux	_	0	root	0:root	_
 
 # sent_id = 52
-# text = okere atʃi pibõ  
+# text = okere atʃi pibõ
 # text_eng = I have pain into my ribs (4.15) 
 1	okere	kere	NOUN	n	Number=Sing|Person=1	2	nsubj	2:nsubj	_
 2	atʃi	atʃi	NOUN	n	_	0	root	0:root	_
 3	pibõ	pi	NOUN	n	Case=All	2	obl	2:obl	_
 
 # sent_id = 53
-# text = otʃipap tabɨtõ ka     
+# text = otʃipap tabɨtõ ka
 # text_eng = My grandmother went to the garden (4.16a)
 1	otʃipap	tʃipap	NOUN	n	Number=Sing|Person=1	3	nsubj	3:nsubj	_
 2	tabɨtõ	tabɨt	NOUN	n	Case=All	3	obl	3:obl	_
 3	ka	ka	VERB	vi	_	0	root	0:root	_
 
 # sent_id = 54
-# text = aparapia kwamoa tekõ 
+# text = aparapia kwamoa tekõ
 # text_eng = to doctor's house (4.16b)
 1	aparapia	aparabia	NOUN	n	_	2	nmod	2:nmod	_
 2	kwamoa	kwamoa	NOUN	n	_	3	nmod	3:nmod	_
@@ -421,7 +421,7 @@
 2	ka	ka	VERB	vi	_	0	root	0:root	_
 
 # sent_id = 56
-# text = tebõ kɨte purururu , kebõ nõm    
+# text = tebõ kɨte purururu , kebõ nõm
 # text_eng = For him (there is) one coming back, for that one there isn't (4.17c)
 1	tebõ	te	PRON	pron	Case=All|Person=3|Reflex=Yes	3	nmod	3:nmod	_
 2	kɨte	kɨte	NUM	num	_	3	nummod	3:nummod	_
