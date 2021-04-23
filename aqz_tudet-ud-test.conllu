@@ -700,9 +700,9 @@
 # text = en aramĩra , aramĩra baba
 # text_eng = You are woman, (a) middle-aged woman (4.54)
 1	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
-2	aramĩra	aramĩra	NOUN	n	_	0	root	0:root	_
+2	aramĩra	aramĩra	NOUN	n	_	0	root	0:root	_
 3	,	,	PUNCT	punct	_	4	punct	4:punct	_
-4	aramĩra	aramĩra	NOUN	n	_	5	nmod	5:nmod	_
+4	aramĩra	aramĩra	NOUN	n	_	5	nmod	5:nmod	_
 5	baba	baba	NOUN	n	_	2	nmod	2:nmod	_
 
 # sent_id = 88
