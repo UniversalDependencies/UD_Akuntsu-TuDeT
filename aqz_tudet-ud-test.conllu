@@ -655,7 +655,7 @@
 1	Pupak	Pupak	PROPN	pn	_	3	nsubj	3:nsubj	_
 2	kɨjtpitatʃo	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
 3	ata	at	VERB	vt	Tv=Yes	0	root	0:root	_
-4	kom	kom	PART	pcl	Tense=Future	3	advmod	3:advmod	_
+4	kom	kom	PART	pcl	Tense=Fut	3	advmod	3:advmod	_
 
 # sent_id = 82
 # text = ke boroteatʃori tʃooo , jẽrom barobaro
