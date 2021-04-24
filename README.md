@@ -13,7 +13,7 @@ UD_Akunstu-TuDeT is a collection of annotated sentences in <a href="http://endan
 
 # Introduction
 
-UD_Akuntsu-TuDeT is a collection of annotated texts in Akuntsú. Together with [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT) and [UD_Munduruku-TuDeT](https://github.com/UniversalDependencies/UD_Munduruku-TuDeT/), UD_Akuntsu-TuDeT is part of the [TuLaR](https://tular.clld.org) project.  The sentences are being annotated by Carolina Aragon and Fabrício Ferraz Gerardi. Besides the works mentioned in the References, all of the annotated sentences stem from Aragon's field work. 
+UD_Akuntsu-TuDeT is a collection of annotated texts in Akuntsú. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The sentences are being annotated by Carolina Aragon and Fabrício Ferraz Gerardi. Besides the works mentioned in the References, all of the annotated sentences stem from Aragon's field work. 
 
 
 # Acknowledgments
