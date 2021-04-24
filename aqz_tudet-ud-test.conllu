@@ -148,7 +148,7 @@
 # text_eng = Tomorrow I will leave (3.25)
 1	erape	erape	ADV	adv	_	2	advmod	2:advmod	_
 2	okwata	kwat	VERB	vi	Person=1|Tv=Yes	0	root	0:root	_
-3	kom	kom	PART	pcl	Tense=Future	2	advmod	2:advmod	_
+3	kom	kom	PART	pcl	Tense=Fut	2	advmod	2:advmod	_
 
 # sent_id = 21
 # text = potʃek momo tejã otek etʃe
