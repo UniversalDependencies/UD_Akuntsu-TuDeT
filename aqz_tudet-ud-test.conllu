@@ -256,7 +256,7 @@
 # text_eng = The small hook, bring this one (4.3a)
 1	kotin	ko	NOUN	n	_	4	obj	4:obj	_
 2	,	,	PUNCT	punct	_	3	punct	3:punct	_
-3	eme	eme	DET	dem	 Dem=Prox	1	appos	1:appos	_
+3	eme	eme	DET	dem	 Deixis=Prox	1	appos	1:appos	_
 4	peka	peka	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 35
@@ -274,7 +274,7 @@
 2	atap	atap	NOUN	n	_	0	root	0:root	_
 3	erom	rom	ADV	adv	Polarity=Neg	2	advmod	2:advmod	_
 4	,	,	PUNCT	punct	_	2	punct	2:punct	_
-5	ke	ke	DET	dem	Dem=Dist	6	nmod	6:nmod	_
+5	ke	ke	DET	dem	Deixis=Dist	6	nmod	6:nmod	_
 6	kɨp	kɨp	NOUN	n	_	7	nmod	7:nmod	_
 7	atap	atap	NOUN	n	_	2	discourse	2:discourse	_
 
@@ -291,7 +291,7 @@
 # sent_id = 38
 # text = ke Kani
 # text_eng = This is Kani (4.6)
-1	ke	ke	DET	dem	Dem=Dist	2	nmod	2:nmod	_
+1	ke	ke	DET	dem	Deixis=Dist	2	nmod	2:nmod	_
 2	Kani	kani	PROPN	pn	_	0	root	0:root	_
 
 # sent_id = 39
@@ -427,7 +427,7 @@
 2	kɨte	kɨte	NUM	num	_	3	nummod	3:nummod	_
 3	purururu	puru	NOUN	ideo	_	0	root	0:root	_
 4	,	,	PUNCT	punct	_	5	punct	5:punct	_
-5	kebõ	ke	DET	dem	Case=All|Dem=Dist	3	parataxis	3:parataxis	_
+5	kebõ	ke	DET	dem	Case=All|Deixis=Dist	3	parataxis	3:parataxis	_
 6	nõm	nõm	ADV	adv	Polarity=Neg	5	advmod	5:advmod	_
 
 # sent_id = 57
@@ -474,7 +474,7 @@
 # text = kɨrẽri ta paja , kiwkiw
 # text_eng = From now one, that one cleans, ripping, ripping (4.22)
 1	kɨrẽri	kɨrẽ	NOUN	n	Case=Abl	3	obl	3:obl	_
-2	ta	ta	DET	dem	Dem=Dist	3	nsubj	3:nsubj	_
+2	ta	ta	DET	dem	Deixis=Dist	3	nsubj	3:nsubj	_
 3	paja	paj	VERB	vi	Tv=Yes	0	root	0:root	_
 4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	kiwkiw	kiw	VERB	ideo	_	3	parataxis	3:parataxis	_
@@ -540,9 +540,9 @@
 # text = mepitet jẽ , jẽrom tɨrɨ
 # text_eng = These are the daughters, there are two there (4.26e)
 1	mepitet	mepit	NOUN	n	_	0	root	0:root	_
-2	jẽ	jẽ	DET	dem	Dem=Prox	1	nmod	1:nmod	_
+2	jẽ	jẽ	DET	dem	Deixis=Prox	1	nmod	1:nmod	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	jẽrom	jẽrom	DET	dem	Dem=Dist	1	parataxis	1:parataxis	_
+4	jẽrom	jẽrom	DET	dem	Deixis=Dist	1	parataxis	1:parataxis	_
 5	tɨrɨ	tɨrɨ	NUM	num	NumType=Card	4	nummod	4:nummod	_
 
 # sent_id = 70
@@ -632,9 +632,9 @@
 # text =  otojẽpitin ẽ tow ẽ tow ebapap ɨro tojẽpitin
 # text_eng = My dear granddaughter (little granddaughter) this is dark, this is dark,the eyes are shrinking, my dear granddaughter (4.31)
 1	otojẽpitin	tojẽpit	NOUN	n	Person=1	7	nsubj	7:nsubj	_
-2	ẽ	ẽ	DET	dem	Dem=Prox	3	nmod	3:nmod	_
+2	ẽ	ẽ	DET	dem	Deixis=Prox	3	nmod	3:nmod	_
 3	tow	tow	NOUN	ideo	_	1	appos	1:appos	_
-4	ẽ	ẽ	DET	dem	Dem=Prox	5	nmod	5:nmod	_
+4	ẽ	ẽ	DET	dem	Deixis=Prox	5	nmod	5:nmod	_
 5	tow	tow	NOUN	ideo	_	7	nsubj	7:nsubj	_
 6	ebapap	ebapap	NOUN	n	_	7	nmod	7:nmod	_
 7	ɨro	ɨro	NOUN	n	_	0	root	0:root	_
@@ -660,11 +660,11 @@
 # sent_id = 82
 # text = ke boroteatʃori tʃooo , jẽrom barobaro
 # text_eng = That star is getting bigger, there it is the star (another type of)(4.38)
-1	ke	ke	DET	dem	Dem=Dist	2	nmod	2:nmod	_
+1	ke	ke	DET	dem	Deixis=Dist	2	nmod	2:nmod	_
 2	boroteatʃori	borote	NOUN	n	_	0	root	0:root	_
 3	tʃooo	tʃo	NOUN	n	_	2	obl	2:obl	_
 4	,	,	PUNCT	punct	_	2	punct	2:punct	_
-5	jẽrom	jẽrom	DET	dem	Dem=Dist	6	nmod	6:nmod	_
+5	jẽrom	jẽrom	DET	dem	Deixis=Dist	6	nmod	6:nmod	_
 6	barobaro	baro	NOUN	n	_	2	parataxis	2:parataxis	_
 
 # sent_id = 83
@@ -786,7 +786,7 @@
 1	koro	koro	NOUN	n	_	2	nmod	2:nmod	_
 2	am	am	NOUN	n	_	0	root	0:root	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	eme	eme	DET	dem	Dem=Prox	5	nmod	5:nmod	_
+4	eme	eme	DET	dem	Deixis=Prox	5	nmod	5:nmod	_
 5	tetna	et	NOUN	n	Case=Tra|Rel=Cont	2	appos	2:appos	_
 
 # sent_id = 99
@@ -797,14 +797,14 @@
 3	kɨ	kɨ	NOUN	n	_	0	root	0:root	_
 4	pi	pi	NOUN	n	_	3	nmod	3:nmod	_
 5	,	,	PUNCT	punct	_	3	punct	3:punct	_
-6	jẽbõ	jẽ	DET	dem	Case=All|Dem=Prox	3	parataxis	3:parataxis	_
+6	jẽbõ	jẽ	DET	dem	Case=All|Deixis=Prox	3	parataxis	3:parataxis	_
 7	nõm	nõm	ADV	adv	Polarity=Neg	6	advmod	6:advmod	_
 
 # sent_id = 100
 # text = pero jẽrom te aj
 # text_eng = Macaw stays there (4.70d)
 1	pero	pero	NOUN	n	_	4	nsubj	4:nsubj	_
-2	jẽrom	jẽrom	DET	dem	Dem=Dist	1	nmod	1:nmod	_
+2	jẽrom	jẽrom	DET	dem	Deixis=Dist	1	nmod	1:nmod	_
 3	te	te	PART	pclfoc	_	1	discourse	1:discourse	_
 4	aj	aj	VERB	vi	_	0	root	0:root	_
 
@@ -814,5 +814,4 @@
 1	Pupak	Pupak	PROPN	pn	_	2	nmod	2:nmod	_
 2	ko	ko	NOUN	n	_	3	obj	3:obj	_
 3	ata	at	VERB	vt	Tv=Yes	0	root	0:root	_
-4	kebõ	ke	DET	dem	Case=Dat|Dem=Prox	3	obl	3:obl	_
-
+4	kebõ	ke	DET	dem	Case=Dat|Deixis=Prox	3	obl	3:obl	_
