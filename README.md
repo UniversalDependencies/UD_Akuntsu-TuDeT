@@ -2,8 +2,8 @@
 
 # Summary
 
-UD_Akunstu-TuDeT is a collection of annotated sentences in <a href="http://endangeredlanguages.com/lang/1567"> Akuntsú</a>.
-Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Munduruku-TuDeT</a> and <a href="https://github.com/UniversalDependencies/UD_Tupinambá-TuDeT">UD_Tupinambá-TuDeT</a>, UD_Akuntsu-TuDeT is part of <a href="https://tular.org">TuLaR</a>. 
+UD_Akunstu-TuDeT is a collection of annotated sentences in <a href="http://endangeredlanguages.com/lang/1567"> Akuntsú</a>. The project is work in progress and the treebank is being updated on a regular basis.
+
 
 </br>
 </br>
@@ -13,7 +13,7 @@ Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Munduruk
 
 # Introduction
 
-UD_Akuntsu-TuDeT is a collection of annotated texts in Akuntsú. Together with [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT) and UD_Munduruku-TuDeT, UD_Akuntsu-TuDeT is part of the [TuLaR](https://tular.org) project.  The sentences are being annotated by Carolina Aragon and Fabrício Ferraz Gerardi. Besides the wors cited in the References Section, all the annotated sentences stem from Carolina's field work. 
+UD_Akuntsu-TuDeT is a collection of annotated texts in Akuntsú. Together with [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT) and [UD_Munduruku-TuDeT](https://github.com/UniversalDependencies/UD_Munduruku-TuDeT/), UD_Akuntsu-TuDeT is part of the [TuLaR](https://tular.clld.org) project.  The sentences are being annotated by Carolina Aragon and Fabrício Ferraz Gerardi. Besides the works mentioned in the References, all of the annotated sentences stem from Aragon's field work. 
 
 
 # Acknowledgments
