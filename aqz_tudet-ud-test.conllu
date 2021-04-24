@@ -65,7 +65,7 @@
 # text_eng = Kani, my younger sister, doesn't have breast-milk (4.1b)
 1	Kani	Kani	PROPN	pn	_	0	root	0:root	_
 2	okɨpi	kɨpi	NOUN	n	Person=1	1	appos	1:appos	_
-3	kem	kem 	NOUN	n	_	1	nmod	1:nmod	_
+3	kem	kem NOUN	n	_	1	nmod	1:nmod	_
 4-5	kɨrom	_	_	_	_	_	_	_	_
 4	kɨ	kɨ	NOUN	n	_	3	nmod	3:nmod	_
 5	rom	rom	ADV	adv	Polarity=Neg	3	advmod	3:advmod	_
@@ -563,7 +563,7 @@
 6	koa	ko	VERB	vt	Tv=Yes	3	parataxis	3:parataxis	_
 
 # sent_id = 72
-# text = on ikiramka , ɨkɨ tʃooo , kɨpitʃik ɨkɨt ãka
+# text = on ikiramka , ɨkɨ tʃooo , kɨpitʃik ɨkɨt ãka
 # text_eng = I poured the water, I poured water, the cold water, that way (4.27b)
 1	on	on	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
 2	ikiramka	kiram	VERB	vt	Person=3|Trans=Yes	0	root	0:root	_
@@ -573,7 +573,7 @@
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
 7	kɨpitʃik	kɨpitʃik	NOUN	n	_	8	nmod	8:nmod	_
 8	ɨkɨt	ɨkɨ	NOUN	n	_	2	parataxis	2:parataxis	_
-9	ãka	ãka	PART	pcl	_	8	discourse	8:discourse	_
+9	ãka	ãka	PART	pcl	_	8	discourse	8:discourse	_
 
 # sent_id = 73
 # text = aramĩra nõm , aramĩra , aparapia dow , nako ata ãka , ɨkɨ ape dow aparapiat
