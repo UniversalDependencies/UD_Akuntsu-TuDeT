@@ -155,7 +155,7 @@
 # text_eng = The notebook stayed for long time in my house (3.27)
 1	potʃek	potʃek	NOUN	n	_	3	nsubj	3:nsubj	_
 2	momo	mo	ADV	adv	_	3	advmod	3:advmod	_
-3	tejã	jã	VERB	vi	Person=3|Reflexive=Yes	0	root	0:root	_
+3	tejã	jã	VERB	vi	Person=3|Reflex=Yes	0	root	0:root	_
 4	otek	ek	NOUN	n	Person=1|Rel=Cont	3	obl	3:obl	_
 5	etʃe	etʃe	ADP	posp	_	4	case	4:case	_
 
