@@ -65,7 +65,7 @@
 # text_eng = Kani, my younger sister, doesn't have breast-milk (4.1b)
 1	Kani	Kani	PROPN	pn	_	0	root	0:root	_
 2	okɨpi	kɨpi	NOUN	n	Person=1	1	appos	1:appos	_
-3	kem	kem NOUN	n	_	1	nmod	1:nmod	_
+3	kem	kem	NOUN	n	_	1	nmod	1:nmod	_
 4-5	kɨrom	_	_	_	_	_	_	_	_
 4	kɨ	kɨ	NOUN	n	_	3	nmod	3:nmod	_
 5	rom	rom	ADV	adv	Polarity=Neg	3	advmod	3:advmod	_
@@ -256,7 +256,7 @@
 # text_eng = The small hook, bring this one (4.3a)
 1	kotin	ko	NOUN	n	_	4	obj	4:obj	_
 2	,	,	PUNCT	punct	_	3	punct	3:punct	_
-3	eme	eme	DET	dem	 Deixis=Prox	1	appos	1:appos	_
+3	eme	eme	DET	dem	Deixis=Prox	1	appos	1:appos	_
 4	peka	peka	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 35
@@ -390,7 +390,7 @@
 3	pi	pi	NOUN	n	_	7	nsubj	7:nsubj	_
 4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	ameko	ameko	NOUN	n	_	7	nsubj	7:nsubj	_
-6	ikora	kora	VERB	vt	Person=3	7	cc	7:cc	_
+6	ikora	kora	VERB	vt	Person=3	7	conj	7:conj	_
 7	tʃe	tʃe	AUX	aux	_	0	root	0:root	_
 
 # sent_id = 52
