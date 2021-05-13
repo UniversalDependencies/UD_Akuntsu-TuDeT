@@ -1,38 +1,40 @@
-Running the following version of tools/evaluate_treebank.pl:
-commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Apr 21 19:02:58 2018 +0200
+Date:   Thu May 6 20:16:19 2021 +0200
 Evaluating the following revision of UD_Akuntsu-TuDeT:
-commit f49de3f2603f574e94a5c4d311fd0f4d67962fd7
+commit 62753529ff1cd1aac48ec785207a9891258dcda1
+Merge: afc41c8 27b17b6
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Nov 11 15:40:14 2020 +0100
-Size: counted 80 of 80 words (nodes).
+Size: counted 408 of 408 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
 Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
-Universal POS tags: 11 out of 17 found in the corpus.
+Universal POS tags: 13 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 20 out of 80 total words have one or more features.
+Features: 183 out of 408 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 16 out of 37 found in the corpus.
+Universal relations: 19 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 23 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 80 words.
+Udapi:
+               TOTAL        105
+Udapi: found 105 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 408 words.
 Genres: found 2 out of 17 known.
 validate.py --lang aqz --max-err=10 UD_Akuntsu-TuDeT/aqz_tudet-ud-test.conllu
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
+(weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0) = 0
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.517647058823529) = 0.0398190045248869
+(weight=0.0769230769230769) * (score{tags}=0.611764705882353) = 0.0470588235294118
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.345945945945946) = 0.0266112266112266
-(TOTAL score=0.159069748481513) * (availability=1) * (validity=1) = 0.159069748481513
+(weight=0.0769230769230769) * (score{udeprels}=0.410810810810811) = 0.0316008316008316
+(TOTAL score=0.183606864783335) * (availability=1) * (validity=1) = 0.183606864783335
 STARS = 1
-UD_Akuntsu-TuDeT	0.159069748481513	1
+UD_Akuntsu-TuDeT	0.183606864783335	1
