@@ -1105,7 +1105,7 @@
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0010.362
-# text = kɨp tep oĩa 
+# text = kɨp tep oĩa .
 # text_eng = I smell the leaf of the tree
 # text_port =  Eu cheiro a folha da árvore
 1	kɨp	kɨp	NOUN	n	_	2	nmod	_	_
