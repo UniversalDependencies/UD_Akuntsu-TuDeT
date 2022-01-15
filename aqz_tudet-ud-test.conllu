@@ -848,14 +848,14 @@
 1	ebapa	ebapa	NOUN	n	_	5	parataxis	_	_
 2	no	no	PRON	pron	PronType=Ind	1	det	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
-4	ebapa	ebapa	VERB	vt	Tv=Yes	7	advmod	_	_
+4	ebapa	ebapa	NOUN	n	Tv=Yes	7	advmod	_	_
 5	no	no	PRON	pron	PronType=Ind	4	det	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	_	_
 8	.	.	PUNCT	punct	_	7	punct	_	_
 
 # sent_id = 0010.142
-# text = tojẽpit , jẽ no , iat . 
+# text = tojẽpit , jẽ no , iat .
 # text_eng = Grandchild.of.man, this other one, take it
 # text_port = A neta, essa outra, pega isso
 1	tojẽpit	tojẽpit	NOUN	n	_	6	nsubj	_	_
@@ -904,7 +904,7 @@
 # text = kite babape at .
 # text_eng = Take one glass
 # text_port = Pegue um copo
-1	kite	kite	NUM	num	_	2	det	_	_
+1	kite	kite	NUM	num	_	2	nummod	_	_
 2	babape	babape	NOUN	n	_	3	obj	_	_
 3	at	at	VERB	vt	_	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
@@ -924,7 +924,7 @@
 # text_eng = Konibu is coming back alone
 # text_port = Konibu está voltando sozinho
 1	Konibu	Konibu	PROPN	pn	_	3	nsubj	_	_
-2	kite	kite	NUM	num	_	1	advmod	_	_
+2	kite	kite	NUM	num	_	1	nummod	_	_
 3	ipa	ipa	VERB	vi	_	0	root	_	_
 4	ka	ka	AUX	aux	_	3	aux	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
@@ -939,7 +939,7 @@
 4	tetʃet	tʃet	NOUN	n	Person=3|Reflex=Yes	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 0010.212
+# sent_id = 0010.213
 # text = tɨrɨ otak , otak , otak tɨrɨ .
 # text_eng = My two daughters, my daughters, I have two daughters
 # text_port = Minhas duas filhas, minhas filhas, eu tenho duas filhas
