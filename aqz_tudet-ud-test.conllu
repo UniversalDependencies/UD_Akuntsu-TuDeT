@@ -895,10 +895,10 @@
 # text_eng = The other one is arriving
 # text_port = O outro está chegando
 1-2	ino	_	_	_	_	_	_	_	_
-1	i	i	PRON	pron	Person=3	2	det	_	_
-2	no	no	PRON	pron	PronType=Ind	3	nsubj	_	_
-3	teita	ita	VERB	vi	Person=3|Reflex=Yes	_	_	_	_
-4	.	.	PUNCT	punct	_	3	punct	_	_
+1	i	i	PRON	pron	Person=3	2	det	2:det	_
+2	no	no	PRON	pron	PronType=Ind	3	nsubj	3:nsubj	_
+3	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	0:root	_
+4	.	.	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 0010.182
 # text = kite babape at .
