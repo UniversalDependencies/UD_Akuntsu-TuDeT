@@ -1250,3 +1250,48 @@
 64	baj	baj	VERB	v	_	63	parataxis	_	_
 65	.	.	PUNCT	punct	_	64	punct	_	_
 
+# sent_id = 0011.11
+# text = Kwai put ahh mãpara , kwai te epi õpa . en kwai ʧe put mãpara . ahaha , iwej , iwej , mãpa , epi piro pi õba , put mãpara . ikɨp ãka put . ikɨp pɨtka piri put mãpara . 
+1	Kwai	Kwai	NOUN	n	_	2	nsubj	_	_
+2	put	put	VERB	ideo	_	0	root	_	_
+3	ahh	ahh	INTJ	ideo	_	2	discourse	_	_
+4	mãpara	mãpara	VERB	vt	_	2	parataxis	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	kwai	kwai	NOUN	n	_	9	nsubj	_	_
+7	te	te	PART	pclfoc	_	9	discourse	_	_
+8	epi	pi	NOUN	n	Person[psor]=2	9	obj	_	_
+9	õpa	õpa	VERB	vt	_	4	parataxis	_	_
+10	.	.	PUNCT	punct	_	9	punct	_	_
+11	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
+12	kwai	kwai	NOUN	n	_	13	obl	_	_
+13	ʧe	ʧe	VERB	vi	_	9	parataxis	_	_
+14	put	put	VERB	ideo	_	13	parataxis	_	_
+15	mãpara	mãpara	VERB	vi	_	14	parataxis	_	_
+16	,	,	PUNCT	punct	_	15	punct	_	_
+17	ahaha	ahaha	INTJ	ideo	_	15	discourse	_	_
+18	,	,	PUNCT	punct	_	17	punct	_	_
+19	iwej	iwej	INTJ	ideo	_	15	discourse	_	_
+20	,	,	PUNCT	punct	_	19	punct	_	_
+21	iwej	iwej	INTJ	ideo	_	19	discourse	_	_
+22	mãpa	mãpa	VERB	vi	_	15	parataxis	_	_
+23	,	,	PUNCT	punct	_	22	punct	_	_
+24	epi	epi	NOUN	n	Person[subj]=2	27	dislocated	_	_
+25	piro	piro	AUX	_	_	24	aux	_	_
+26	pi	pi	NOUN	n	_	27	obj	_	_
+27	õba	õba	VERB	vi	 _	22	parataxis	_	_
+28	,	,	PUNCT	punct	_	27	parataxis	_	_
+29	put	put	VERB	vt	 _	27	parataxis	_	_
+30	mãpara	mãpara	VERB	vi	_	27	parataxis	_	_
+31	.	.	PUNCT	punct	_	30	punct	_	_
+32	ikɨp	kɨp	NOUN	n	Person=3	34	obj	_	_
+33	ãka	ãka	PART	pcl	 _	34	discourse	_	_
+34	put	put	NOUN	n	 _	_	_	_	_
+35	.	.	PUNCT	punct	_	34	punct	_	_
+36	ikɨp	kɨ	NOUN	n	Person=3	37	obj	_	_
+37	pɨtka	pɨt	VERB	vt	Trans=Yes	_	_	_	_
+38	piri	pi	NOUN	n	Case=Abl	37	obl	_	_
+39	,	,	PUNCT	punct	_	38	punct	_	_
+40	put	put	VERB	vi	 _	37	parataxis	_	_
+41	mãpara	mãpara	VERB	vt	_	37	parataxis	_	_
+42	.	.	PUNCT	punct	_	41	punct	_	_
+
