@@ -1182,7 +1182,7 @@
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0011.10
-# text = Ekwita ko eno , oiat . Txiramanty po ekwita topkora . kojõpi ipa . nom , en nom ekwit pe . Ato , kobore e mã , ãka jõma ape , akaratʃe ãka eot pɨta pen , te ten . txiramanty ibãn , ibarã , ten txiramanty ibarãka . Toto ikiramkwa tekwa , weren ato . awawaʧo, awawaʧo pen baj . awawaʧo pen baj .
+# text = Ekwita ko eno , oiat . Txiramanty po ekwita topkora . kojõpi ipa . nom , en nom ekwit pe . Ato , kobore e mã , ãka jõma ape , akaratʃe ãka eot pɨta pen , te ten . txiramanty ibãn , ibarã , ten txiramanty ibarãka . Toto ikiramkwa tekwa , weren ato . awawaʧo awawaʧo pen baj . awawaʧo pen baj .
 # text_eng = I ate honey there, my caught (thing). Txiramanty’s hand looked for honey. At night, returned. You didn’t, you didn’t go to honey’s path. Canudo bee (sp.), hunting’s path, that way, a thick bark, Tucumã tree (sp.), that way, punctured its belly, openning. It was hard. Txiramanty pushed, it broke. Txiramanty broke it. Grandmother poured out it, (it) ended up. There were many baby bees, opened it, cleaned it.   
 1	Ekwita	Ekwit	NOUN	n	_	2	obj	_	_
 2	ko	ko	VERB	n	_	0	root	_	_
@@ -1251,7 +1251,7 @@
 65	.	.	PUNCT	punct	_	64	punct	_	_
 
 # sent_id = 0011.11
-# text = Kwai put ahh mãpara , kwai te epi õpa . en kwai ʧe put mãpara . ahaha , iwej , iwej , mãpa , epi piro pi õba , put mãpara . ikɨp ãka put . ikɨp pɨtka piri put mãpara . 
+# text = Kwai put ahh mãpara , kwai te epi õpa . en kwai ʧe put mãpara , ahaha , iwej , iwej , mãpa , epi piro pi õba , put mãpara . ikɨp ãka put . ikɨp pɨtka piri put mãpara . 
 # text_eng = The stone hit it. It is over. The stone hit your foot. You went to the stone and hit it. It is over. It hurt, it hurt. It is over. your foot, hit the foot. It is over. Her leg, that way, hit it. Her leg pierced because of the foot. It is over.
 1	Kwai	Kwai	NOUN	n	_	2	nsubj	_	_
 2	put	put	VERB	ideo	_	0	root	_	_
@@ -1297,7 +1297,7 @@
 42	.	.	PUNCT	punct	_	41	punct	_	_
 
 # sent_id = 0011.13
-# text = ɨeko itʃe ɨkwajpe ɨkwaj uuu ameko ikora , ameko ika . Pupak kwe mia , mia Pupak , teten , teipa . ɨeko uuu . ameko iko eta mã , ameko iko eta . ẽẽ ɨkɨtin ĩa tʃe mã , ipap tʃe nɨrã , uuuu . Kɨbapi nobõ atʃiri te pɨt tʃu , uuuu , buh , kooo , kɨj , kɨj , Pupak maj tʃe pɨtekwa . iab atkwa pe , pe no tʃe mã ɨkɨtin no at itʃe mã .
+# text = ɨeko itʃe ɨkwajpe ɨkwaj uuu , ameko ikora , ameko ika . Pupak kwe mia , mia Pupak , teten , teipa . ɨeko uuu . ameko iko eta mã , ameko iko eta . ẽẽ ɨkɨtin ĩa tʃe mã , ipap tʃe nɨrã , uuuu . Kɨbapi nobõ atʃiri te pɨt tʃu , uuuu , buh , kooo , kɨj , kɨj , Pupak maj tʃe pɨtekwa . iab atkwa pe , pe no tʃe mã ɨkɨtin no at itʃe mã .
 # text_eng = he vulture was on the way of tapir. The tapir uuu the jaguar ate it as usually; the jaguar ate it. Pupák hunts for game meat. Pupák is strong. He returns and the vulture uuu. The jaguar’s food sleeps, for sure. There at the stream, comes smelling, comes to die, it stands uuuu. In the other woods, due to the pain, he sticks it, tchuu, uuu, it fells, catch it. Pupák come to say: sticks continuously. Catches its fat. (In) The other path comes, the other stream, comes to get it.
 1	ɨeko	ɨeko	NOUN	n	_	2	nsubj	_	_
 2	itʃe	tʃe	VERB	vi	Person[subj]=3	0	root	_	_
