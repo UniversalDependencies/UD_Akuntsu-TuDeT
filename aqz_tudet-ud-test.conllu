@@ -1297,7 +1297,7 @@
 42	.	.	PUNCT	punct	_	41	punct	_	_
 
 # sent_id = 0011.13
-# text = ɨeko itʃe ɨkwajpe ɨkwaj uuu , ameko ikora , ameko ika . Pupak kwe mia , mia Pupak , teten , teipa . ɨeko uuu . ameko iko eta mã , ameko iko eta . ẽẽ ɨkɨtin ĩa tʃe mã , ipap tʃe nɨrã , uuuu . Kɨbapi nobõ atʃiri te pɨt tʃu , uuuu , buh , kooo , kɨj , kɨj , Pupak maj tʃe pɨtekwa . iab atkwa pe , pe no tʃe mã ɨkɨtin no at itʃe mã .
+# text = ɨeko itʃe ɨkwajpe ɨkwaj uuu , ameko ikora , ameko ika . Pupak kwe mia , mia Pupak , teten , teipa . ɨeko uuu . ameko iko eta mã , ameko iko eta . ẽẽ ɨkɨtin ĩa tʃe mã , ipap tʃe nɨrã , uuuu . Kɨbapi nobõ atʃiri te pɨt tʃu , uuuu , buh , kooo , kɨj , kɨj Pupak maj tʃe pɨtekwa . iab atkwa pe , pe no tʃe mã ɨkɨtin no at itʃe mã .
 # text_eng = he vulture was on the way of tapir. The tapir uuu the jaguar ate it as usually; the jaguar ate it. Pupák hunts for game meat. Pupák is strong. He returns and the vulture uuu. The jaguar’s food sleeps, for sure. There at the stream, comes smelling, comes to die, it stands uuuu. In the other woods, due to the pain, he sticks it, tchuu, uuu, it fells, catch it. Pupák come to say: sticks continuously. Catches its fat. (In) The other path comes, the other stream, comes to get it.
 1	ɨeko	ɨeko	NOUN	n	_	2	nsubj	_	_
 2	itʃe	tʃe	VERB	vi	Person[subj]=3	0	root	_	_
