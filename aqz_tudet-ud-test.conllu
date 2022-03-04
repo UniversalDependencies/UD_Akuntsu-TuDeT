@@ -1288,10 +1288,9 @@
 36	ikɨp	kɨ	NOUN	n	Person=3	37	obj	_	_
 37	pɨtka	pɨt	VERB	vt	Trans=Yes	32	parataxis	_	_
 38	piri	pi	NOUN	n	Case=Abl	37	obl	_	_
-39	,	,	PUNCT	punct	_	38	punct	_	_
-40	put	put	VERB	vi	_	37	parataxis	_	_
-41	mãpara	mãpara	VERB	vt	_	37	parataxis	_	_
-42	.	.	PUNCT	punct	_	41	punct	_	_
+39	put	put	VERB	vi	_	37	parataxis	_	_
+40	mãpara	mãpara	VERB	vt	_	37	parataxis	_	_
+41	.	.	PUNCT	punct	_	40	punct	_	_
 
 # sent_id = 0011.13
 # text = ɨeko itʃe ɨkwajpe ɨkwaj uuu , ameko ikora , ameko ika . Pupak kwe mia , mia Pupak , teten , teipa . ɨeko uuu . ameko iko eta mã , ameko iko eta . ẽẽ ɨkɨtin ĩa tʃe mã , ipap tʃe nɨrã , uuuu . Kɨbapi nobõ atʃiri te pɨt tʃu , uuuu , buh , kooo , kɨj , kɨj Pupak maj tʃe pɨtekwa . iab atkwa pe , pe no tʃe mã ɨkɨtin no at itʃe mã .
