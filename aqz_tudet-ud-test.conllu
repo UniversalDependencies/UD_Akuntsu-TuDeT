@@ -1237,7 +1237,7 @@
 51	,	,	PUNCT	punct	_	50	punct	_	_
 52	weren	weren	VERB	n	_	50	parataxis	_	_
 53	ato	ato	NOUN	n	_	52	nsubj	_	_
-54	,	,	PUNCT	punct	_	52	punct	_	_
+54	.	.	PUNCT	punct	_	52	punct	_	_
 55	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	52	parataxis	_	_
 56	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	55	dep	_	_
 57	,	,	PUNCT	punct	_	55	punct	_	_
