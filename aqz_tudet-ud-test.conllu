@@ -1244,8 +1244,8 @@
 58	,	,	PUNCT	punct	_	58	punct	_	_
 59	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	58	parataxis	_	_
 60	pen	pen	VERB	v	_	61	parataxis	_	_
-61	baj	baj	VERB	v	_	63	parataxis	_	_
-62	.	.	PUNCT	punct	_	64	punct	_	_
+61	baj	baj	VERB	v	_	60	parataxis	_	_
+62	.	.	PUNCT	punct	_	60	punct	_	_
 
 # sent_id = 0011.11
 # text = Kwai put ahh mãpara , kwai te epi õpa . en kwai ʧe put mãpara , ahaha , iwej , iwej mãpa , epi piro pi õba , put mãpara . ikɨp ãka put . ikɨp pɨtka piri put mãpara . 
