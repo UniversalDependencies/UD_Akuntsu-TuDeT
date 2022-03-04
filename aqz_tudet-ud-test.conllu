@@ -1372,11 +1372,10 @@
 74	no	no	PRON	pro	PronType=Ind	73	det	_	_
 75	tʃe	tʃe	VERB	vi	_	70	parataxis	_	_
 76	mã	mã	PART	pclcert	_	75	discourse	_	_
-77	,	,	PUNCT	punct	_	75	punct	_	_
-78	ɨkɨtin	ɨkɨ	NOUN	n	Dim=Yes	81	obl	_	_
-79	no	no	DET	dem	_	78	det	_	_
-80	at	at	VERB	vt	_	81	xcomp	_	_
-81	itʃe	tʃe	VERB	aux	Person=3	75	parataxis	_	_
-82	mã	mã	PART	pclcert	_	81	parataxis	_	_
-83	.	.	PUNCT	punct	_	81	punct	_	_
+77	ɨkɨtin	ɨkɨ	NOUN	n	Dim=Yes	81	obl	_	_
+78	no	no	DET	dem	_	78	det	_	_
+79	at	at	VERB	vt	_	81	xcomp	_	_
+80	itʃe	tʃe	VERB	aux	Person=3	75	parataxis	_	_
+81	mã	mã	PART	pclcert	_	81	parataxis	_	_
+82	.	.	PUNCT	punct	_	81	punct	_	_
 
