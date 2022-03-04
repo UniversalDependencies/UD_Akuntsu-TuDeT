@@ -933,8 +933,8 @@
 # text = tɨrɨ no , tetʃet .
 # text_eng = He leaves in two days
 # text_port = Ele sai em dois dias
-1	tɨrɨ	tɨrɨ	ADV	num	NumType=Card	4	advmod	_	_
-2	no	no	PRON	pron	PronType=Ind	1	nmod	_	_
+1	tɨrɨ	tɨrɨ	NUM	num	NumType=Card	2	nummod	_	_
+2	no	no	PRON	pron	PronType=Ind	4	advmod	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	tetʃet	tʃet	NOUN	n	Person=3|Reflex=Yes	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
@@ -972,7 +972,7 @@
 2	ebõ	e	PRON	pron	Case=Dat|Number=Sing|Person=2	1	obl	_	_
 3	nõm	nõm	ADV	adv	_	1	advmod	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
-5	orẽbõ	orẽ	NOUN	n	Case=Dat|Person=1|PronType=Prs	6	obl	_	_
+5	orẽbõ	orẽ	PRON	pron	Case=Dat|Person=1|PronType=Prs	6	obl	_	_
 6	kwajta	kwajta	NOUN	n	_	1	parataxis	_	_
 7	kite	kite	NUM	num	_	6	nummod	_	_
 8	,	,	PUNCT	punct	_	6	punct	_	_
@@ -1092,7 +1092,7 @@
 # text_eng = I clean the annatto  
 # text_port =  Eu estou limpando o urucum
 1	kɨpkap	kɨpkap	NOUN	n	_	2	obj	_	_
-2	obaja	baj	VERB	vt	Person=1|Tv=Yes	_	_	_	_
+2	obaja	baj	VERB	vt	Person=1|Tv=Yes	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.352
@@ -1182,7 +1182,7 @@
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0011.10
-# text = Ekwita ko eno , oiat . Txiramanty po ekwita topkora . kojõpi ipa . nom , en nom ekwit pe . Ato kobore e mã , ãka jõma ape , akaratʃe ãka eot pɨta pen , te ten . txiramanty ibãn , ibarã , ten txiramanty ibarãka . Toto ikiramkwa tekwa , weren ato . awawaʧo awawaʧo pen baj . awawaʧo pen baj .
+# text = Ekwita ko eno , oiat . Txiramanty po ekwita topkora . kojõpi ipa . nom , en nom ekwit pe . Ato kobore pe mã , ãka jõma ape akaratʃe , ãka eot pɨta pen , teten . Txiramanty ibãn , ibarã , teten Txiramanty ibarãka . Toto ikiramkwatekwa , weren ato . awawaʧo awawaʧo pen baj , awawaʧo pen baj .
 # text_eng = I ate honey there, my caught (thing). Txiramanty’s hand looked for honey. At night, returned. You didn’t, you didn’t go to honey’s path. Canudo bee (sp.), hunting’s path, that way, a thick bark, Tucumã tree (sp.), that way, punctured its belly, openning. It was hard. Txiramanty pushed, it broke. Txiramanty broke it. Grandmother poured out it, (it) ended up. There were many baby bees, opened it, cleaned it.   
 1	Ekwita	Ekwit	NOUN	n	_	2	obj	_	_
 2	ko	ko	VERB	n	_	0	root	_	_
@@ -1192,7 +1192,7 @@
 6	.	.	PUNCT	punct	_	5	punct	_	_
 7	Txiramanty	Txiramanty	PROPN	n	_	8	nmod	_	_
 8	po	po	NOUN	n	_	10	nsubj	_	_
-9	ekwita	Ekwit	NOUN	n	_	10	obj	_	_
+9	ekwita	ekwit	NOUN	n	_	10	obj	_	_
 10	topkora	topkora	VERB	vt	_	2	parataxis	_	_
 11	.	.	PUNCT	punct	_	10	punct	_	_
 12	kojõpi	kojõpi	ADV	adv	_	13	advmod	_	_
@@ -1222,22 +1222,22 @@
 36	,	,	PUNCT	punct	_	34	punct	_	_
 37	teten	ten	NOUN	n	Person[psor]=3|Reflex=Yes	34	parataxis	_	_
 38	.	.	PUNCT	punct	_	37	punct	_	_
-39	txiramanty	txiramanty	PROPN	n	_	40	nsubj	_	_
+39	Txiramanty	Txiramanty	PROPN	n	_	40	nsubj	_	_
 40	ibãn	ban	VERB	vt	_	34	parataxis	_	_
 41	,	,	PUNCT	punct	_	40	punct	_	_
 42	ibarã	ban	VERB	n	Person=3|Vt=Yes	40	parataxis	_	_
 43	,	,	PUNCT	punct	_	42	punct	_	_
 44	teten	ten	NOUN	n	Person[psor]=3|Reflex=Yes	42	parataxis	_	_
 45	,	,	PUNCT	punct	_	44	punct	_	_
-46	txiramanty	txiramanty	NOUN	n	_	47	nsubj	_	_
+46	Txiramanty	Txiramanty	NOUN	n	_	47	nsubj	_	_
 47	ibarãka	ban	VERB	n	Person=3|Trans=Yes|Vt=Yes	42	parataxis	_	_
 48	.	.	PUNCT	punct	_	47	punct	_	_
 49	Toto	Toto	NOUN	pn	_	50	nsubj	_	_
-50	ikiramkwatekwa	kiram	VERB	n	Aspect=Iter|Person=3|Trans=Yes	47	parataxis	_	_
+50	ikiramkwatekwa	kiram	VERB	v	Aspect=Iter|Person=3|Trans=Yes	47	parataxis	_	_
 51	,	,	PUNCT	punct	_	50	punct	_	_
 52	weren	weren	VERB	n	_	50	parataxis	_	_
 53	ato	ato	NOUN	n	_	52	nsubj	_	_
-54	.	.	PUNCT	punct	_	52	punct	_	_
+54	,	,	PUNCT	punct	_	52	punct	_	_
 55	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	52	parataxis	_	_
 56	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	55	dep	_	_
 57	,	,	PUNCT	punct	_	55	punct	_	_
@@ -1280,16 +1280,16 @@
 25	piro	piro	AUX	_	_	24	aux	_	_
 26	pi	pi	NOUN	n	_	27	obj	_	_
 27	õba	õba	VERB	vi	_	22	parataxis	_	_
-28	,	,	PUNCT	punct	_	27	parataxis	_	_
-29	put	put	VERB	vt	_	27	parataxis	_	_
+28	,	,	PUNCT	punct	_	29	punct	_	_
+29	put	put	VERB	vt	_	30	discourse	_	_
 30	mãpara	mãpara	VERB	vi	_	27	parataxis	_	_
 31	.	.	PUNCT	punct	_	30	punct	_	_
-32	ikɨp	kɨp	NOUN	n	Person=3	34	obj	_	_
-33	ãka	ãka	PART	pcl	_	34	discourse	_	_
-34	put	put	NOUN	n	_	_	_	_	_
+32	ikɨp	kɨp	NOUN	n	Person=3	30	parataxis	_	_
+33	ãka	ãka	PART	pcl	_	32	advmod	_	_
+34	put	put	X	ideo	_	32	dep	_	_
 35	.	.	PUNCT	punct	_	34	punct	_	_
 36	ikɨp	kɨ	NOUN	n	Person=3	37	obj	_	_
-37	pɨtka	pɨt	VERB	vt	Trans=Yes	_	_	_	_
+37	pɨtka	pɨt	VERB	vt	Trans=Yes	32	parataxis	_	_
 38	piri	pi	NOUN	n	Case=Abl	37	obl	_	_
 39	,	,	PUNCT	punct	_	38	punct	_	_
 40	put	put	VERB	vi	_	37	parataxis	_	_
@@ -1369,11 +1369,10 @@
 68	.	.	PUNCT	punct	_	67	punct	_	_
 69	iab	ab	NOUN	n	Person=3	70	obj	_	_
 70	atkwa	at	VERB	vt	Trans=Yes	66	parataxis	_	_
-71	,	,	PUNCT	punct	_	70	punct	_	_
 72	pe	pe	NOUN	n	_	76	discourse	_	_
 73	,	,	PUNCT	punct	_	72	punct	_	_
 74	pe	pe	NOUN	n	_	76	obl	_	_
-75	no	no	DET	dem	PronType=Ind	74	det	_	_
+75	no	no	PRON	pro	PronType=Ind	74	det	_	_
 76	tʃe	tʃe	VERB	vi	_	70	parataxis	_	_
 77	mã	mã	PART	pclcert	_	76	discourse	_	_
 78	,	,	PUNCT	punct	_	76	parataxis	_	_
