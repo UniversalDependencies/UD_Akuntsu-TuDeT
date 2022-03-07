@@ -1235,13 +1235,13 @@
 49	ikiramkwatekwa	kiram	VERB	v	Aspect=Iter|Person=3|Trans=Yes	47	parataxis	_	_
 50	,	,	PUNCT	punct	_	50	punct	_	_
 51	weren	weren	VERB	n	_	50	parataxis	_	_
-52	ato	ato	NOUN	n	_	52	nsubj	_	_
+52	ato	ato	NOUN	n	_	51	nsubj	_	_
 53	.	.	PUNCT	punct	_	52	punct	_	_
 54	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	52	parataxis	_	_
-55	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	55	dep	_	_
+55	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	54	dep	_	_
 56	pen	pen	VERB	v	_	55	parataxis	_	_
-57	baj	baj	VERB	v	_	58	parataxis	_	_
-58	,	,	PUNCT	punct	_	58	punct	_	_
+57	baj	baj	VERB	v	_	56	parataxis	_	_
+58	,	,	PUNCT	punct	_	57	punct	_	_
 59	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	58	parataxis	_	_
 60	pen	pen	VERB	v	_	61	parataxis	_	_
 61	baj	baj	VERB	v	_	60	parataxis	_	_
