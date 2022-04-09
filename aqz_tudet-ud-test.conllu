@@ -1,5 +1,5 @@
-# document_reference = Aragon_2014 [begin 0011.-]
-# document_reference = Aragon's fielwork [begin 0010.-]
+# document_reference = Aragon_2014 [begin 0010.-]
+# document_reference = Aragon's fielwork [begin 0011.-]
 # document_authorship = Carolina Aragon and Fabrício Ferraz Gerardi
 # sent_id = 1
 # text = ep koa jẽ
@@ -51,6 +51,24 @@
 # text_eng = Adriano arrives today (3.25b)
 1	Ariano	Ariano	PROPN	pn	_	2	nsubj	_	_
 2	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	_	_
+
+# sent_id = 0010.742
+# text = tanam etʃe kap .
+# text_eng = A wasp is on his head (8.16b)
+1	tanam	anam	NOUN	n	Rel=Cont	0	root	_	_
+2	etʃe	etʃe	ADP	posp	_	1	case	_	_
+3	kap	kap	NOUN	n	_	1	nsubj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.752
+# text = Tʃaruj otʃe tek etʃe .
+# text_eng = Tʃaruj is on our house (8.17a)
+1	Tʃaruj	Tʃaruj	PROPN	pn	_	2	nsubj	_	_
+2	otʃe	otʃe	NOUN	n	Person=1	3	nsubj	_	_
+3	tek	ek	NOUN	n	Rel=Cont	0	root	_	_
+4	etʃe	etʃe	ADP	posp	_	3	case	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
 3	kɨrẽ	kɨrẽ	ADV	adv	_	2	advmod	_	_
 
 # sent_id = 8
