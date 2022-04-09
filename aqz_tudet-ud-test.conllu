@@ -318,7 +318,7 @@
 
 # sent_id = 42
 # text = ek etʃe imaã
-# text_eng = Guan stays at home (4.10d)
+# text_eng = Put it at the house (4.10d)
 1	ek	ek	NOUN	n	_	3	obl	_	_
 2	etʃe	etʃe	ADP	posp	_	1	case	_	_
 3	imaã	maã	VERB	vt	Number=Sing|Person=3	0	root	_	_
