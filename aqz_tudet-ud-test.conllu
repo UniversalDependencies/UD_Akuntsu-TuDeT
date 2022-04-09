@@ -1,4 +1,5 @@
-# document_source = Carolina (2014) A Grammar of Akuntsú, a Tupían Language. University of Hawaii. Unpublished PhD Thesis.
+# document_source = 0.10 Carolina (2014) A Grammar of Akuntsú, a Tupían Language. University of Hawaii. Unpublished PhD Thesis.
+# document_source = 0.11 Aragon's fieldwork.
 # document_authorship = Carolina Aragon and Fabrício Ferraz Gerardi
 # document_reference =
 # sent_id = 1
@@ -1180,6 +1181,7 @@
 2	koa	ko	VERB	vt	Tv=Yes	0	root	_	_
 3	ojã	jã	AUX	aux	_	2	aux	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
+
 
 # sent_id = 0011.10
 # text = Ekwita ko eno , oiat . Txiramanty po ekwita topkora . kojõpi ipa . nom , en nom ekwit pe . Ato kobore pe mã , ãka jõma ape akaratʃe , ãka eot pɨta pen , teten . Txiramanty ibãn , ibarã , teten Txiramanty ibarãka . Toto ikiramkwatekwa , weren ato . awawaʧo awawaʧo pen baj , awawaʧo pen baj .
