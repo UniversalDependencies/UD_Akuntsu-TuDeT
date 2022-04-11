@@ -1655,3 +1655,23 @@
 3	kɨppe	kɨp	NOUN	n	Case=Loc	2	obj	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
+# sent_id = 0010.912
+# text = aparapia oike dow , mia oikepe .
+# text_eng = The non-Indian killed my older brother, he killed my older brother (8.27c)
+1	aparapia	aparapia	NOUN	n	_	3	nsubj	_	_
+2	oike	ike	NOUN	n	Person=1	3	obj	_	_
+3	dow	dow	VERB	ideo	_	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	mia	mi	VERB	vi	Tv=Yes	3	parataxis	_	_
+6	oikepe	ike	NOUN	n	Case=Loc|Person=1	5	obl	_	_
+7	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.922
+# text = teimaj at ka atitipe .
+# text_eng = He said: “(go and) pick up the corn!” (8.27d)
+1	teimaj	maj	VERB	vt	Reflex=Yes|Person=3	2	dep	_	_
+2	at	at	VERB	vt	_	0	root	_	_
+3	ka	ka	AUX	aux	_	2	aux	_	_
+4	atitipe	atiti	NOUN	n	Case=Loc	2	obl	_	_
+5	.	.	PUNCT	punct	_	2	punct	_	_
+
