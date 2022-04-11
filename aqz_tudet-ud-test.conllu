@@ -1199,12 +1199,11 @@
 3	ojã	jã	AUX	aux	_	2	aux	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
-
 # sent_id = 0011.10
 # text = Ekwita ko eno , oiat . Txiramanty po ekwita topkora . kojõpi ipa . nom , en nom ekwit pe . Ato kobore pe mã , ãka jõma ape akaratʃe , ãka eot pɨta pen , teten . Txiramanty ibãn , ibarã , teten Txiramanty ibarãka . Toto ikiramkwatekwa , weren ato . awawaʧo awawaʧo pen baj , awawaʧo pen baj .
 # text_eng = I ate honey there, my caught (thing). Txiramanty’s hand looked for honey. At night, returned. You didn’t, you didn’t go to honey’s path. Canudo bee (sp.), hunting’s path, that way, a thick bark, Tucumã tree (sp.), that way, punctured its belly, openning. It was hard. Txiramanty pushed, it broke. Txiramanty broke it. Grandmother poured out it, (it) ended up. There were many baby bees, opened it, cleaned it.   
 1	Ekwita	Ekwit	NOUN	n	_	2	obj	_	_
-2	ko	ko	VERB	n	_	0	root	_	_
+2	ko	ko	VERB	vt	_	0	root	_	_
 3	eno	eno	ADV	adv	_	2	advmod	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	oiat	at	NOUN	vt	Nomzr=Obj|Person[psor]=1	2	appos	_	_
@@ -1217,7 +1216,7 @@
 12	kojõpi	kojõpi	ADV	adv	_	13	advmod	_	_
 13	ipa	ip	VERB	vi	Tv=Yes	10	parataxis	_	_
 14	.	.	PUNCT	punct	_	13	punct	_	_
-15	nom	nom	ADV	dem	Deixis=Dist	20	discourse	_	_
+15	nom	nom	ADV	adv	Polarity=Yes	20	discourse	_	_
 16	,	,	PUNCT	punct	_	20	punct	_	_
 17	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	20	nsubj	_	_
 18	nom	nom	ADV	adv	_	20	advmod	_	_
@@ -1236,7 +1235,7 @@
 31	,	,	PUNCT	punct	_	28	punct	_	_
 32	ãka	ãka	PART	pcl	_	34	advmod	_	_
 33	eot	eo	NOUN	n	Determ=Yes	34	nsubj	_	_
-34	pɨta	pɨt	VERB	vt	Tv=Yes	28	parataxis	_	_
+34	pɨta	pɨta	VERB	vt	_	28	parataxis	_	_
 35	pen	pen	VERB	vi	_	34	dep	_	_
 36	,	,	PUNCT	punct	_	34	punct	_	_
 37	teten	ten	NOUN	n	Person[psor]=3|Reflex=Yes	34	parataxis	_	_
@@ -1244,14 +1243,14 @@
 39	Txiramanty	Txiramanty	PROPN	n	_	40	nsubj	_	_
 40	ibãn	ban	VERB	vt	_	34	parataxis	_	_
 41	,	,	PUNCT	punct	_	40	punct	_	_
-42	ibarã	ban	VERB	n	Person=3|Vt=Yes	40	parataxis	_	_
+42	ibarã	ban	VERB	n	Person=3|Tv=Yes	40	parataxis	_	_
 43	,	,	PUNCT	punct	_	42	punct	_	_
 44	teten	ten	NOUN	n	Person[psor]=3|Reflex=Yes	42	parataxis	_	_
 45	Txiramanty	Txiramanty	NOUN	n	_	47	nsubj	_	_
-46	ibarãka	ban	VERB	n	Person=3|Trans=Yes|Vt=Yes	42	parataxis	_	_
+46	ibarãka	ban	VERB	n	Person=3|Trans=Yes|Tv=Yes	42	parataxis	_	_
 47	.	.	PUNCT	punct	_	47	punct	_	_
-48	Toto	Toto	NOUN	pn	_	50	nsubj	_	_
-49	ikiramkwatekwa	kiram	VERB	v	Aspect=Iter|Person=3|Trans=Yes	47	parataxis	_	_
+48	Toto	Toto	NOUN	n	_	50	nsubj	_	_
+49	ikiramkwatekwa	kiram	VERB	vt	Aspect=Iter|Person=3|Trans=Yes	47	parataxis	_	_
 50	,	,	PUNCT	punct	_	50	punct	_	_
 51	weren	weren	VERB	n	_	50	parataxis	_	_
 52	ato	ato	NOUN	n	_	51	nsubj	_	_
