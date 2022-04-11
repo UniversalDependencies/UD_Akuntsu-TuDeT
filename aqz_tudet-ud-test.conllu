@@ -1308,7 +1308,7 @@
 38	piri	pi	NOUN	n	Case=Abl	37	obl	_	_
 39	put	put	VERB	vi	_	37	parataxis	_	_
 40	mãpara	mãpara	VERB	vt	_	37	parataxis	_	_
-41	.	.	PUNCT	punct	_	40	punct	_	_
+41	.	.	PUNCT	punct	_	37	punct	_	_
 
 # sent_id = 0010.442
 # text = en omepit .
@@ -1371,15 +1371,15 @@
 # sent_id = 0010.522
 # text = iapna .
 # text_eng = It is its fat (8.4b)
-1	iapna	ap	NOUN	n	CaseTrans|Person=3	0	root	_	_
+1	iapna	ap	NOUN	n	Case=Tras|Person=3	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0010.532
 # text = apaw iteterom .
 # text_eng = It is not called grub (8.5a)
-1	apaw	apaw	NOUN	ideo	_	2	nsubj	2:nsubj	_
-2	iteterom	et	VERB	vt	Person=3|Polarity=Neg|Rel=Cont	0	root	0:root	_
-3	.	.	PUNCT	punct	_	2	punct	2:punct	_
+1	apaw	apaw	NOUN	n	_	2	nsubj	_	_
+2	iteterom	et	VERB	vt	Person=3|Polarity=Yes|Rel=Cont	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.542
 # text = jẽ Aramĩra mepiterom
