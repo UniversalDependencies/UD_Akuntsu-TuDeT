@@ -1689,3 +1689,54 @@
 9	matʃero	matʃero	PROPN	propn	_	7	obl	_	_
 10	.	.	PUNCT	punct	_	4	punct	_	_
 
+# sent_id = 0010.1012
+# text = teita .
+# text_eng = He has arrived (8.29a)
+1	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.1022
+# text = õjpe tewɨbɨka .
+# text_eng = Tobacco is falling (8.29b)
+1	õjpe	õjpe	NOUN	n	_	2	nsubj	_	_
+2	tewɨbɨka	wɨbɨ	VERB	vi	Person=3|Reflex=Yes|Trans=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1032
+# text = abatʃo tekwepa . 
+# text_eng = Grandfather is climbing (8.29c)
+1	abatʃo	abatʃo	NOUN	n	_	2	nsubj	_	_
+2	tekwepa	kwep	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1042
+# text = ke wen .
+# text_eng = That one ended (8.29d)
+1	ke	ke	DET	dem	Deixis=Dist	2	nsubj	_	_
+2	wen	wen	VERB	vi	_	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1052
+# text = oatʃoa . 
+# text_eng = I bathe (8.30a)
+1	oatʃoa	atʃo	VERB	vi	Person=1|Tv=Yes	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.1062
+# text = eeta .
+# text_eng = You sleep (8.30d)
+1	eeta	et	VERB	vi	Person=2|Tv=Yes	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.1072
+# text = opip .
+# text_eng = I'm scared (8.31a)
+1	opip	pip	VERB	vi	Person=1	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.1082
+# text = epekã .
+# text_eng = You are cold (8.31d)
+1	epekã	pekã	VERB	vi	Person=2	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
