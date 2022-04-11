@@ -1382,7 +1382,7 @@
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.542
-# text = jẽ Aramĩra mepiterom
+# text = jẽ Aramĩra mepiterom .
 # text_eng = This is not Aramira's son (8.5b)
 1	jẽ	jẽ	DET	dem	Deixis=Prox	3	nsubj	_	_
 2	Aramĩra	Aramĩra	PROPN	pn	_	3	nmod	_	_
@@ -1537,14 +1537,14 @@
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.772
-# text = kɨrẽbõ nom . 
+# text = kɨrẽbõ nom .
 # text_eng = It is not today (8.18a)
 1	kɨrẽbõ	kɨrẽ	ADV	adv	Case=All	0	root	_	_
 2	nom	nom	ADV	adv	Polarity=Yes	1	advmod	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0010.782
-# text = jõ kɨperom
+# text = jõ kɨperom .
 # text_eng = The machete isn't here (8.18b)
 1	jõ	jõ	ADV	adv	Case=All	2	advmod	_	_
 2	kɨpe	kɨpe	NOUN	n	_	0	root	_	_
@@ -1576,8 +1576,8 @@
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.822
-# text = porakɨ ɨkɨ apeka . (8.22a)
-# text_eng = Curassow is drinking water
+# text = porakɨ ɨkɨ apeka .
+# text_eng = Curassow is drinking water (8.22a)
 1	porakɨ	porakɨ	NOUN	n	_	3	nsubj	_	_
 2	ɨkɨ	ɨkɨ	NOUN	n	_	3	obj	_	_
 3	apeka	apeka	VERB	vt	_	0	root	_	_
@@ -1700,7 +1700,7 @@
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.1032
-# text = abatʃo tekwepa . 
+# text = abatʃo tekwepa .
 # text_eng = Grandfather is climbing (8.29c)
 1	abatʃo	abatʃo	NOUN	n	_	2	nsubj	_	_
 2	tekwepa	kwep	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	0	root	_	_
@@ -1714,7 +1714,7 @@
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.1052
-# text = oatʃoa . 
+# text = oatʃoa .
 # text_eng = I bathe (8.30a)
 1	oatʃoa	atʃo	VERB	vi	Person=1|Tv=Yes	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
