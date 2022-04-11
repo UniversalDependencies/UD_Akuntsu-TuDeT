@@ -1248,7 +1248,7 @@
 44	teten	ten	NOUN	n	Person[psor]=3|Reflex=Yes	42	parataxis	_	_
 45	Txiramanty	Txiramanty	NOUN	n	_	47	nsubj	_	_
 46	ibarãka	ban	VERB	n	Person=3|Trans=Yes|Tv=Yes	42	parataxis	_	_
-47	.	.	PUNCT	punct	_	47	punct	_	_
+47	.	.	PUNCT	punct	_	46	punct	_	_
 48	Toto	Toto	NOUN	n	_	50	nsubj	_	_
 49	ikiramkwatekwa	kiram	VERB	vt	Aspect=Iter|Person=3|Trans=Yes	47	parataxis	_	_
 50	,	,	PUNCT	punct	_	50	punct	_	_
@@ -1331,7 +1331,6 @@
 1	kwakwa	kwakwa	PROPN	pn	_	2	nsubj	_	_
 2	itet	et	NOUN	n	Person=1	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
-
 
 # sent_id = 0010.472
 # text = en te aramĩra .
@@ -1529,7 +1528,6 @@
 2	eape	ape	NOUN	n	Person=2	0	root	_	_
 3	etʃe	etʃe	ADP	posp	Case=Loc	2	case	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
-
 
 # sent_id = 0010.762
 # text = jõ kɨpe .
