@@ -1644,7 +1644,7 @@
 2	purururu	puru	VERB	ideo	_	0	root	_	_
 3	mememe	me	VERB	ideo	_	2	parataxis	_	_
 4	ek	ek	NOUN	n	_	3	obj	_	_
-5	pagoppe	pagop	NOUN	n	Case=Loc	4	nmod	_	_
+5	pagoppe	pagop	NOUN	n	Obl=Yes	4	nmod	_	_
 6	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.902
@@ -1652,7 +1652,7 @@
 # text_eng = The wind is breaking [away at] the tree (8.27b)
 1	kɨpepo	kɨpepo	NOUN	n	_	2	nsubj	_	_
 2	iparãka	pan	VERB	vt	Person=3|Trans=Yes|Vt=Yes	0	root	_	_
-3	kɨppe	kɨp	NOUN	n	Case=Loc	2	obj	_	_
+3	kɨppe	kɨp	NOUN	n	Obl=Yes	2	obj	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.912
@@ -1663,7 +1663,7 @@
 3	dow	dow	VERB	ideo	_	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	mia	mi	VERB	vi	Tv=Yes	3	parataxis	_	_
-6	oikepe	ike	NOUN	n	Case=Loc|Person=1	5	obl	_	_
+6	oikepe	ike	NOUN	n	Obl=Yes|Person=1	5	obl	_	_
 7	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0010.922
@@ -1672,6 +1672,20 @@
 1	teimaj	maj	VERB	vt	Reflex=Yes|Person=3	2	dep	_	_
 2	at	at	VERB	vt	_	0	root	_	_
 3	ka	ka	AUX	aux	_	2	aux	_	_
-4	atitipe	atiti	NOUN	n	Case=Loc	2	obl	_	_
+4	atitipe	atiti	NOUN	n	Obl=Yes	2	obl	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1002
+# text = kwamoa mãtʃero õjpe ko otʃeta õjpe ko pe matʃero .
+# text_eng = The shaman Marcelo takes snuff, I leave to take the snuff for/in the place of Marcelo
+1	kwamoa	kwamoa	NOUN	n	_	2	nmod	_	_
+2	mãtʃero	mãtʃero	PROPN	pn	_	4	nsubj	_	_
+3	õjpe	õjpe	NOUN	n	_	4	obj	_	_
+4	ko	ko	VERB	vt	_	0	root	_	_
+5	otʃeta	tʃet	VERB	vi	Person=1|Tv=Yes	4	parataxis	_	_
+6	õjpe	õjpe	NOUN	n	_	7	obj	_	_
+7	ko	ko	VERB	vt	_	5	xcomp	_	_
+8	pe	pe	PART	pcl	_	7	discourse	_	_
+9	matʃero	matʃero	PROPN	propn	_	7	obl	_	_
+10	.	.	PUNCT	punct	_	4	punct	_	_
 
