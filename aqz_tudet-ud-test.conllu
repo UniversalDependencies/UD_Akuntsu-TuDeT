@@ -1279,6 +1279,31 @@
 9	õpa	õpa	VERB	vt	_	4	parataxis	_	_
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
+# sent_id = 0011.12
+# text = en kwai ʧe put mãpara , ahaha , iwej , iwej mãpa , epi piro pi õba , put mãpara . 
+# text_eng = The stone hit your foot. You went to the stone and hit it.
+1	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	kwai	kwai	NOUN	n	_	3	obl	_	_
+3	ʧe	ʧe	VERB	vi	_	0	root	_	_
+4	put	put	VERB	ideo	_	3	parataxis	_	_
+5	mãpara	mãpara	VERB	vi	_	3	parataxis	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	ahaha	ahaha	INTJ	ideo	_	5	discourse	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	iwej	iwej	INTJ	ideo	_	7	discourse	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	iwej	iwej	INTJ	ideo	_	9	discourse	_	_
+12	mãpa	mãpa	VERB	vi	_	3	parataxis	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	epi	epi	NOUN	n	Person[subj]=2	16	dislocated	_	_
+15	piro	piro	AUX	_	_	17	aux	_	_
+16	pi	pi	NOUN	n	_	17	obj	_	_
+17	õba	õba	VERB	vi	_	12	parataxis	_	_
+18	,	,	PUNCT	punct	_	17	punct	_	_
+19	put	put	VERB	vt	_	20	discourse	_	_
+20	mãpara	mãpara	VERB	vi	_	17	parataxis	_	_
+21	.	.	PUNCT	punct	_	20	punct	_	_
+
 # sent_id = 0010.442
 # text = en omepit .
 # text_eng = You are my daughter (8.1a)
