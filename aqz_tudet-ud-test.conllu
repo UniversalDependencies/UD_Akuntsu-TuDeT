@@ -1797,3 +1797,28 @@
 3	ete	ete	ADP	posp	_	2	case	_	_
 4	?	?	PUNCT	punct	_	2	punct	_	_
 
+# sent_id = 0010.1142
+# text = apara koara Ana .
+# text_eng = Ana is eating banana (8.38)
+1	apara	apara	NOUN	n	_	2	obj	_	_
+2	koara	ko	VERB	vt	Person=2|Tv=Yes|Aspect=Hab	0	root	_	_
+3	Ana	ana	PROPN	propn	_	2	nsubj	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1152
+# text = jẽ menerom .
+# text_eng = This one doesn't have a husband (8.39)
+1	jẽ	jẽ	DET	dem	Deixis=Prox	2	nmod	_	_
+2-3	menerom	_	_	_	_	_	_	_	_
+2	men	men	NOUN	n	_	0	root	_	_
+3	erom	erom	ADV	adv	_	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1162
+# text = nako te wɨbɨ ?
+# text_eng = Did the man slid? (8.40a)
+1	nako	nako	NOUN	n	_	3	nsubj	_	_
+2	te	te	PART	pclfoc	_	3	discourse	_	_
+3	wɨbɨ	wɨbɨ	VERB	vi	_	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
