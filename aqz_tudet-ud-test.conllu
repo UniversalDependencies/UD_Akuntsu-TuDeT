@@ -1308,7 +1308,7 @@
 38	piri	pi	NOUN	n	Case=Abl	37	obl	_	_
 39	put	put	VERB	vi	_	37	parataxis	_	_
 40	mãpara	mãpara	VERB	vt	_	37	parataxis	_	_
-41	.	.	PUNCT	punct	_	37	punct	_	_
+41	.	.	PUNCT	 punct	_	37	punct	_	_
 
 # sent_id = 0010.442
 # text = en omepit .
@@ -1389,8 +1389,8 @@
 1	jẽ	jẽ	DET	dem	Deixis=Prox	3	nsubj	_	_
 2	Aramĩra	Aramĩra	PROPN	pn	_	3	nmod	_	_
 3-4	mepiterom	_	_	_	_	_	_	_	_
-3	 mepit	mepit	NOUN	n	_	0	root	_	_
-4	 erom	erom	ADV	adv	_	3	advmod	_	_
+3	mepit	mepit	NOUN	n	_	0	root	_	_
+4	erom	erom	ADV	adv	_	3	advmod	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0010.552
