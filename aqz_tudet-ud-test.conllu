@@ -956,7 +956,7 @@
 # text = tɨrɨtɨrɨtɨrɨ tʃe ma , ima en .
 # text_eng = You keep coming to put (it), you put it.
 # text_port = Você fica vindo para colocar, você coloca
-1	tɨrɨtɨrɨtɨrɨ	tɨrɨ	ADV	num	NumType=Card|Redup=Yes	2	advmod	_	_
+1	tɨrɨtɨrɨtɨrɨ	tɨrɨ	NUM	num	NumType=Card|Redup=Yes	2	nummod	_	_
 2	tʃe	tʃe	VERB	vi	_	0	root	_	_
 3	ma	ma	VERB	vd	_	2	xcomp	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
