@@ -1746,7 +1746,7 @@
 9	.	.	PUNCT	punct	_	8	punct	_	_
 10	Toto	Toto	NOUN	n	_	11	nsubj	_	_
 11	ikiramkwatekwa	kiram	VERB	vt	Aspect=Iter|Person=3|Trans=Yes	8	parataxis	_	_
-12	,	,	PUNCT	punct	_	_	_	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
 13	weren	weren	VERB	n	_	11	parataxis	_	_
 14	ato	ato	NOUN	n	_	13	nsubj	_	_
 15	.	.	PUNCT	punct	_	13	punct	_	_
