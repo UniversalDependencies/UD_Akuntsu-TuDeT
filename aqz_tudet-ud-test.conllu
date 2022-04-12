@@ -1304,6 +1304,20 @@
 20	mãpara	mãpara	VERB	vi	_	17	parataxis	_	_
 21	.	.	PUNCT	punct	_	20	punct	_	_
 
+# sent_id = 0011.13
+# text = ikɨp ãka put . ikɨp pɨtka piri put mãpara .
+# text_eng = Her leg that way hit it. Her leg pierced because of the foot, it is over.
+1	ikɨp	kɨp	NOUN	n	Person=3	3	obj	_	_
+2	ãka	ãka	PART	pcl	_	3	discourse	_	_
+3	put	put	VERB	ideo	_	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+5	ikɨp	kɨ	NOUN	n	Person=3	6	obj	_	_
+6	pɨtka	pɨt	VERB	vt	Trans=Yes	3	parataxis	_	_
+7	piri	pi	NOUN	n	Case=Abl	6	obl	_	_
+8	put	put	VERB	vi	_	6	parataxis	_	_
+9	mãpara	mãpara	VERB	vt	_	6	parataxis	_	_
+10	.	.	PUNCT	punct	_	6	punct	_	_
+
 # sent_id = 0010.442
 # text = en omepit .
 # text_eng = You are my daughter (8.1a)
