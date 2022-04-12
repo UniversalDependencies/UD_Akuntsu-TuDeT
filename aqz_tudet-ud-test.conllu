@@ -1769,3 +1769,31 @@
 4	pɨtka	pɨtka	NOUN	n	Trans=Yes	3	xcomp	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
+# sent_id = 0010.1102
+# text = nakona ?
+# text_eng = Is it a man (8.33)
+1	nakona	nako	NOUN	n	Case=Tra	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.1112
+# text = pitoana .
+# text_eng = It's tobacco (8.34)
+1	pitoana	pitoa	NOUN	n	Case=Tra	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.1122
+# text = ti te ke ?
+# text_eng = Is the mother that one? (8.35)
+1	ti	ti	NOUN	n	_	0	root	_	_
+2	te	te	PART	pclfoc	_	1	discourse	_	_
+3	ke	ke	DET	dem	Deixis=Dist	1	nmod	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.1132
+# text = men tet ete ?
+# text_eng = Is there a husband's name? (8.36)
+1	men	men	NOUN	n	_	2	nmod	_	_
+2	tet	et	NOUN	n	Rel=Cont	0	root	_	_
+3	ete	ete	ADP	posp	_	2	case	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
