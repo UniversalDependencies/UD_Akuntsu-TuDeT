@@ -1704,11 +1704,32 @@
 12	kojõpi	kojõpi	ADV	adv	_	13	advmod	_	_
 13	ipa	ip	VERB	vi	Tv=Yes	10	parataxis	_	_
 14	.	.	PUNCT	punct	_	13	punct	_	_
-15	nom	nom	ADV	adv	Polarity=Yes	20	discourse	_	_
+15	nom	nom	ADV	adv	_	20	discourse	_	_
 16	,	,	PUNCT	punct	_	20	punct	_	_
 17	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	20	nsubj	_	_
 18	nom	nom	ADV	adv	_	20	advmod	_	_
 19	ekwit	ekwit	NOUN	n	_	20	nmod	_	_
 20	pe	pe	NOUN	posp	_	13	parataxis	_	_
 21	.	.	PUNCT	punct	_	20	punct	_	_
+
+# sent_id = 0011.33
+# text = Ato kobore pe mã , ãka jõma ape akaratʃe , ãka eot pɨta pen , teten .
+# text_eng = Canudo bee (sp.), hunting’s path, that way, a thick bark, Tucumã tree (sp.), that way, punctured its belly, openning. It was hard. Txiramanty pushed, it broke.
+1	Ato	Ato	NOUN	n	_	4	nsubj	_	_
+2	kobore	kobore	NOUN	n	_	4	obl	_	_
+3	pe	pe	ADP	posp	_	4	case	_	_
+4	mã	mã	VERB	vi	_	0	parataxis	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	ãka	ãka	PART	pcl	_	7	advmod	_	_
+7	jõma	jõma	NOUN	dem	_	4	parataxis	_	_
+8	ape	ape	NOUN	n	_	7	nsubj	_	_
+9	akaratʃe	akaratʃe	NOUN	n	_	8	nmod	_	_
+10	,	,	PUNCT	punct	_	7	punct	_	_
+11	ãka	ãka	PART	pcl	_	13	advmod	_	_
+12	eot	eo	NOUN	n	Determ=Yes	13	nsubj	_	_
+13	pɨta	pɨta	VERB	vt	_	7	parataxis	_	_
+14	pen	pen	VERB	vi	_	13	dep	_	_
+15	,	,	PUNCT	punct	_	13	punct	_	_
+16	teten	ten	NOUN	n	Person[psor]=3|Reflex=Yes	13	parataxis	_	_
+17	.	.	PUNCT	punct	_	16	punct	_	_
 
