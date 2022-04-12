@@ -1266,7 +1266,7 @@
 62	.	.	PUNCT	punct	_	60	punct	_	_
 
 # sent_id = 0011.11
-# text = Kwai put ahh mãpara , kwai te epi õpa .  
+# text = Kwai put ahh mãpara , kwai te epi õpa .
 # text_eng = The stone hit it, it is over, the stone hit your foot. 
 1	Kwai	Kwai	NOUN	n	_	2	nsubj	_	_
 2	put	put	VERB	ideo	_	0	root	_	_
@@ -1280,7 +1280,7 @@
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0011.12
-# text = en kwai ʧe put mãpara , ahaha , iwej , iwej mãpa , epi piro pi õba , put mãpara . 
+# text = en kwai ʧe put mãpara , ahaha , iwej , iwej mãpa , epi piro pi õba , put mãpara .
 # text_eng = The stone hit your foot. You went to the stone and hit it.
 1	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 2	kwai	kwai	NOUN	n	_	3	obl	_	_
