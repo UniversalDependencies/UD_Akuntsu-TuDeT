@@ -994,7 +994,7 @@
 6	kwajta	kwajta	NOUN	n	_	1	parataxis	_	_
 7	kite	kite	NUM	num	_	6	nummod	_	_
 8	,	,	PUNCT	punct	_	6	punct	_	_
-9	kebõ	ke	PRON	pron	Case=Dat|Deixis=Prox	10	obl	_	_
+9	kebõ	ke	DET	dem	Case=Dat|Deixis=Prox	10	obl	_	_
 10	tɨrɨ	tɨrɨ	NUM	num	NumType=Card	1	parataxis	_	_
 11	.	.	PUNCT	punct	_	10	punct	_	_
 
