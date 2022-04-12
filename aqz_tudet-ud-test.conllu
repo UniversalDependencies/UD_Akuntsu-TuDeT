@@ -1216,7 +1216,7 @@
 12	kojõpi	kojõpi	ADV	adv	_	13	advmod	_	_
 13	ipa	ip	VERB	vi	Tv=Yes	10	parataxis	_	_
 14	.	.	PUNCT	punct	_	13	punct	_	_
-15	nom	nom	ADV	adv	Polarity=Yes	20	discourse	_	_
+15	nom	nom	ADV	adv	_	20	discourse	_	_
 16	,	,	PUNCT	punct	_	20	punct	_	_
 17	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	20	nsubj	_	_
 18	nom	nom	ADV	adv	_	20	advmod	_	_
