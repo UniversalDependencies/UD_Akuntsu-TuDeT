@@ -1718,7 +1718,7 @@
 1	Ato	Ato	NOUN	n	_	4	nsubj	_	_
 2	kobore	kobore	NOUN	n	_	4	obl	_	_
 3	pe	pe	ADP	posp	_	4	case	_	_
-4	mã	mã	VERB	vi	_	0	parataxis	_	_
+4	mã	mã	VERB	vi	_	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	ãka	ãka	PART	pcl	_	7	advmod	_	_
 7	jõma	jõma	NOUN	dem	_	4	parataxis	_	_
