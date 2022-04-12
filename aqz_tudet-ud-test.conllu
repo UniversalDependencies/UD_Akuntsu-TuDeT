@@ -1801,7 +1801,7 @@
 # text = apara koara Ana .
 # text_eng = Ana is eating banana (8.38)
 1	apara	apara	NOUN	n	_	2	obj	_	_
-2	koara	ko	VERB	vt	Person=2|Tv=Yes|Aspect=Hab	0	root	_	_
+2	koara	ko	VERB	vt	Aspect=Hab|Person=2|Tv=Yes	0	root	_	_
 3	Ana	ana	PROPN	propn	_	2	nsubj	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
