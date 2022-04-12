@@ -1732,6 +1732,9 @@
 16	teten	ten	NOUN	n	Person[psor]=3|Reflex=Yes	13	parataxis	_	_
 17	.	.	PUNCT	punct	_	16	punct	_	_
 
+# sent_id = 0011.43
+# text = Txiramanty ibãn , ibarã , teten Txiramanty ibarãka . Toto ikiramkwatekwa , weren ato . awawaʧo awawaʧo pen baj , awawaʧo pen baj .
+# text_eng = Txiramanty broke it. Grandmother poured out it, (it) ended up. There were many baby bees, opened it, cleaned it. 
 1	Txiramanty	Txiramanty	PROPN	n	_	2	nsubj	_	_
 2	ibãn	ban	VERB	vt	_	0	root	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
