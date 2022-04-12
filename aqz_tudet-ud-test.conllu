@@ -1371,23 +1371,27 @@
 # sent_id = 0010.522
 # text = iapna .
 # text_eng = It is its fat (8.4b)
-1	iapna	ap	NOUN	n	Case=Tras|Person=3	0	root	_	_
+1	iapna	ap	NOUN	n	Case=Tra|Person=3	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0010.532
 # text = apaw iteterom .
 # text_eng = It is not called grub (8.5a)
 1	apaw	apaw	NOUN	n	_	2	nsubj	_	_
-2	iteterom	et	VERB	vt	Person=3|Polarity=Yes|Rel=Cont	0	root	_	_
-3	.	.	PUNCT	punct	_	2	punct	_	_
+2-3	iteterom	_	_	_	_	_	_	_	_
+2	 itet	et	VERB	vt	Person=3|Rel=Cont	0	root	_	_
+3	 erom	rom	ADV	adv	_	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.542
 # text = jẽ Aramĩra mepiterom .
 # text_eng = This is not Aramira's son (8.5b)
 1	jẽ	jẽ	DET	dem	Deixis=Prox	3	nsubj	_	_
 2	Aramĩra	Aramĩra	PROPN	pn	_	3	nmod	_	_
-3	mepiterom	mepit	NOUN	n	Polarity=Neg	0	root	_	_
-4	.	.	PUNCT	punct	_	3	punct	_	_
+3-4	mepiterom	_	_	_	_	_	_	_	_
+3	 mepit	mepit	NOUN	n	_	0	root	_	_
+4	 erom	erom	ADV	adv	_	3	advmod	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0010.552
 # text = apaw itet nom .
@@ -1402,8 +1406,10 @@
 # text_eng = You don't leave (8.7)
 1	erẽbõ	erẽ	PRON	pron	Case=All|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 2	nom	nom	ADV	avd	Polarity=Neg	3	advmod	_	_
-3	tʃetom	tʃet	VERB	v	Polarity=Neg	0	root	_	_
-4	.	.	PUNCT	punct	_	3	punct	_	_
+3-4	tʃetom	_	_	_	_	_	_	_	_
+3	tʃet	tʃet	VERB	v	_	0	root	_	_
+4	rom	rom	ADV	adv	_	3	advmod	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0010.572
 # text = jẽ nom pi kapakapa .
@@ -1443,7 +1449,7 @@
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0010.622
-# text = kwe ni a .
+# text = kweni a .
 # text_eng = There is mat (8.9b)
 1	kweni	ni	NOUN	n	_	0	root	_	_
 2	a	a	VERB	vt	_	1	discourse	_	_
@@ -1459,14 +1465,18 @@
 # sent_id = 0010.642
 # text = ekerom .
 # text_eng = There is no house (8.10a)
-1	ekerom	ek	NOUN	n	Polarity=Neg	0	root	_	_
-2	.	.	PUNCT	punct	_	1	punct	_	_
+1-2	ekerom	_	_	_	_	_	_	_	_
+1	ek	ek	NOUN	n	_	0	root	_	_
+2	erom	rom	ADV	adv	_	1	advmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0010.652
 # text = taɨperom .
 # text_eng = There is no son (8.10b)
-1	taɨperom	taɨp	NOUN	n	Polarity=Yes	0	root	_	_
-2	.	.	PUNCT	punct	_	1	punct	_	_
+1-2	taɨperom	_	_	_	_	_	_	_	_
+1	taɨp	taɨp	NOUN	n	_	0	root	_	_
+2	erom	rom	ADV	adv	_	1	advmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0010.662
 # text = epi atʃi nom a .
