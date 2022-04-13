@@ -1822,3 +1822,19 @@
 3	wɨbɨ	wɨbɨ	VERB	vi	_	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
+# sent_id = 0010.1172
+# text = nako wɨbɨ te .
+# text_eng = The man slided. (8.40b)
+1	nako	nako	NOUN	n	_	2	nmod	_	_
+2	wɨbɨ	wɨbɨ	VERB	vi	_	0	root	_	_
+3	te	te	PART	pclfoc	_	2	discourse	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1182
+# text = nom jẽ aramĩra .
+# text_eng = No, this one is woman (8.42b)
+1	nom	nom	ADV	adv	Polarity=Neg	3	advmod	_	_
+2	jẽ	jẽ	DET	dem	Deixis=Prox	3	nmod	_	_
+3	aramĩra	aramĩra	NOUN	n	_	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
