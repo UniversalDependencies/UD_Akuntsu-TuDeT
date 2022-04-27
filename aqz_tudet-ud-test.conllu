@@ -1900,3 +1900,50 @@
 9	kom	kom	PART	pcl	Tense=Fut	7	discourse	_	_
 10	.	.	PUNCT	punct	_	3	punct	_	_
 
+# sent_id = 0010.1262
+# text = tara itʃe eerekkwa ?
+# text_eng = What is it that you speak? (8.49a)
+1	tara	tara	PRON	pron	_	2	nsubj	_	_
+2	itʃe	tʃe	VERB	vi	Person=3	0	root	_	_
+3	eerekkwa	erekkwa	VERB	vt	Person=2|Trans=Yes	2	xcomp	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1272
+# text = tara ijã ?
+# text_eng = What is it? (8.49b)
+1	tara	tara	PRON	pron	_	2	nsubj	_	_
+2	ijã	jã	VERB	vi	Person=3	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1282
+# text = tara emenna ?
+# text_eng = Who is your husband? (8.50a)
+1	tara	tara	PRON	pron	_	2	nsubj	_	_
+2	emenna	men	NOUN	n	Case=Tra|Person=2	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1292
+# text = eme tara iõ ?
+# text_eng = This, who gave it? (8.50b)
+1	eme	eme	DET	dem	Deixis=Prox	2	dislocated	_	_
+2	tara	tara	PRON	pron	_	3	nsubj	_	_
+3	iõ	õ	VERB	vt	Person=3	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.1302
+# text = tara te ita mã ?
+# text_eng = Who arrived for sure? (8.50c)
+1	tara	tara	PRON	pron	_	3	nsubj	_	_
+2	te	te	PART	pclfoc	_	3	discourse	_	_
+3	ita	ita	VERB	vi	_	0	root	_	_
+4	mã	mã	PART	pclcert	_	3	discourse	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.1312
+# text = tara ip te ?
+# text_eng = Who comes back? (8.50d)
+1	tara	tara	PRON	n	_	2	nsubj	_	_
+2	ip	ip	VERB	vi	_	0	root	_	_
+3	te	te	PART	pclfoc	_	2	discourse	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
