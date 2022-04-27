@@ -1838,3 +1838,43 @@
 3	aramĩra	aramĩra	NOUN	n	_	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
+# sent_id = 0010.1192
+# text = arop teimi ?
+# text_eng = What may he hunt? (8.43a)
+1	arop	arop	PRON	pn	_	2	obj	_	_
+2	teimi	mi	NOUN	n	Nomlzr=Obj|Reflex=Yes	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1202
+# text = arop te teimaj tʃopa kom ?
+# text_eng = What did he say he would see? (8.43b)
+1	arop	arop	PRON	n	_	4	obj	_	_
+2	te	te	PART	pclfoc	_	1	discourse	_	_
+3	teimaj	maj	NOUN	n	Nomzr=Obj|Reflex=Yes	4	obl	_	_
+4	tʃopa	tʃop	VERB	vt	Tv=Yes	0	root	_	_
+5	kom	kom	PART	pcl	Tense=Fut	4	discourse	_	_
+6	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 0010.1212
+# text = arop te ikoa ?
+# text_eng = Who ate it? (8.44)
+1	arop	arop	PRON	n	_	3	nsubj	_	_
+2	te	te	PART	pclfoc	_	1	discourse	_	_
+3	ikoa	ko	VERB	vt	Person=3|Tv=Yes	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.1222
+# text = arop itʃopna ?
+# text_eng = For whom (whose) is the seen (thing)? (8.45)
+1	arop	arop	PRON	n	_	2	nsubj	_	_
+2	itʃopna	tʃop	NOUN	n	Case=Tra|Person=3	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1232
+# text = aroperi eipa ete ?
+# text_eng = Why did you come back? (8.46)
+1	aroperi	arop	PRON	n	Case=Abl	2	obl	_	_
+2	eipa	ip	VERB	vt	Person=2|Tv=Yes	0	root	_	_
+3	ete	ete	ADP	posp	_	2	obl	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
