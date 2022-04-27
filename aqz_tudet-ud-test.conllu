@@ -1950,7 +1950,7 @@
 # sent_id = 0010.1322
 # text = ãka teita ete ?
 # text_eng = How does he come back? (8.51a)
-1	ãka	ãka	PRON	pron	_	2	nsubj	_	_
+1	ãka	ãka	ADV	adv	_	2	advmod	_	_
 2	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	_	_
 3	ete	ete	ADP	posp	_	2	case	_	_
 4	?	?	PUNCT	punct	_	2	punct	_	_
@@ -1958,7 +1958,147 @@
 # sent_id = 0010.1332
 # text = ãka tetʃeta ?
 # text_eng = How will he leave? (8.51b)
-1	ãka	ãka	PRON	pron	_	2	nsubj	_	_
+1	ãka	ãka	ADV	adv	_	2	advmod	_	_
 2	tetʃeta	tʃet	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	0	root	_	_
 3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1342
+# text = ãka kiakop teita ete ?
+# text_eng = When does he arrive? (8.52a)
+1	ãka	ãka	ADV	adv	_	2	advmod	_	_
+2	kiakop	kiakop	NOUN	n	_	0	root	_	_
+3	teita	ita	VERB	vi	Person=3|Reflex=Yes	2	advcl	_	_
+4	ete	ete	ADP	posp	_	3	case	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1352
+# text = ãka ebapa teipa ?
+# text_eng = When will he come back? (8.52b)
+1	ãka	ãka	ADV	adv	_	2	advmod	_	_
+2	ebapa	ebapa	NOUN	n	_	0	root	_	_
+3	teipa	ip	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	2	advcl	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1362
+# text = ẽromri kwatin ikoa te ?
+# text_eng = From where did the snake start eating it? (8.53a)
+1	ẽromri	ẽrom	PRON	pron	Case=Abl	3	obl	_	_
+2	kwatin	kwatin	NOUN	n	_	3	nsubj	_	_
+3	ikoa	ko	VERB	vt	Person=3|Tv=Yes	0	root	_	_
+4	te	te	PART	pclfoc	_	3	discourse	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.1372
+# text = ẽrom itʃoka ne ?
+# text_eng = Where may he build it? (8.53b)
+1	ẽrom	ẽrom	PRON	pron	Deixis=Dist	2	obl	_	_
+2	itʃoka	tʃok	VERB	vt	Person=3|Tv=Yes	0	root	_	_
+3	ne	ne	PART	pcl	Foc=Yes	2	discourse	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1382
+# text = jãjerom .
+# text_eng = It isn't sharpened (8.54a)
+1-2	jãjerom	_	_	_	_	_	_	_	_
+1	jãj	jãj	NOUN	n	_	2	advmod	_	_
+2	erom	erom	ADV	adv	Polarity=Neg	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1392
+# text = jẽ menerom .
+# text_eng = This one doesn't have a husband (8.54b)
+1	jẽ	jẽ	DET	dem	Deixis=Prox	2	nsubj	_	_
+2-3	menerom	_	_	_	_	_	_	_	_
+2	men	men	NOUN	n	_	0	root	_	_
+3	erom	erom	ADV	adv	Polarity=Neg	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1402
+# text = abatʃo apiteperom .
+# text_eng = Grandfather doesn't hear (8.54c)
+1	abatʃo	abatʃo	NOUN	n	_	2	nsubj	_	_
+2-3	apiteperom	_	_	_	_	_	_	_	_
+2	apitep	apitep	NOUN	n	_	0	root	_	_
+3	erom	erom	ADV	adv	Polarity=Neg	2	advmod	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.1412
+# text = jẽrom oiko nom .
+# text_eng = I have no food (8.54d)
+1	jẽrom	jẽrom	DET	dem	Deixis=Dist	2	nsubj	_	_
+2	oiko	ko	VERB	vt	Nomzr=Obj|Person=1	0	root	_	_
+3	nom	nom	ADV	adv	Polarity=Neg	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1422
+# text = nõm etom .
+# text_eng = She doesn't sleep (8.55a)
+1	nõm	nõm	ADV	adv	Polarity=Neg	2	advmod	_	_
+2-3	etom	_	_	_	_	_	_	_	_
+2	et	et	VERB	vi	_	0	root	_	_
+3	erom	erom	ADV	adv	Polarity=Neg	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1432
+# text = akataba nom at .
+# text_eng = Don't get tucum (palm fiber (sp.)) (8.55b)
+1	akataba	akataba	NOUN	n	_	3	nsubj	_	_
+2	nom	nom	ADV	adv	Polarity=Neg	3	advmod	_	_
+3	at	at	VERB	vt	_	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.1442
+# text =  nõm korom .
+# text_eng = He doesn't eat (8.55c)
+1	nõm	nõm	ADV	adv	Polarity=Neg	2	advmod	_	_
+2-3	korom	_	_	_	_	_	_	_	_
+2	ko	ko 	VERB	vt	_	0	root	_	_
+3	rom	rom 	ADV	adv	Polarity=Neg	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1452
+# text = omepit erekkwa  nom kwak tʃop on .
+# text_eng = I don't hear (what) my daughter speaks (8.55d)
+1	omepit	mepit	NOUN	n	Person=1	2	nsubj	_	_
+2	erekkwa	erek	VERB	vt	Trans=Yes	0	root	_	_
+3	nom	nom	ADV	adv	Polarity=Neg	2	advmod	_	_
+4	kwak	kwak	NOUN	n	_	3	obj	_	_
+5	tʃop	tʃop	VERB	vi	_	2	xcomp	_	_
+6	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1462
+# text = orẽbõ nom ek etʃe .
+# text_eng = I am not home (8.55e)
+1	orẽbõ	bõ	PRON	pron	Case=Dat|Person=1|PronType=Prs	0	root	_	_
+2	nom	nom	ADV	adv	Polarity=Neg	1	advmod	_	_
+3	ek	ek	NOUN	n	_	1	obl	_	_
+4	etʃe	etʃe	ADP	posp	_	3	case	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.1472
+# text = kitʃetom .
+# text_eng = We don't leave (8.55f)
+1-2	kitʃetom	_	_	_	_	_	_	_	_
+1	kitʃet	tʃet	VERB	vi	Clusivity=In|Number=Plur|Person=1	0	root	_	_
+2	om	om	ADV	advmod	Polarity=Yes	1	advmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.1482
+# text = taot nom taot nom . (8.55g)
+# text_eng = It doesn't go out, it doesn't go out
+1	taot	aot	VERB	vt	Person=3	0	root	_	_
+2	nom	nom	ADV	adv	Polarity=Neg	1	advmod	_	_
+3	taot	taot	VERB	vt	Person=3	1	discourse	_	_
+4	nom	nom	ADV	adv	Polarity=Neg	3	advmod	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.1492
+# text = kojõpi ebapa om tʃeta . (8.56)
+# text_eng = At night there isn't moon, it leaves [...]
+1	kojõpi	kojõ	ADV	adv	Case=Loc	4	advmod	_	_
+2	ebapa	ebapa	NOUN	n	_	4	discourse	_	_
+3	om	om	ADV	adv	Polarity=Neg	2	advmod	_	_
+4	tʃeta	tʃet	VERB	vt	Tv=Yes	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
 
