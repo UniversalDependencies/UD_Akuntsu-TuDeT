@@ -2048,13 +2048,13 @@
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0010.1442
-# text =  nõm korom .
+# text = nõm korom .
 # text_eng = He doesn't eat (8.55c)
 1	nõm	nõm	ADV	adv	Polarity=Neg 2 advmod _	_
 2-3	korom _ _ _	_ _	_ _	_
 2	ko ko VERB vt _ 0 root _	_
-3	rom	rom ADV	adv	Polarity=Neg 2 advmod _	_
-4	.	. PUNCT	punct _ 2 punct _ _
+3	rom rom ADV adv Polarity=Neg 2 advmod _	_
+4	. . PUNCT punct _ 2 punct _ _
 
 # sent_id = 0010.1452
 # text = omepit erekkwa  nom kwak tʃop on .
