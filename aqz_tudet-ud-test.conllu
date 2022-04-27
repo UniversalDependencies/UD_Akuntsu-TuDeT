@@ -1947,3 +1947,18 @@
 3	te	te	PART	pclfoc	_	2	discourse	_	_
 4	?	?	PUNCT	punct	_	2	punct	_	_
 
+# sent_id = 0010.1322
+# text = ãka teita ete ?
+# text_eng = How does he come back? (8.51a)
+1	ãka	ãka	PRON	pron	_	2	nsubj	_	_
+2	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	_	_
+3	ete	ete	ADP	posp	_	2	case	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1332
+# text = ãka tetʃeta ?
+# text_eng = How will he leave? (8.51b)
+1	ãka	ãka	PRON	pron	_	2	nsubj	_	_
+2	tetʃeta	tʃet	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
