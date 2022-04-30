@@ -1,8 +1,6 @@
-![TuLeD](not-to-release/mapNimu2.png)
-
 # Summary
 
-UD_Akunstu-TuDeT is a collection of annotated sentences in <a href="http://endangeredlanguages.com/lang/1567"> Akuntsú</a>. The project is work in progress and the treebank is being updated on a regular basis.
+UD_Akunstu-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/akun1241"> Akuntsú</a>. The project is work in progress and the treebank is being updated on a regular basis.
 
 
 </br>
