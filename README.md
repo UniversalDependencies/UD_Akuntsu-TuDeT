@@ -1,6 +1,6 @@
 # Summary
 
-UD_Akuntsu-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/akun1241"> Akuntsú</a>. The sentences stem from the grammatical description by Aragon (2014) and Aragon's field work. Sentence annotation and documentation by Carolina Aragon and Fabrício Ferraz Gerardi.
+UD_Akuntsu-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/akun1241"> Akuntsú</a>. The sentences stem from the grammatical description by Aragon (2014) and Aragon's field work. Sentence annotation and documentation by Carolina Aragon, Fabrício Ferraz Gerardi, Luana dos Santos.
 
 # Introduction
 
