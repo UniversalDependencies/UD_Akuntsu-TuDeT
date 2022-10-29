@@ -228,7 +228,7 @@
 # text = oatap ãka ẽ ẽ , oatap õkwa on
 # text_eng = My hair, that way, I wash my hair (3.35)
 # text_port =
-1	oatap	atap	NOUN	n	Person=1	7	nsubj	_	_
+1	oatap	atap	NOUN	n	Person=1	7	obj	_	_
 2	ãka	ãka	PART	pcl	_	1	discourse	_	_
 3	ẽ	ẽ	INTJ	intj	_	1	discourse	_	_
 4	ẽ	ẽ	INTJ	intj	_	1	discourse	_	_
@@ -438,10 +438,10 @@
 # text_port =
 1	poga	poga	NOUN	n	_	2	nmod	_	_
 2	pe	pe	NOUN	n	_	3	nmod	_	_
-3	pi	pi	NOUN	n	_	7	nsubj	_	_
+3	pi	pi	NOUN	n	_	7	discourse	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	ameko	ameko	NOUN	n	_	7	nsubj	_	_
-6	ikora	kora	VERB	vt	Person=3	7	dep	_	_
+6	ikora	kora	VERB	vt	Person=3	7	aux	_	_
 7	tʃe	tʃe	AUX	aux	_	0	root	_	_
 
 # sent_id = 52
@@ -714,7 +714,7 @@
 2	ẽ	ẽ	DET	dem	Deixis=Prox	3	nmod	_	_
 3	tow	tow	NOUN	ideo	_	1	appos	_	_
 4	ẽ	ẽ	DET	dem	Deixis=Prox	5	nmod	_	_
-5	tow	tow	NOUN	ideo	_	7	nsubj	_	_
+5	tow	tow	NOUN	ideo	_	7	discourse	_	_
 6	ebapap	ebapap	NOUN	n	_	7	nmod	_	_
 7	ɨro	ɨro	NOUN	n	_	0	root	_	_
 8	tojẽpitin	tojẽpit	NOUN	n	_	7	appos	_	_
@@ -770,7 +770,7 @@
 # text_eng = Patʃo and Patʃe were his two wives (4.52)
 # text_port =
 1	Patʃo	Patʃo	PROPN	pn	_	4	nsubj	_	_
-2	Patʃe	Patʃe	PROPN	pn	_	4	nsubj	_	_
+2	Patʃe	Patʃe	PROPN	pn	_	1	cc	_	_
 3	tɨɾɨ	tɨɾɨ	NUM	num	NumType=Card	4	nummod	_	_
 4	tajtʃi	ajtʃi	NOUN	n	Person=3	0	root	_	_
 
@@ -2307,7 +2307,6 @@
 3	om	om	ADV	adv	Polarity=Neg	2	advmod	_	_
 4	tʃeta	tʃet	VERB	vt	Tv=Yes	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
-
 
 # sent_id = 0010.1572
 # text = oetara otoa .
