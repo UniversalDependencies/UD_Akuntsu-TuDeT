@@ -2701,8 +2701,8 @@
 # text_eng = Give this (that) I myself climb (5.39)
 1	ke	ke	DET	dem	Deixis=Dist	2	obj	_	_
 2	õa	õ	VERB	vt	Tv=Yes	0	root	_	_
-3	oekota	kota	VERB	vi	Number=sing|Person=1	2	parataxis	_	_
-4	on	on	PRON	pron	Number=sing|Person=1	3	nsubj	_	_
+3	oekota	kota	VERB	vi	Number=Sing|Person=1	2	parataxis	_	_
+4	on	on	PRON	pron	Number=Sing|Person=1	3	nsubj	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.2082
@@ -2757,7 +2757,7 @@
 2	teip	ip	VERB	n	Person=3|Reflex=Yes	0	root	_	_
 3	otʃeti	ti	NOUN	n	_ 	4	nsubj	_	_
 4	ip	ip	VERB	vi	_	2	parataxis	_	_
-5	.	.	PUNCT	punct	_	_	_	_	_
+5	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.3052
 # text = pero teõpa .
