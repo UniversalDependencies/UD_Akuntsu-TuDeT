@@ -2750,15 +2750,6 @@
 4	kwat	kwat	VERB	vt	_	2	parataxis	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 0010.3042
-# text = oti teip otʃeti ip .
-# text_eng = My mother is coming back, our mother is coming back (5.42b)
-1	oti	ti	NOUN	n	Person=1	2	nsubj	_	_
-2	teip	ip	VERB	n	Person=3|Reflex=Yes	0	root	_	_
-3	otʃeti	ti	NOUN	n	_ 	4	nsubj	_	_
-4	ip	ip	VERB	vi	_	2	parataxis	_	_
-5	.	.	PUNCT	punct	_	2	punct	_	_
-
 # sent_id = 0010.3052
 # text = pero teõpa .
 # text_eng = The macaws are fihgting (5.43a)
@@ -2823,7 +2814,7 @@
 # text = ke nom mira .
 # text_eng = That one is not used to hunting (5.47)
 1	ke	ke	DET	dem	Deixis=Dist	3	nsubj	_	_
-2	nom	nom	ADV	dem	Deixis=Dist	3	advmod	_	_
+2	nom	nom	ADV	adv	_	3	advmod	_	_
 3	mira	mi	VERB	vt	Aspect=Hab	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
@@ -2831,7 +2822,7 @@
 # text = tetʃet ekwa .
 # text_eng = He lives repeatedly (5.48a)
 1	tetʃet	tʃet	VERB	vt	Person=3|Reflex=Yes	0	root	_	_
-2	ekwa	ekwa	PART	pcl	_	1	case	_	_
+2	ekwa	ekwa	PART	pcl	_	1	discourse	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0010.4052
