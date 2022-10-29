@@ -2369,7 +2369,7 @@
 3	ka	ka	AUX	aux	_	2	aux	_	_
 4	orẽbõ	orẽ	PRON	pron	Case=Dat|Person=1|PronType=Prs	6	nsubj	_	_
 5	nom	nom	ADV	adv	_	6	advmod	_	_
-6	atʃorom	atʃo	VERB	dem	Polarity=Neg	2	parataxis	_	_
+6	atʃorom	atʃo	VERB	vi	_	2	parataxis	_	_
 7	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.1642
@@ -2382,7 +2382,7 @@
 
 # sent_id = 0010.1652
 # text = ebapa ẽ tʃe .
-# text_eng = The moon, that moves (5.28b)
+# text_eng = The moon that moves (5.28b)
 1	ebapa	ebapa	NOUN	n	_	3	discourse	_	_
 2	ẽ	ẽ	DET	dem	Deixis=Prox	3	nsubj	_	_
 3	tʃe	tʃe	VERB	vi	_	0	root	_	_
@@ -2401,7 +2401,7 @@
 # text_eng = I am coming to smoke (5.29b)
 1	pitoa	pitoa	NOUN	n	_	2	obj	_	_
 2	tʃe	tʃe	VERB	aux	_	0	root	_	_
-3	koa	ko	AUX	vt	Tv=Yes	2	aux	_	_
+3	koa	ko	AUX	vt	_	2	aux	_	_
 4	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
@@ -2428,7 +2428,7 @@
 1	ameko	ameko	NOUN	n	_	3	nsubj	_	_
 2	tʃaro	tʃaro	NOUN	n	_	1	nmod	_	_
 3	erekka	erek	VERB	vt	Trans=Yes	0	root	_	_
-4	kete	kete	ADV	adv	subj	3	advmod	_	_
+4	kete	kete	ADV	adv	_	3	advmod	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0010.1712
@@ -2441,7 +2441,7 @@
 # sent_id = 0010.1722
 # text = iɨka .
 # text_eng = It boils (5.31c)
-1	iɨka	ɨ	NOUN	n	person=3|Trans=Yes	0	root	_	_
+1	iɨka	ɨ	NOUN	n	Person=3|Trans=Yes	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0010.1732
@@ -2474,8 +2474,8 @@
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.1772
-# text = epo ɨka kwiri ɨ
-# text_eng = your hand is painted, (it's) açaí's liquid (5.31h)
+# text = epo ɨka kwiri ɨ .
+# text_eng = your hand is painted, (it's) açaí's liquid. (5.31h)
 1	epo	po	NOUN	n	Person=2|Reflex=Yes	2	obj	_	_
 2	ɨka	ka	VERB	vt	Trans=Yes	0	root	_	_
 3	kwiri	kwiri	NOUN	n	_	4	amod	_	_
@@ -2636,8 +2636,8 @@
 # sent_id = 0010.1992
 # text = tepoatʃikwa tejãkwa .
 # text_eng = He is doing shamanistic activity (repeatedly) (5.36d)
-1	tepoatʃikwa	poatʃi	VERB	aux	Person=3|Trans=Yes	0	root	_	_
-2	tejãkwa	jã	AUX	vt	Person=3|Trans=Yes	1	_	_	_
+1	tepoatʃikwa	poatʃi	VERB	vi	Person=3|Trans=Yes	0	root	_	_
+2	tejãkwa	jã	AUX	aux	Person=3	1	aux	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0010.2002
