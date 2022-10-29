@@ -2674,7 +2674,7 @@
 
 # sent_id = 0010.2062
 # text = on oewɨbɨka , purururu , βuh .
-# text = I slide, (I) go and fall (5.38b)
+# text_eng = I slide, I go and fall. (5.38b)
 1	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	oewɨbɨka	wɨbɨ	VERB	vt	Number=Sing|Person=1|Trans=Yes	0	root	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
@@ -2696,13 +2696,6 @@
 # text = Konibu is sleeping (5.41a)
 1	Konibu	Konibu	PROPN	pn	_	2	nsubj	_	_
 2	teeta	et	VERB	vi	Person=3|Reflex=Yes|Trans=Yes	0	root	_	_
-3	.	.	PUNCT	punct	_	2	punct	_	_
-
-# sent_id = 0010.3012
-# text = Aiga tetʃeta .
-# text_eng = Aiga leaves (5.41c)
-1	Aiga	Aiga	PROPN	pn	_	2	nsubj	_	_
-2	tetʃeta	tʃet	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.3022
