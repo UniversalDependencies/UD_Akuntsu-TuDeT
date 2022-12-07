@@ -2823,3 +2823,19 @@
 3	ekwa	ekwa	PART	pcl	_	2	case	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
+# sent_id = 0010.4102
+# text = iatap tʃe te .
+# text = she is pulling her hair (5.28a)
+1	erẽbõ	erẽ	PRON	pron	Case=All|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	atʃoa	atʃop	VERB	vi	Tv=Yes	0	root	_	_
+3	ka	ka	AUX	aux	_	2	aux	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.112
+# text = ebapa ẽ tʃe .
+# text_eng = The moon, that moves (5.28b)
+1	ebapa	ebapa	NOUN	n	_	3	discourse	_	_
+2	ẽ	ẽ	DET	dem	Deixis=Prox	3	nsubj	_	_
+3	tʃe	tʃe	VERB	vi	_	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
