@@ -1880,7 +1880,7 @@
 # text_eng = Canudo bee (sp.), hunting’s path, that way, a thick bark, Tucumã tree (sp.), that way, punctured its belly, openning. It was hard. Txiramanty pushed, it broke.
 # text_port =
 1	Ato	Ato	NOUN	n	_	4	nsubj	_	[aˈto];abelha;bee
-2	kobore	kobore	NOUN	n	_	4	obl	_	[koboˈrɛ];arrow;flecha
+2	kobore	kobore	NOUN	n	_	4	obl	_	[koboˈrɛ];flecha;arrow
 3	pe	pe	ADP	posp	_	4	case	_	[pɛ];posp;posp
 4	mã	mã	VERB	vi	_	0	root	_	[mã];ficar;stay
 5	,	,	PUNCT	punct	_	4	punct	_	_
