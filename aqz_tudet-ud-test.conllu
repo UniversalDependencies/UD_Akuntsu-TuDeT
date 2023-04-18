@@ -1879,22 +1879,22 @@
 # text = Ato kobore pe mã , ãka jõma ape akaratʃe , ãka eot pɨta pen , teten .
 # text_eng = Canudo bee (sp.), hunting’s path, that way, a thick bark, Tucumã tree (sp.), that way, punctured its belly, openning. It was hard. Txiramanty pushed, it broke.
 # text_port =
-1	Ato	Ato	NOUN	n	_	4	nsubj	_	_
-2	kobore	kobore	NOUN	n	_	4	obl	_	_
-3	pe	pe	ADP	posp	_	4	case	_	_
-4	mã	mã	VERB	vi	_	0	root	_	_
+1	Ato	Ato	NOUN	n	_	4	nsubj	_	[aˈto];abelha;bee
+2	kobore	kobore	NOUN	n	_	4	obl	_	[koboˈrɛ];arrow;flecha
+3	pe	pe	ADP	posp	_	4	case	_	[pɛ];posp;posp
+4	mã	mã	VERB	vi	_	0	root	_	[mã];ficar;stay
 5	,	,	PUNCT	punct	_	4	punct	_	_
-6	ãka	ãka	PART	pcl	_	7	advmod	_	_
-7	jõma	jõma	NOUN	dem	_	4	parataxis	_	_
-8	ape	ape	NOUN	n	_	7	nsubj	_	_
-9	akaratʃe	akaratʃe	NOUN	n	_	8	nmod	_	_
+6	ãka	ãka	PART	pcl	_	7	advmod	_	[ãˈga];pcl;pcl
+7	jõma	jõma	NOUN	dem	_	4	parataxis	_	[ˈɲũma];aqui;here
+8	ape	ape	NOUN	n	_	7	nsubj	_	[aˈpɛ];caminho;path
+9	akaratʃe	akaratʃe	NOUN	n	_	8	nmod	_	[aˈkaraˌtʃɛ];tucumã;tucumã
 10	,	,	PUNCT	punct	_	7	punct	_	_
-11	ãka	ãka	PART	pcl	_	13	advmod	_	_
-12	eot	eo	NOUN	n	Determ=Yes	13	nsubj	_	_
-13	pɨta	pɨta	VERB	vt	_	7	parataxis	_	_
-14	pen	pen	VERB	vi	_	13	dep	_	_
+11	ãka	ãka	PART	pcl	_	13	advmod	_	[ãˈga];pcl;pcl
+12	eot	eo	NOUN	n	Determ=Yes	13	nsubj	_	[ɛʔut];barriga;belly
+13	pɨta	pɨta	VERB	vt	_	7	parataxis	_	[ˈpɨta];furar;punctur
+14	pen	pen	VERB	vi	_	13	dep	_	[ˈpɛn];abrir;open
 15	,	,	PUNCT	punct	_	13	punct	_	_
-16	teten	ten	NOUN	n	Person[psor]=3|Reflex=Yes	13	parataxis	_	_
+16	teten	ten	NOUN	n	Person[psor]=3|Reflex=Yes	13	parataxis	_	[teˈtɛ̃n];forte;strong
 17	.	.	PUNCT	punct	_	16	punct	_	_
 
 # sent_id = 0011.43
