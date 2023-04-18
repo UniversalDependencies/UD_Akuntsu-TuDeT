@@ -1857,7 +1857,7 @@
 2	ko	ko	VERB	vt	_	0	root	_	[ko];comer;eat
 3	eno	eno	ADV	adv	_	2	advmod	_	[ˈɛnu];lá;there
 4	,	,	PUNCT	punct	_	2	punct	_	_
-5	oiat	at	NOUN	vt	Nomzr=Obj|Person[psor]=1	2	appos	_	[ojˈat]minha.coisa.pega;my.caught.thing
+5	oiat	at	NOUN	vt	Nomzr=Obj|Person[psor]=1	2	appos	_	[ojˈat];minha.coisa.pega;my.caught.thing
 6	.	.	PUNCT	punct	_	5	punct	_	_
 7	Txiramanty	Txiramanty	PROPN	n	_	8	nmod	_	_
 8	po	po	NOUN	n	_	10	nsubj	_	[pu];mão;hand
