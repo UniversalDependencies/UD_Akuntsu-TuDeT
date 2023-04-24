@@ -2867,7 +2867,7 @@
 # sent_id = 0010.5052
 # text = iɨka .
 # text_eng = It boils (5.31c)
-1	iɨka	ɨ	VERB	vi	person=3|Trans=Yes	0	root	_	_
+1	iɨka	ɨ	VERB	vi	Person=3|Trans=Yes	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0010.5062
@@ -2899,4 +2899,3 @@
 1	apara	apara	NOUN	n	_	2	obj	_	_
 2	jõmajka	jõmaj	VERB	vt	Trans=Yes	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
-
