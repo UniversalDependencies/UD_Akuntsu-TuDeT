@@ -2894,9 +2894,9 @@
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0010.5092
-# text = apara jomajka .
-# text = I am kneading (with the hands) the banana (5.32b)
+# text = apara jõmajka .
+# text_eng = I am kneading (with the hands) the banana (5.32b)
 1	apara	apara	NOUN	n	_	2	obj	_	_
-2	jomajka	jomaj	VERB	vt	Trans=Yes	0	root	_	_
+2	jõmajka	jõmaj	VERB	vt	Trans=Yes	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
