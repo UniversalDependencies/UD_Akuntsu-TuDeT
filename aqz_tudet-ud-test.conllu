@@ -1921,7 +1921,7 @@
 18	pen	pen	VERB	v	_	13	parataxis	_	_
 19	baj	baj	VERB	v	_	18	parataxis	_	_
 20	,	,	PUNCT	punct	_	19	punct	_	_
-21	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	22	dep	_	_
+21	awawaʧo	awawaʧo	NOUN	n	Degree=Aug	22	dep	_	_
 22	pen	pen	VERB	v	_	19	parataxis	_	_
 23	baj	baj	VERB	v	_	22	parataxis	_	_
 24	.	.	PUNCT	punct	_	23	punct	_	_
@@ -2899,4 +2899,5 @@
 1	apara	apara	NOUN	n	_	2	obj	_	_
 2	jõmajka	jõmaj	VERB	vt	Trans=Yes	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
+
 
