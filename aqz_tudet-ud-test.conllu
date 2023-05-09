@@ -1850,51 +1850,51 @@
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0011.23
-# text = Ekwita ko eno , oiat . Txiramanty po ekwita topkora . kojõpi ipa . nom , en nom ekwit pe .
-# text_eng = I ate honey there, my caught (thing). Txiramanty’s hand looked for honey. At night, returned. You didn’t, you didn’t go to honey’s path.
+# text = Ekwitat ko eno , oiat . Txiramanty po ekwitat topkora . kojõpi ipa . nom , en nom ekwit pe .
+# text_eng = I ate the bee there, my caught (thing). Txiramanty’s hand looked for the bee. At night, returned. You didn’t, you didn’t go to honey’s path.
 # text_port =
-1	Ekwita	Ekwit	NOUN	n	_	2	obj	_	_
-2	ko	ko	VERB	vt	_	0	root	_	_
-3	eno	eno	ADV	adv	_	2	advmod	_	_
+1	Ekwitat	Ekwit	NOUN	n	_	2	obj	_	[ɛˈkʷit];mel;honey
+2	ko	ko	VERB	vt	_	0	root	_	[ko];comer;eat
+3	eno	eno	ADV	adv	_	2	advmod	_	[ˈɛnu];lá;there
 4	,	,	PUNCT	punct	_	2	punct	_	_
-5	oiat	at	NOUN	vt	Nomzr=Obj|Person[psor]=1	2	appos	_	_
+5	oiat	at	NOUN	vt	Nomzr=Obj|Person[psor]=1	2	appos	_	[at];pegar;to catch
 6	.	.	PUNCT	punct	_	5	punct	_	_
 7	Txiramanty	Txiramanty	PROPN	n	_	8	nmod	_	_
-8	po	po	NOUN	n	_	10	nsubj	_	_
-9	ekwita	ekwit	NOUN	n	_	10	obj	_	_
-10	topkora	topkora	VERB	vt	_	2	parataxis	_	_
+8	po	po	NOUN	n	_	10	nsubj	_	[pu];mão;hand
+9	ekwitat	ekwit	NOUN	n	_	10	obj	_	[ɛˈkʷit];mel;honey
+10	topkora	topkora	VERB	vt	_	2	parataxis	_	[topˈkura];procurar;search
 11	.	.	PUNCT	punct	_	10	punct	_	_
-12	kojõpi	kojõpi	ADV	adv	_	13	advmod	_	_
-13	ipa	ip	VERB	vi	Tv=Yes	10	parataxis	_	_
+12	kojõpi	kojõpi	ADV	adv	_	13	advmod	_	[koɲõˈbi];noite;night
+13	ipa	ip	VERB	vi	Tv=Yes	10	parataxis	_	[ip];voltar;come.back
 14	.	.	PUNCT	punct	_	13	punct	_	_
-15	nom	nom	ADV	adv	_	20	discourse	_	_
+15	nom	nom	ADV	adv	_	20	discourse	_	[nõm];não;no
 16	,	,	PUNCT	punct	_	20	punct	_	_
-17	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	20	nsubj	_	_
-18	nom	nom	ADV	adv	_	20	advmod	_	_
-19	ekwit	ekwit	NOUN	n	_	20	nmod	_	_
-20	pe	pe	NOUN	posp	_	13	parataxis	_	_
+17	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	20	nsubj	_	[ɛ̃n];você;you
+18	nom	nom	ADV	adv	_	20	advmod	_	[nõm];não;no
+19	ekwit	ekwit	NOUN	n	_	20	nmod	_	[ɛˈkʷit];mel;honey
+20	pe	pe	NOUN	posp	_	13	parataxis	_	[pɛ];para;to
 21	.	.	PUNCT	punct	_	20	punct	_	_
 
 # sent_id = 0011.33
 # text = Ato kobore pe mã , ãka jõma ape akaratʃe , ãka eot pɨta pen , teten .
 # text_eng = Canudo bee (sp.), hunting’s path, that way, a thick bark, Tucumã tree (sp.), that way, punctured its belly, openning. It was hard. Txiramanty pushed, it broke.
 # text_port =
-1	Ato	Ato	NOUN	n	_	4	nsubj	_	_
-2	kobore	kobore	NOUN	n	_	4	obl	_	_
-3	pe	pe	ADP	posp	_	4	case	_	_
-4	mã	mã	VERB	vi	_	0	root	_	_
+1	Ato	Ato	NOUN	n	_	4	nsubj	_	[aˈto];abelha;bee
+2	kobore	kobore	NOUN	n	_	4	obl	_	[koboˈrɛ];flecha;arrow
+3	pe	pe	ADP	posp	_	4	case	_	[pɛ];posp;posp
+4	mã	mã	VERB	vi	_	0	root	_	[mã];ficar;stay
 5	,	,	PUNCT	punct	_	4	punct	_	_
-6	ãka	ãka	PART	pcl	_	7	advmod	_	_
-7	jõma	jõma	NOUN	dem	_	4	parataxis	_	_
-8	ape	ape	NOUN	n	_	7	nsubj	_	_
-9	akaratʃe	akaratʃe	NOUN	n	_	8	nmod	_	_
+6	ãka	ãka	PART	pcl	_	7	advmod	_	[ãˈga];pcl;pcl
+7	jõma	jõma	NOUN	dem	_	4	parataxis	_	[ˈɲũma];aqui;here
+8	ape	ape	NOUN	n	_	7	nsubj	_	[aˈpɛ];caminho;path
+9	akaratʃe	akaratʃe	NOUN	n	_	8	nmod	_	[aˈkaraˌtʃɛ];tucumã;tucumã
 10	,	,	PUNCT	punct	_	7	punct	_	_
-11	ãka	ãka	PART	pcl	_	13	advmod	_	_
-12	eot	eo	NOUN	n	Determ=Yes	13	nsubj	_	_
-13	pɨta	pɨta	VERB	vt	_	7	parataxis	_	_
-14	pen	pen	VERB	vi	_	13	dep	_	_
+11	ãka	ãka	PART	pcl	_	13	advmod	_	[ãˈga];pcl;pcl
+12	eot	eo	NOUN	n	Determ=Yes	13	nsubj	_	[ɛˈʔu];barriga;belly
+13	pɨta	pɨta	VERB	vt	_	7	parataxis	_	[ˈpɨt];furar;punctur
+14	pen	pen	VERB	vi	_	13	dep	_	[ˈpɛn];abrir;open
 15	,	,	PUNCT	punct	_	13	punct	_	_
-16	teten	ten	NOUN	n	Person[psor]=3|Reflex=Yes	13	parataxis	_	_
+16	teten	ten	NOUN	n	Person[psor]=3|Reflex=Yes	13	parataxis	_	[ˈtɛ̃n];forte;strong
 17	.	.	PUNCT	punct	_	16	punct	_	_
 
 # sent_id = 0011.43
@@ -1916,12 +1916,12 @@
 13	weren	weren	VERB	n	_	11	parataxis	_	_
 14	ato	ato	NOUN	n	_	13	nsubj	_	_
 15	.	.	PUNCT	punct	_	13	punct	_	_
-16	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	18	parataxis	_	_
-17	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	18	dep	_	_
+16	awawaʧo	awawaʧo	NOUN	n	Degree=Aug	18	parataxis	_	_
+17	awawaʧo	awawaʧo	NOUN	n	Degree=Aug	18	dep	_	_
 18	pen	pen	VERB	v	_	13	parataxis	_	_
 19	baj	baj	VERB	v	_	18	parataxis	_	_
 20	,	,	PUNCT	punct	_	19	punct	_	_
-21	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	22	dep	_	_
+21	awawaʧo	awawaʧo	NOUN	n	Degree=Aug	22	dep	_	_
 22	pen	pen	VERB	v	_	19	parataxis	_	_
 23	baj	baj	VERB	v	_	22	parataxis	_	_
 24	.	.	PUNCT	punct	_	23	punct	_	_
@@ -2822,4 +2822,81 @@
 2	imi	mi	VERB	vt	Person=3	0	root	_	_
 3	ekwa	ekwa	PART	pcl	_	2	case	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.5002
+# text = ebapa ẽ tʃe .
+# text_eng = The moon that moves (5.28b)
+1	ebapa	ebapa	NOUN	n	_	3	discourse	_	_
+2	ẽ	ẽ	DET	dem	Deixis=Prox	3	nsubj	_	_
+3	tʃe	tʃe	VERB	vi	_	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id =	0010.5012
+# text = kɨjtpit ata tʃe .
+# text_eng = He came to catch fish (5.30a)
+1	kɨjtpit	kɨjtpit	NOUN	n	_	2	obj	_	_
+2	ata	at	VERB	vt	Tv=Yes	0	root	_	_
+3	tʃe	tʃe	AUX	aux	_	2	aux	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id =	0010.5022
+# text = Pupak imi tʃopa tʃe .
+# text_eng = (He) is coming to see Pupák's hunting (hunted thing) (5.30b)
+1	Pupak	Pupak	PROPN	pn	_	2	nmod	_	_
+2	imi	mi	NOUN	n	Nomzr=Obj	3	obj	_	_
+3	tʃopa	tʃop	VERB	vt	Tv=Yes	0	root	_	_
+4	tʃe	tʃe	AUX	aux	_	3	aux	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id =	0010.5032
+# text = ameko tʃaro erekka kete .
+# text_eng = The yellow jaguar meows there (5.31a)
+1	ameko	ameko	NOUN	n	_	3	nsubj	_	_
+2	tʃaro	tʃaro	NOUN	n	_	1	nmod	_	_
+3	erekka	erek	VERB	vt	Trans=Yes	0	root	_	_
+4	kete	kete	ADV	adv	_	3	advmod	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.5042
+# text = pero tetka .
+# text_eng = Call the macaw's name! (5.31b)
+1	pero	pero	NOUN	n	_	2	obj	_	_
+2	tetka	et	VERB	vi	Person=3|Trans=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.5052
+# text = iɨka .
+# text_eng = It boils (5.31c)
+1	iɨka	ɨ	VERB	vi	Person=3|Trans=Yes	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.5062
+# text = ororo pe teakopka .
+# text_eng = clothes are drying (5.31d)
+1	ororo	ororo	NOUN	n	_	2	nmod	_	_
+2	pe	pe	NOUN	n	Reflex=Yes	3	nsubj	_	_
+3	teakopka	akop	VERB	vi	Person=3|Trans=Yes	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.5072
+# text = kwi jãjka .
+# text_eng = He is sharpening the axe (5.31e)
+1	kwi	kwi	NOUN	n	_	2	obj	_	_
+2	jãjka	jãj	VERB	vt	Trans=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.5082
+# text = nako kwiri tʃãka .
+# text_eng = Men are kneading (with a powder) the açaí (5.32a)
+1	nako	nako	NOUN	n	_	3	nsubj	_	_
+2	kwiri	kwiri	NOUN	n	_	3	obj	_	_
+3	tʃãka	tʃã	VERB	vt	Trans=Yes	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.5092
+# text = apara jõmajka .
+# text_eng = I am kneading (with the hands) the banana (5.32b)
+1	apara	apara	NOUN	n	_	2	obj	_	_
+2	jõmajka	jõmaj	VERB	vt	Trans=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
 
