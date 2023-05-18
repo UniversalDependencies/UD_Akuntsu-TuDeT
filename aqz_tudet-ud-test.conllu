@@ -2900,3 +2900,43 @@
 2	jõmajka	jõmaj	VERB	vt	Trans=Yes	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
+# sent_id = 0010.50102
+# text = jõnebo mi ekwa .
+# text_eng = Kill the crickets (5.49d)
+1	jõnebo	jõnebo	NOUN	n	_	2	obj	_	_
+2	mi	mi	VERB	vt	_	0	root	_	_
+3	ekwa	ekwa	PART	pcl	_	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50112
+# text = teipara ekwa .
+# text_eng = He is used to coming back repeatedly (5.50)
+1	teipara	ipar	VERB	vt	Person=3|Reflex=Yes|Tv=Yes	0	root	_	_
+2	ekwa	ekwa	PART	pcl	_	1	case	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.50132
+# text = orẽbõ otʃeta kom .
+# text_eng = I will leave (5.51b)
+1	orẽbõ	orẽ	PRON	pron	Case=Dat|Person=1|PronType=Prs	2	nsubj	_	_
+2	otʃeta	tʃet	VERB	vt	Person=1|Tv=Yes	0	root	_	_
+3	kom	kom	PART	pcl	Tense=Fut	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50142
+# text = oamõjara kom .
+# text_eng = I am going to dance (5.52a)
+1	oamõjara	amõja	VERB	vi	Aspect=Hab|Person=1	0	root	_	_
+2	kom	kom	PART	pcl	Tense=Fut	1	advmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.50152
+# text = tawtʃe mi oamõja kom .
+# text_eng = If the kills the peccary, I will dance (5.52b)
+1	tawtʃe	tawtʃe	NOUN	n	_	2	obj	_	_
+2	mi	mi	VERB	vt	_	0	root	_	_
+3	oamõja	amõja	VERB	vt	Person=1	2	parataxis	_	_
+4	kom	kom	PART	pcl	Tense=Fut	3	advmod	_	_
+5	.	.	PUNCT	punct	_	2	punct	_	_
+
+
