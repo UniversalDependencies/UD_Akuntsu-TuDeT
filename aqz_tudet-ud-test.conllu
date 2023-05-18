@@ -2947,14 +2947,3 @@
 3	kom	kom	PART	pcl	Tense=Fut	2	advmod	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 0010.50172
-# text = Pura teakata kom Pura βuh .
-# text_eng = Purá will fall, Purá will fall (5.54b)
-1	Pura	Pura	PROPN	pn	_	3	nsubj	_	_
-2	teakata	akat	VERB	vt	Person=3|Tv=Yes	0	root	_	_
-3	kom	kom	PART	pcl	Tense=Fut	3	advmod	_	_
-4	Pura	Pura	PROPN	pn	_	2	nsubj	_	_
-5	βuh	βuh	IDEO	ideo	_	0	root	_	_
-6	.	.	PUNCT	punct	_	2	punct	_	_
-
-
