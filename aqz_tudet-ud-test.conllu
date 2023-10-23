@@ -2960,7 +2960,7 @@
 # text = korakora nom aot tejã .
 # text_eng = Chicken is not going out	(5.19c)
 1	korakora	korakora	NOUN	n	_	3	nsubj	_	_
-2	nom	nom	ADV	adv	advmod	3	advmod	_	_
+2	nom	nom	ADV	adv	_	3	advmod	_	_
 3	aot	aot	VERB	vi	_	0	root	_	_
 4	tejã	jã	AUX	aux	Person=3|Reflex=Yes	3	aux	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
@@ -3091,7 +3091,7 @@
 2	atʃoa	atʃo	NOUN	n	Tv=Yes	0	root	_	_
 3	ka	ka	VERB	vi	_	2	aux	_	_
 4	orẽbõ	orẽ	PRON	pron	Case=Dat|Person=1|PronType=Prs	6	nsubj	_	_
-5	nom	nom	ADV	adv	Deixis=Dist	6	advmod	_	_
+5	nom	nom	ADV	adv	_	6	advmod	_	_
 6	atʃorom	atʃo	DET	dem	Polarity=neg	2	parataxis	_	_
 7	.	.	PUNCT	punct	_	2	punct	_	_
 
