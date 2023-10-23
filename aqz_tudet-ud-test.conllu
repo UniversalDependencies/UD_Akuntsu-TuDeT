@@ -3012,7 +3012,7 @@
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.50252
-# text = ɨmɨmere etʃe ojã tʃiramãtɨ eɾekwa .
+# text = ɨmɨmere etʃe ojã tʃiramãtɨ erekwa .
 # text_eng = Over the Omere, I stay, I talk to Txiramanty (5.23b)
 1	ɨmɨmere	ɨmɨmere	PROPN	pn	_	3	obl	_	_
 2	etʃe	etʃe	ADP	posp	_	1	case	_	_
@@ -3041,12 +3041,12 @@
 8	.	.	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 0010.50282
-# text = otʃopa te Enotej teko otʃopa tʃe .
+# text = otʃoa te Enotej teko otʃoa tʃe .
 # text_eng = Enotej sees me, she came to see me (5.24c)
 1	otʃoa	tʃop	VERB	vt	Person=1|Tv=Yes	0	root	_	_
 2	te	te	PART	pclfoc	_	1	discourse	_	_
 3	Enotej	Enotej	PROPN	pn	_	1	nsubj	_	_
-4	teko	teko	NOUN	n	_	1	aux	_	_
+4	teko	teko	AUX	aux	_	1	aux	_	_
 5	otʃoa	tʃop	VERB	vt	Person=1|Tv=Yes	1	parataxis	_	_
 6	tʃe	tʃe	AUX	aux	_	5	aux	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_
@@ -3061,8 +3061,8 @@
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.50302
-# text = Konibu ɨkɨbõ ka (5.26a).
-# text_eng = Konibú is going up to the river
+# text = Konibu ɨkɨbõ ka .
+# text_eng = Konibú is going up to the river (5.26a)
 1	Konibu	Konibu	PROPN	pn	_	3	nsubj	_	_
 2	ɨkɨbõ	ɨkɨ	NOUN	n	Case=All	3	obl	_	_
 3	ka	ka	VERB	vi	_	0	root	_	_
@@ -3077,18 +3077,18 @@
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0010.50322
-# text = en iara ka 
+# text = en iara ka .
 # text_eng = you (go and) get it (5.27a)
 1	en	en	PRON	pron	Person=2|PronType=Prs	2	nsubj	_	_
 2	iara	at	VERB	vt	Person=3|Tv=Yes	0	root	_	_
-3	ka	ka	VERB	vi	_	2	aux	_	_
+3	ka	ka	AUX	aux	_	2	aux	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.50332
 # text = erẽbõ atʃoa ka orẽbõ nom atʃorom .
 # text_eng = You (go and) bathe, I don't bathe (5.27b)
 1	erẽbõ	erẽ	PRON	pron	Case=All|Person=2|PronType=Prs	2	nsubj	_	_
-2	atʃoa	atʃo	NOUN	n	Tv=Yes	0	root	_	_
+2	atʃoa	atʃo	VERB	vi	Tv=Yes	0	root	_	_
 3	ka	ka	VERB	vi	_	2	aux	_	_
 4	orẽbõ	orẽ	PRON	pron	Case=Dat|Person=1|PronType=Prs	6	nsubj	_	_
 5	nom	nom	ADV	adv	_	6	advmod	_	_
