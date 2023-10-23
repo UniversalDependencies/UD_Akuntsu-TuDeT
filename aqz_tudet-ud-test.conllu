@@ -2965,3 +2965,78 @@
 4	tejã	jã	AUX	aux	Person=3|Reflex=Yes	3	aux	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
+# sent_id = 0010.50192
+# text = etʃeta eko .
+# text_eng = You are leaving	(5.20a)
+1	etʃeta	tʃet	VERB	vt	Number=sing|Person=2|Tv=Yes	0	root	_	_
+2	eko	ko	AUX	aux	Number=Sing|Person=2	1	aux	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.50202
+# text = Aramĩra pitoa ata iko .
+# text_eng = Aramira is getting tabacco	(5.20b)
+1	Aramĩra	Aramĩra	PROPN	pn	_	3	nsubj	_	_
+2	pitoa	pitoa	NOUN	n	_	3	obj	_	_
+3	ata	at	VERB	vt	Tv=Yes	0	root	_	_
+4	iko	ko	AUX	aux	Number=sing|Person=3	3	aux	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.50212
+# text = tabɨt tʃopa iko .
+# text_eng = He is going to see the garden (5.20c)
+1	tabɨt	tabɨt	NOUN	n	_	2	obj	_	_
+2	tʃopa	tʃop	VERB	vt	Tv=Yes	0	root	_	_
+3	iko	ko	AUX	aux	Number=sing|Person=3	2	aux	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50222
+# text = kietara kitoa (5.21)
+# text_eng = We are going to sleep once again
+1	kietara	et	VERB	vi	Aspect=Hab|Clusivity=In|Mood=Ind|Person=1|Tv=Yes	0	root	_	_
+2	kitoa	toa	VERB	aux	Clusivity=In|Person=1	1	aux	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.50232
+# text = ameko teeta iãm .
+# text_eng = Jaguar sleeps (5.22)
+1	ameko	ameko	NOUN	n	_	2	nsubj	_	_
+2	teeta	et	VERB	vi	Person=3|Tv=Yes	0	root	_	_
+3	iãm	ãm	VERB	aux	Person=3	2	aux	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50242
+# text = Enotej teȷ̃ã .
+# text = Enotej Stays (5.23a)
+1	Enotej	Enotej	PROPN	pn	_	2	nsubj	_	_
+2	teȷã	ȷã	VERB	vi	Person=3	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50252
+# text = ɨmɨmere etʃe ojã tʃiramãtɨ eɾekkwa .
+# text_eng = Over the Omere, I stay, I talk to Txiramanty (5.23b)
+1	ɨmɨmere	ɨmɨmere	PROPN	pn	_	3	obl	_	_
+2	etʃe	etʃe	ADP	posp	_	1	case	_	_
+3	ojã	jã	VERB	vt	_	0	root	Number=sing|Person=1	_
+4	tʃiramãtɨ	tʃiramãtɨ	PROPN	pn	_	5	nsubj	_	_
+5	erekwa	erek	VERB	vt	Trans=Yes	3	parataxis	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.50262
+# text = oetara otoa .
+# text_eng = I am going to sleep (5.24a)
+1	oetara	et	VERB	vi	Aspect=Hab|Person=1|Tv=Yes	0	root	_	_
+2	otoa	toa	AUX	aux	number=sing|Person=1	1	aux	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.50272
+# text = jẽrom Moẽ kwiri boja jõ ape ojã .
+# text_eng = There, it is Moe where I cut açaí (the tree), here is the path (5.24b)
+1	jẽrom	jẽ	DET	dem	Deixis=Dist	2	det	_	_
+2	Moẽ	Moẽ	NOUN	n	_	4	advmod	_	_
+3	kwiri	kwiri	NOUN	n	_	4	obj	_	_
+4	boja	boja	VERB	vt	_	0	root	_	_
+5	jõ	jõ	NOUN	n	_	6	det	_	_
+6	ape	ape	NOUN	n	_	4	parataxis	_	_
+7	ojã	jã	VERB	vi	Number=sing|Person=1	4	aux	_	_
+8	.	.	PUNCT	punct	_	4	punct	_	_
+
