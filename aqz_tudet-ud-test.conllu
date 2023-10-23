@@ -3097,7 +3097,7 @@
 
 # sent_id = 0010.50342
 # text = iatap tʃe te .
-# text = she is pulling her hair (5.28a)
+# text_eng = she is pulling her hair (5.28a)
 1	iatap	atap	NOUN	n	Person=3	2	obj	_	_
 2	tʃe	tʃe	VERB	vi	_	0	root	_	_
 3	te	te	PART	pclfoc	_	2	discourse	_	_
