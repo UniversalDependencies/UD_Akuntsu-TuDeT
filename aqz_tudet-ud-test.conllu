@@ -3046,7 +3046,7 @@
 1	otʃoa	tʃop	VERB	vt	Person=1|Tv=Yes	0	root	_	_
 2	te	te	PART	pclfoc	_	1	discourse	_	_
 3	Enotej	Enotej	PROPN	pn	_	1	nsubj	_	_
-4	teko	teko	AUX	aux	_	1	aux	_	_
+4	teko	ko	AUX	aux	_	1	aux	_	_
 5	otʃoa	tʃop	VERB	vt	Person=1|Tv=Yes	1	parataxis	_	_
 6	tʃe	tʃe	AUX	aux	_	5	aux	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_
@@ -3089,10 +3089,10 @@
 # text_eng = You (go and) bathe, I don't bathe (5.27b)
 1	erẽbõ	erẽ	PRON	pron	Case=All|Person=2|PronType=Prs	2	nsubj	_	_
 2	atʃoa	atʃo	VERB	vi	Tv=Yes	0	root	_	_
-3	ka	ka	VERB	vi	_	2	aux	_	_
+3	ka	ka	AUX	aux	_	2	aux	_	_
 4	orẽbõ	orẽ	PRON	pron	Case=Dat|Person=1|PronType=Prs	6	nsubj	_	_
 5	nom	nom	ADV	adv	_	6	advmod	_	_
-6	atʃorom	atʃo	DET	dem	Polarity=neg	2	parataxis	_	_
+6	atʃorom	atʃo	DET	dem	_	2	parataxis	_	_
 7	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.50342
@@ -3102,4 +3102,3 @@
 2	tʃe	tʃe	VERB	vi	_	0	root	_	_
 3	te	te	PART	pclfoc	_	2	discourse	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
-
