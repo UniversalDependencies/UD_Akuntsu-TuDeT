@@ -1332,7 +1332,7 @@
 2	ãka	ãka	PART	pcl	_	3	discourse	_	_
 3	put	put	VERB	ideo	_	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
-5	ikɨp	kɨ	NOUN	n	Number=Sing|Person=3	6	obj	_	_
+5	ikɨp	kɨ	NOUN	n	Person=3	6	obj	_	_
 6	pɨtka	pɨt	VERB	vt	Trans=Yes	3	parataxis	_	_
 7	piri	pi	NOUN	n	Case=Abl	6	obl	_	_
 8	put	put	VERB	vi	_	6	parataxis	_	_
@@ -1916,12 +1916,12 @@
 13	weren	weren	VERB	n	_	11	parataxis	_	_
 14	ato	ato	NOUN	n	_	13	nsubj	_	_
 15	.	.	PUNCT	punct	_	13	punct	_	_
-16	awawaʧo	awawaʧo	NOUN	n	Aug=Yes	18	parataxis	_	_
-17	awawaʧo	awawaʧo	NOUN	n	Aug=Yes	18	dep	_	_
+16	awawaʧo	awawaʧo	NOUN	n	_	18	parataxis	_	_
+17	awawaʧo	awawaʧo	NOUN	n	_	18	dep	_	_
 18	pen	pen	VERB	v	_	13	parataxis	_	_
 19	baj	baj	VERB	v	_	18	parataxis	_	_
 20	,	,	PUNCT	punct	_	19	punct	_	_
-21	awawaʧo	awawaʧo	NOUN	n	Aug=Yes	22	dep	_	_
+21	awawaʧo	awawaʧo	NOUN	n	_	22	dep	_	_
 22	pen	pen	VERB	v	_	19	parataxis	_	_
 23	baj	baj	VERB	v	_	22	parataxis	_	_
 24	.	.	PUNCT	punct	_	23	punct	_	_
@@ -2960,7 +2960,7 @@
 # text = korakora nom aot tejã .
 # text_eng = Chicken is not going out	(5.19c)
 1	korakora	korakora	NOUN	n	_	3	nsubj	_	_
-2	nom	nom	ADV	adv	Advmod	3	advmod	_	_
+2	nom	nom	ADV	adv	advmod	3	advmod	_	_
 3	aot	aot	VERB	vi	_	0	root	_	_
 4	tejã	jã	AUX	aux	Person=3|Reflex=Yes	3	aux	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
@@ -2968,8 +2968,8 @@
 # sent_id = 0010.50192
 # text = etʃera eko .
 # text_eng = You are leaving	(5.20a)
-1	etʃera	tʃet	VERB	vt	Number=sing|Person=2|Tv=Yes	0	root	_	_
-2	eko	ko	AUX	aux	Number=Sing|Person=2	1	aux	_	_
+1	etʃera	tʃet	VERB	vt	Person=2|Tv=Yes	0	root	_	_
+2	eko	ko	AUX	aux	Person=2	1	aux	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0010.50202
@@ -2978,7 +2978,7 @@
 1	Aramĩra	Aramĩra	PROPN	pn	_	3	nsubj	_	_
 2	pitoa	pitoa	NOUN	n	_	3	obj	_	_
 3	ara	at	VERB	vt	Tv=Yes	0	root	_	_
-4	iko	ko	AUX	aux	Number=sing|Person=3	3	aux	_	_
+4	iko	ko	AUX	aux	Person=3	3	aux	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0010.50212
@@ -2986,7 +2986,7 @@
 # text_eng = He is going to see the garden (5.20c)
 1	tabɨt	tabɨt	NOUN	n	_	2	obj	_	_
 2	tʃoa	tʃop	VERB	vt	Tv=Yes	0	root	_	_
-3	iko	ko	AUX	aux	Number=sing|Person=3	2	aux	_	_
+3	iko	ko	AUX	aux	Person=3	2	aux	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0010.50222
@@ -3016,7 +3016,7 @@
 # text_eng = Over the Omere, I stay, I talk to Txiramanty (5.23b)
 1	ɨmɨmere	ɨmɨmere	PROPN	pn	_	3	obl	_	_
 2	etʃe	etʃe	ADP	posp	_	1	case	_	_
-3	ojã	jã	VERB	vt	_	0	root	Number=sing|Person=1	_
+3	ojã	jã	VERB	vt	_	0	root	Person=1	_
 4	tʃiramãtɨ	tʃiramãtɨ	PROPN	pn	_	5	nsubj	_	_
 5	erekwa	erek	VERB	vt	Trans=Yes	3	parataxis	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	_
@@ -3025,7 +3025,7 @@
 # text = oetara otoa .
 # text_eng = I am going to sleep (5.24a)
 1	oetara	et	VERB	vi	Aspect=Hab|Person=1|Tv=Yes	0	root	_	_
-2	otoa	toa	AUX	aux	number=sing|Person=1	1	aux	_	_
+2	otoa	toa	AUX	aux	Person=1	1	aux	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0010.50272
@@ -3037,7 +3037,7 @@
 4	boja	boja	VERB	vt	_	0	root	_	_
 5	jõ	jõ	NOUN	n	_	6	det	_	_
 6	ape	ape	NOUN	n	_	4	parataxis	_	_
-7	ojã	jã	VERB	vi	Number=sing|Person=1	4	aux	_	_
+7	ojã	jã	VERB	vi	Person=1	4	aux	_	_
 8	.	.	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 0010.50282
@@ -3079,7 +3079,7 @@
 # sent_id = 0010.50322
 # text = en iara ka 
 # text_eng = you (go and) get it (5.27a)
-1	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+1	en	en	PRON	pron	Person=2|PronType=Prs	2	nsubj	_	_
 2	iara	at	VERB	vt	Person=3|Tv=Yes	0	root	_	_
 3	ka	ka	VERB	vi	_	2	aux	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
@@ -3087,7 +3087,7 @@
 # sent_id = 0010.50332
 # text = erẽbõ atʃoa ka orẽbõ nom atʃorom .
 # text_eng = You (go and) bathe, I don't bathe (5.27b)
-1	erẽbõ	erẽ	PRON	pron	Case=All|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+1	erẽbõ	erẽ	PRON	pron	Case=All|Person=2|PronType=Prs	2	nsubj	_	_
 2	atʃoa	atʃo	NOUN	n	Tv=Yes	0	root	_	_
 3	ka	ka	VERB	vi	_	2	aux	_	_
 4	orẽbõ	orẽ	PRON	pron	Case=Dat|Person=1|PronType=Prs	6	nsubj	_	_
