@@ -1327,8 +1327,8 @@
 # sent_id = 0011.13
 # text = ikɨp ãka put . ikɨp pɨtka piri put mãpara .
 # text_eng = Her leg that way hit it. Her leg pierced because of the foot, it is over.
-# text_port =
-1	ikɨp	kɨp	NOUN	n	Person=3	3	obj	_	_
+# text_port = A perna dela, assim, picou. Furou a perna dela, foi por causa do pé, (mas) já acabou.
+1	ikɨp	kɨp	NOUN	n	Number=Sing|Person=3	3	obj	_	_
 2	ãka	ãka	PART	pcl	_	3	discourse	_	_
 3	put	put	VERB	ideo	_	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
@@ -1916,12 +1916,12 @@
 13	weren	weren	VERB	n	_	11	parataxis	_	_
 14	ato	ato	NOUN	n	_	13	nsubj	_	_
 15	.	.	PUNCT	punct	_	13	punct	_	_
-16	awawaʧo	awawaʧo	NOUN	n	Degree=Aug	18	parataxis	_	_
-17	awawaʧo	awawaʧo	NOUN	n	Degree=Aug	18	dep	_	_
+16	awawaʧo	awawaʧo	NOUN	n	_	18	parataxis	_	_
+17	awawaʧo	awawaʧo	NOUN	n	_	18	dep	_	_
 18	pen	pen	VERB	v	_	13	parataxis	_	_
 19	baj	baj	VERB	v	_	18	parataxis	_	_
 20	,	,	PUNCT	punct	_	19	punct	_	_
-21	awawaʧo	awawaʧo	NOUN	n	Degree=Aug	22	dep	_	_
+21	awawaʧo	awawaʧo	NOUN	n	_	22	dep	_	_
 22	pen	pen	VERB	v	_	19	parataxis	_	_
 23	baj	baj	VERB	v	_	22	parataxis	_	_
 24	.	.	PUNCT	punct	_	23	punct	_	_
@@ -2899,4 +2899,207 @@
 1	apara	apara	NOUN	n	_	2	obj	_	_
 2	jõmajka	jõmaj	VERB	vt	Trans=Yes	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50102
+# text = jõnebo mi ekwa .
+# text_eng = Kill the crickets (5.49d)
+1	jõnebo	jõnebo	NOUN	n	_	2	obj	_	_
+2	mi	mi	VERB	vt	_	0	root	_	_
+3	ekwa	ekwa	PART	pcl	_	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50112
+# text = teipara ekwa .
+# text_eng = He is used to coming back repeatedly (5.50)
+1	teipara	ipar	VERB	vt	Person=3|Reflex=Yes|Tv=Yes	0	root	_	_
+2	ekwa	ekwa	PART	pcl	_	1	case	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.50132
+# text = orẽbõ otʃeta kom .
+# text_eng = I will leave (5.51b)
+1	orẽbõ	orẽ	PRON	pron	Case=Dat|Person=1|PronType=Prs	2	nsubj	_	_
+2	otʃeta	tʃet	VERB	vt	Person=1|Tv=Yes	0	root	_	_
+3	kom	kom	PART	pcl	Tense=Fut	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50142
+# text = oamõjara kom .
+# text_eng = I am going to dance (5.52a)
+1	oamõjara	amõja	VERB	vi	Aspect=Hab|Person=1	0	root	_	_
+2	kom	kom	PART	pcl	Tense=Fut	1	advmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.50152
+# text = tawtʃe mi oamõja kom .
+# text_eng = If the kills the peccary, I will dance (5.52b)
+1	tawtʃe	tawtʃe	NOUN	n	_	2	obj	_	_
+2	mi	mi	VERB	vt	_	0	root	_	_
+3	oamõja	amõja	VERB	vt	Person=1	2	parataxis	_	_
+4	kom	kom	PART	pcl	Tense=Fut	3	advmod	_	_
+5	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50162
+# text = kojõpibõ iat kom .
+# text_eng = At night (he) will pick it up (5.54a)
+1	kojõpibõ	kojõpi	NOUN	n	Case=All	2	obj	_	_
+2	iat	at	VERB	vt	Person=3	0	root	_	_
+3	kom	kom	PART	pcl	Tense=Fut	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50172
+# text = karã ata on kom .
+# text_eng = I will take Brazil.nut (5.55b)
+1	karã	karã	NOUN	n	_	2	obj	_	_
+2	ata	at	VERB	vt	Tv=Yes	0	root	_	_
+3	on	on	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	kom	kom	PART	pcl	Tense=Fut	2	advmod	_	_
+5	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50182
+# text = korakora nom aot tejã .
+# text_eng = Chicken is not going out	(5.19c)
+1	korakora	korakora	NOUN	n	_	3	nsubj	_	_
+2	nom	nom	ADV	adv	_	3	advmod	_	_
+3	aot	aot	VERB	vi	_	0	root	_	_
+4	tejã	jã	AUX	aux	Person=3|Reflex=Yes	3	aux	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.50192
+# text = etʃera eko .
+# text_eng = You are leaving	(5.20a)
+1	etʃera	tʃet	VERB	vt	Person=2|Tv=Yes	0	root	_	_
+2	eko	ko	AUX	aux	Person=2	1	aux	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.50202
+# text = Aramĩra pitoa ara iko .
+# text_eng = Aramira is getting tabacco	(5.20b)
+1	Aramĩra	Aramĩra	PROPN	pn	_	3	nsubj	_	_
+2	pitoa	pitoa	NOUN	n	_	3	obj	_	_
+3	ara	at	VERB	vt	Tv=Yes	0	root	_	_
+4	iko	ko	AUX	aux	Person=3	3	aux	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.50212
+# text = tabɨt tʃoa iko .
+# text_eng = He is going to see the garden (5.20c)
+1	tabɨt	tabɨt	NOUN	n	_	2	obj	_	_
+2	tʃoa	tʃop	VERB	vt	Tv=Yes	0	root	_	_
+3	iko	ko	AUX	aux	Person=3	2	aux	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50222
+# text = kietara kitoa .
+# text_eng = We are going to sleep once again (5.21)
+1	kietara	et	VERB	vi	Aspect=Hab|Clusivity=In|Mood=Ind|Person=1|Tv=Yes	0	root	_	_
+2	kitoa	toa	AUX	aux	Clusivity=In|Person=1	1	aux	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.50232
+# text = ameko teeta iam .
+# text_eng = Jaguar sleeps (5.22)
+1	ameko	ameko	NOUN	n	_	2	nsubj	_	_
+2	teeta	et	VERB	vi	Person=3|Tv=Yes	0	root	_	_
+3	iam	am	AUX	aux	Person=3	2	aux	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50242
+# text = Enotej teȷã .
+# text_eng = Enotej Stays (5.23a)
+1	Enotej	Enotej	PROPN	pn	_	2	nsubj	_	_
+2	teȷã	ȷã	VERB	vi	Person=3	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50252
+# text = ɨmɨmere etʃe ojã tʃiramãtɨ erekwa .
+# text_eng = Over the Omere, I stay, I talk to Txiramanty (5.23b)
+1	ɨmɨmere	ɨmɨmere	PROPN	pn	_	3	obl	_	_
+2	etʃe	etʃe	ADP	posp	_	1	case	_	_
+3	ojã	jã	VERB	vt	_	0	root	_	_
+4	tʃiramãtɨ	tʃiramãtɨ	PROPN	pn	_	5	nsubj	_	_
+5	erekwa	erek	VERB	vt	Trans=Yes	3	parataxis	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.50262
+# text = oetara otoa .
+# text_eng = I am going to sleep (5.24a)
+1	oetara	et	VERB	vi	Aspect=Hab|Tv=Yes	0	root	_	_
+2	otoa	toa	AUX	_	_	1	aux	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0010.50272
+# text = jẽrom Moẽ kwiri boja jõ ape ojã .
+# text_eng = There, it is Moe where I cut açaí (the tree), here is the path (5.24b)
+1	jẽrom	jẽ	DET	dem	Deixis=Dist	2	det	_	_
+2	Moẽ	Moẽ	ADV	adv	_	4	advmod	_	_
+3	kwiri	kwiri	NOUN	n	_	4	obj	_	_
+4	boja	boja	VERB	vt	_	0	root	_	_
+5	jõ	jõ	DET	det	_	6	det	_	_
+6	ape	ape	NOUN	n	_	4	parataxis	_	_
+7	ojã	jã	AUX	_	Person=1	4	aux	_	_
+8	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 0010.50282
+# text = otʃoa te Enotej teko otʃoa tʃe .
+# text_eng = Enotej sees me, she came to see me (5.24c)
+1	otʃoa	tʃop	VERB	vt	Person=1|Tv=Yes	0	root	_	_
+2	te	te	PART	pclfoc	_	1	discourse	_	_
+3	Enotej	Enotej	PROPN	pn	_	1	nsubj	_	_
+4	teko	ko	AUX	aux	_	1	aux	_	_
+5	otʃoa	tʃop	VERB	vt	Person=1|Tv=Yes	1	parataxis	_	_
+6	tʃe	tʃe	AUX	aux	_	5	aux	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.50292
+# text = mapi ata kom iko .
+# text_eng = He is going to take the arrow (5.25)
+1	mapi	mapi	NOUN	n	_	2	obj	_	_
+2	ata	at	VERB	vt	Tv=Yes	0	root	_	_
+3	kom	kom	PART	pcl	Tense=Fut	2	discourse	_	_
+4	iko	ko	AUX	aux	Person=3	2	aux	_	_
+5	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50302
+# text = Konibu ɨkɨbõ ka .
+# text_eng = Konibú is going up to the river (5.26a)
+1	Konibu	Konibu	PROPN	pn	_	3	nsubj	_	_
+2	ɨkɨbõ	ɨkɨ	NOUN	n	Case=All	3	obl	_	_
+3	ka	ka	VERB	vi	_	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.50312
+# text = otʃipap tabɨtõ ka .
+# text_eng = My grandmother went to the garden (5.26a)
+1	otʃipap	tʃipap	NOUN	n	Person=1	3	nsubj	_	_
+2	tabɨtõ	tabɨt	NOUN	n	Case=All	3	obl	_	_
+3	ka	ka	VERB	vi	_	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.50322
+# text = en iara ka .
+# text_eng = you (go and) get it (5.27a)
+1	en	en	PRON	pron	Person=2|PronType=Prs	2	nsubj	_	_
+2	iara	at	VERB	vt	Person=3|Tv=Yes	0	root	_	_
+3	ka	ka	AUX	aux	_	2	aux	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50332
+# text = erẽbõ atʃoa ka orẽbõ nom atʃorom .
+# text_eng = You (go and) bathe, I don't bathe (5.27b)
+1	erẽbõ	erẽ	PRON	pron	Case=All|Person=2|PronType=Prs	2	nsubj	_	_
+2	atʃoa	atʃo	VERB	vi	Tv=Yes	0	root	_	_
+3	ka	ka	AUX	aux	_	2	aux	_	_
+4	orẽbõ	orẽ	PRON	pron	Case=Dat|Person=1|PronType=Prs	6	nsubj	_	_
+5	nom	nom	ADV	adv	_	6	advmod	_	_
+6	atʃorom	atʃo	DET	dem	_	2	parataxis	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50342
+# text = iatap tʃe te .
+# text_eng = she is pulling her hair (5.28a)
+1	iatap	atap	NOUN	n	Person=3	2	obj	_	_
+2	tʃe	tʃe	VERB	vi	_	0	root	_	_
+3	te	te	PART	pclfoc	_	2	discourse	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
 
